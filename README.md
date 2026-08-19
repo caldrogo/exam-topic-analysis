@@ -1,6 +1,8 @@
 # Exam Topic Analysis
 
-An AI-assisted prototype that quantifies topic distributions across past exam papers — built to answer the recurring student question: *"which topics come up most often?"*. A Streamlit dashboard is deployed [here][https://exam-topic-analysis-1.streamlit.app/]
+An AI-assisted prototype that quantifies topic distributions across past exam papers — built to answer the recurring student question: *"which topics come up most often?"*. A Streamlit dashboard is deployed [here](https://exam-topic-analysis-1.streamlit.app/).
+
+!(screenshot.png)
 
 ## Motivation
 
