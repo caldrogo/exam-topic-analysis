@@ -7,8 +7,6 @@ Expects a real data file at ./tagged_questions.csv with columns:
     question_text, marks, topic
 (paper_type in {"non_calculator", "calculator"}, session_code in {"m","s","w"})
 
-If that file isn't present, the app falls back to synthetic demo data so the
-UI can be built/demoed before the tagging pipeline (Phase 0-1) is finished.
 """
 
 import streamlit as st
@@ -17,7 +15,7 @@ import numpy as np
 import plotly.express as px
 from pathlib import Path
 
-from topic_list import TOPIC_LIST
+from config.topic_list import TOPIC_LIST
 
 st.set_page_config(page_title="IGCSE Topic Explorer", layout="wide")
 
@@ -25,56 +23,19 @@ DATA_PATH = Path("tagged_questions.csv")
 
 
 
+
 SESSION_ORDER = {"m": 1, "s": 2, "w": 3}  # Mar/May, May/Jun, Oct/Nov — chronological within a year
 SESSION_NAME = {"m": "Mar/May", "s": "May/Jun", "w": "Oct/Nov"}
 
 
-def generate_demo_data(n_years: int = 10, seed: int = 42) -> pd.DataFrame:
-    """Synthetic stand-in matching the real pipeline's output schema."""
-    rng = np.random.default_rng(seed)
-    years = list(range(2015, 2015 + n_years))
-    paper_types = {"2": "non_calculator", "4": "calculator"}
-    base_weights = rng.dirichlet(np.ones(len(TOPIC_LIST)) * 3)
-
-    rows, qid = [], 0
-    for year in years:
-        year_weights = rng.dirichlet(base_weights * 20)  # yearly wobble around the base distribution
-        for session in ["m", "s", "w"]:
-            for pnum, ptype in paper_types.items():
-                n_q = rng.integers(25, 31)
-                for qn in range(1, n_q + 1):
-                    topic = rng.choice(TOPIC_LIST, p=year_weights)
-                    marks = int(rng.choice([1, 2, 3, 4, 5, 6], p=[.15, .25, .25, .15, .1, .1]))
-                    rows.append({
-                        "filename": f"0607_{session}{str(year)[2:]}_qp_{pnum}2.json",
-                        "year": year,
-                        "session_code": session,
-                        "paper_type": ptype,
-                        "question_number": str(qn),
-                        "question_text": f"[Demo question] Item {qid} assessing {topic.lower()}.",
-                        "marks": marks,
-                        "topic": topic,
-                    })
-                    qid += 1
-    return pd.DataFrame(rows)
-
-
 @st.cache_data
 def load_data() -> tuple[pd.DataFrame, bool]:
-    if DATA_PATH.exists():
-        return pd.read_csv(DATA_PATH), False
-    return generate_demo_data(), True
+    return pd.read_csv(DATA_PATH), False
 
 
 df, using_demo = load_data()
 
 st.title("IGCSE International Mathematics — Exam Topic Explorer")
-if using_demo:
-    st.warning(
-        "Showing SYNTHETIC demo data — drop a real `tagged_questions.csv` "
-        "next to this app to switch to actual past-paper data.",
-        icon="⚠️",
-    )
 
 tab1, tab2 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic"])
 
