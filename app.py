@@ -17,9 +17,9 @@ from pathlib import Path
 
 st.set_page_config(page_title="IGCSE Topic Explorer", layout="wide")
 
-DATA_PATH = Path("tagged_questions.csv")
+DATA_PATH = Path("data/tagged_questions.csv")
 
-from topic_list import TOPIC_LIST
+from src.topic_list import TOPIC_LIST
 
 
 SESSION_ORDER = {"m": 1, "s": 2, "w": 3}  # Mar/May, May/Jun, Oct/Nov — chronological within a year
