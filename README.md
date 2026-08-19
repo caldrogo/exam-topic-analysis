@@ -1,8 +1,10 @@
 # Exam Topic Analysis
 
-An AI-assisted prototype that quantifies topic distributions across past exam papers — built to answer the recurring student question: *"which topics come up most often?"*. A Streamlit dashboard is deployed [here](https://exam-topic-analysis-k9ojtdrdf5mafesnjur9vm.streamlit.app/).
+An AI-assisted prototype that quantifies topic distributions across past exam papers — built to answer the recurring student question: *"which topics come up most often?"*. 
 
 ![Screenshot of dashboard](screenshot.png)
+
+🔗 **Live Demo:** [http://ec2-18-132-200-207.eu-west-2.compute.amazonaws.com/](http://ec2-18-132-200-207.eu-west-2.compute.amazonaws.com/)
 
 ## Motivation
 
@@ -27,6 +29,17 @@ Students preparing for exams often ask which topics are most likely to appear, b
 - **Python**
 - **Google ADK** — agent framework used for PDF parsing and question classification
 - **Streamlit** — interactive dashboard for visualising results
+
+## Deployment & Architecture
+
+This application is containerized using **Docker**, pushed to **Amazon Elastic Container Registry (ECR)**, and deployed on an **AWS EC2** instance[cite: 1].
+
+- **Container Runtime:** Docker (Streamlit app + dependencies)[cite: 1]
+- **Image Registry:** Amazon ECR[cite: 1]
+- **Cloud Hosting:** AWS EC2 (`t3.micro` / Amazon Linux)[cite: 1]
+- **Network & Security:** Configured custom EC2 Inbound Security Groups to expose port 80[cite: 1]
+
+🔗 **Live Demo:** [http://ec2-18-132-200-207.eu-west-2.compute.amazonaws.com/](http://ec2-18-132-200-207.eu-west-2.compute.amazonaws.com/)
 
 ## Status
 
