@@ -28,11 +28,11 @@ def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> d
         "top_disagreements": disagreement_pairs.head(10),
     }
 
-hand_coded_df = pd.read_csv("manifest_sample.csv")
+hand_coded_df = pd.read_csv("data/manifest_sample.csv")
 
 print(f"Hand-coded questions df: {hand_coded_df.head()}")
 
-llm_tagged_df = pd.read_csv("llm_tags_backup.csv")
+llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
 
 results = compute_kappa(hand_coded_df, llm_tagged_df)
 
