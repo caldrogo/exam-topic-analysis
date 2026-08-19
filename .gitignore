@@ -1,0 +1,9 @@
+papers_json/
+papers_raw/
+.venv/
+__pycache__/
+
+llm_tags_backup.csv
+llm_tags_checkpoint.csv
+manifest_full.csv
+manifest_sample.csv
