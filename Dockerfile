@@ -16,7 +16,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app.py /app/
 COPY data/tagged_questions.csv /app/data/
 COPY src/topic_list.py /app/src/
-
+COPY src/calculate_kappa.py /app/src/
 # Expose Streamlit's default port
 EXPOSE 8501
 
