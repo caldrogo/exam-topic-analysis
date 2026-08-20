@@ -12,7 +12,7 @@ ENV PYTHONUNBUFFERED=1
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy everything in app/ (app.py, data.csv) into the container
+# Copy everything needed into the container
 COPY app.py /app/
 COPY data/tagged_questions.csv /app/data/
 COPY src/topic_list.py /app/src/

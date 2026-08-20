@@ -103,10 +103,10 @@ with tab2:
 with tab3:
     st.subheader("See the statistics on the LLM topic-matching")
 
-hand_coded_df = pd.read_csv("data/manifest_sample.csv")
-llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
-results = compute_kappa(hand_coded_df, llm_tagged_df)
+    hand_coded_df = pd.read_csv("data/manifest_sample.csv")
+    llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
+    results = compute_kappa(hand_coded_df, llm_tagged_df)
 
-st.write(f"Cohen's Kappa: {results['kappa']:.4f}")
-st.write(f"Number of questions compared: {results['n_compared']}")
-st.write(f"Agreement rate: {results['agreement_rate']:.2%}")
+    st.write(f"Cohen's Kappa: {results['kappa']:.4f}")
+    st.write(f"Number of questions compared: {results['n_compared']}")
+    st.write(f"Agreement rate: {results['agreement_rate']:.2%}")
