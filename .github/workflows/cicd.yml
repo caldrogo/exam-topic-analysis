@@ -74,7 +74,6 @@ jobs:
           
           docker pull ${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPOSITORY }}:latest
           
-          docker ps -q --filter "ancestor=${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPOSITORY }}:latest" | xargs -r docker stop
           docker rm -f app || true
           
           docker run -d --name app --restart unless-stopped -p 80:8501 ${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPOSITORY }}:latest
