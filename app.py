@@ -39,7 +39,7 @@ tab1, tab2 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic"])
 
 # ---------------------------------------------------------------- TAB 1 ----
 with tab1:
-    st.subheader("Share of marks by topic and year - CI/CD Test 3")
+    st.subheader("Share of marks by topic and year")
 
     scope = st.radio("Paper type", ["Combined", "Non-calculator", "Calculator"], horizontal=True)
     if scope == "Non-calculator":
