@@ -15,10 +15,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy everything needed into the container
 COPY app.py /app/
 COPY data/tagged_questions.csv /app/data/
-COPY src/topic_list.py /app/src/
-COPY src/calculate_kappa.py /app/src/
 COPY data/manifest_sample.csv /app/data/
 COPY data/llm_tags_backup.csv /app/data/
+COPY src/topic_list.py /app/src/
+COPY src/calculate_kappa.py /app/src/
+
 # Expose Streamlit's default port
 EXPOSE 8501
 
