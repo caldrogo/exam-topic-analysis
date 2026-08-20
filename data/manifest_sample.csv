@@ -1,0 +1,63 @@
+filename,syllabus,session_code,session_name,year,paper_number,paper_type,variant,question_number,question_text,marks,time_period,stratum,human_topic
+0607_m22_qp_42.json,0607,m,Mar/May,2022,4,calculator,2,5(a)(iii),Use your answer to part (ii) to solve the equation 4x^2 + 12x + 5 = 0.,2,late,calculator | late,solving quadratic equations
+0607_m23_qp_42.json,0607,m,Mar/May,2023,4,calculator,2,2(c),Reflect triangle B in the line y = 1. Label the image D.,2,late,calculator | late,transformations
+0607_s15_qp_41.json,0607,s,May/Jun,2015,4,calculator,1,6(c)(ii),List the elements of A' ∩ C,1,early,calculator | early,sets and Venn diagrams
+0607_s15_qp_41.json,0607,s,May/Jun,2015,4,calculator,1,7(d),Write your answer to part (c) in standard form.,1,early,calculator | early,topics in arithmetic
+0607_s15_qp_41.json,0607,s,May/Jun,2015,4,calculator,1,9(b)(ii),Find the mean amount spent in one week,1,early,calculator | early,statistics
+0607_s15_qp_42.json,0607,s,May/Jun,2015,4,calculator,2,12(c)(ii),Simplify: g(x) - 1/f(x),3,early,calculator | early,functions
+0607_s16_qp_21.json,0607,s,May/Jun,2016,2,non_calculator,1,5(b)(i),There are 5000 beads in the jar altogether. Estimate the number of green beads in the jar.,1,early,non_calculator | early,probability
+0607_s16_qp_43.json,0607,s,May/Jun,2016,4,calculator,3,1(a)(iv),Write the number 13205.17268 correct to the nearest 0.001.,1,early,calculator | early,topics in arithmetic
+0607_s17_qp_21.json,0607,s,May/Jun,2017,2,non_calculator,1,3,Expand. x(x^3 - 4x),2,early,non_calculator | early,expanding and factorising
+0607_s18_qp_22.json,0607,s,May/Jun,2018,2,non_calculator,2,11(a),"Here are the first four terms of a sequence: 13, 9, 5, 1. Write down the next term.",1,early,non_calculator | early,sequences
+0607_s18_qp_43.json,0607,s,May/Jun,2018,4,calculator,3,12(e),Find h^(-1)(7).,2,early,calculator | early,functions
+0607_s19_qp_43.json,0607,s,May/Jun,2019,4,calculator,3,7(a)(i),Sergio invests $2000 at a rate of 3% per year compound interest. Find the value of his investment at the end of 5 years.,3,early,calculator | early,topics in arithmetic
+0607_s19_qp_43.json,0607,s,May/Jun,2019,4,calculator,3,9(b)(ii),Solve the following inequality: 1 / (x - 2) > 3,3,early,calculator | early,inequalities
+0607_s20_qp_21.json,0607,s,May/Jun,2020,2,non_calculator,1,1,A cuboid has a square base of side 10 cm and a volume of 1200 cm^3. Work out the height of the cuboid.,2,early,non_calculator | early,mensuration
+0607_s20_qp_41.json,0607,s,May/Jun,2020,4,calculator,1,2(b)(v)(b),Use the frequency table to calculate an estimate of the mean.,2,early,calculator | early,statistics
+0607_s20_qp_43.json,0607,s,May/Jun,2020,4,calculator,3,5(a)(iii),"An enlargement, centre (2, -1), scale factor 3, maps triangle G onto triangle H. Describe fully the single transformation that maps triangle H onto triangle G.",2,early,calculator | early,transformations
+0607_s20_qp_43.json,0607,s,May/Jun,2020,4,calculator,3,11(b),Use the sine rule to calculate angle ABC.,3,early,calculator | early,trigonometry
+0607_s21_qp_21.json,0607,s,May/Jun,2021,2,non_calculator,1,2(a),Write 5249.6 correct to two significant figures.,1,late,non_calculator | late,topics in arithmetic
+0607_s21_qp_23.json,0607,s,May/Jun,2021,2,non_calculator,3,14,"A = P(1 + x)^3
+Rearrange the formula to write x in terms of A and P.",3,late,non_calculator | late,expanding and factorising
+0607_s21_qp_41.json,0607,s,May/Jun,2021,4,calculator,1,4(c),"On the grid, draw a cumulative frequency curve.",3,late,calculator | late,statistics
+0607_s21_qp_42.json,0607,s,May/Jun,2021,4,calculator,2,8(a)(i),"y is inversely proportional to the square root of x. When x = 25, y = 0.05. Show that y = 1 / (4∑∑) [Note: actual formula is 1 / (4∑∑x)] Show that y = 1 / (4∑∑x).",2,late,calculator | late,variation and proportion
+0607_s22_qp_22.json,0607,s,May/Jun,2022,2,non_calculator,2,2(a),Write the fraction 15/40 in its lowest terms.,1,late,non_calculator | late,topics in arithmetic
+0607_s23_qp_21.json,0607,s,May/Jun,2023,2,non_calculator,1,1(c),Write down a prime number between 80 and 90.,1,late,non_calculator | late,sets and Venn diagrams
+0607_s23_qp_41.json,0607,s,May/Jun,2023,4,calculator,1,9(b),Calculate the area of triangle ABC.,2,late,calculator | late,Pythagoras
+0607_s23_qp_42.json,0607,s,May/Jun,2023,4,calculator,2,1(b),"For each of these sequences, find the next term and an expression for the nth term.
+1/2 2/3 3/4 4/5 5/6 ...",2,late,calculator | late,sequences
+0607_s24_qp_21.json,0607,s,May/Jun,2024,2,non_calculator,1,13,Sara has a bag containing 4 yellow balls and 5 white balls. Sara takes a ball from the bag at random without replacement. She then takes a second ball from the bag at random. Find the probability that the two balls are different colours.,3,late,non_calculator | late,probability
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(b)(i),"On the Venn diagram, shade A U B.",1,late,calculator | late,sets and Venn diagrams
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(b)(ii)(a),Use the information in the table to complete the cumulative frequency table.,2,late,calculator | late,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,5(b),Find the zeros of f(x).,3,late,calculator | late,functions
+0607_s25_qp_42.json,0607,s,May/Jun,2025,4,calculator,2,12(a),Paula bought a house on 1 January 2023. On 1 January 2024 the value of the house increased by 10%. On 1 January 2025 the value of the house increased by 6% of its value on 1 January 2024. The value of the house on 1 January 2025 was $215710. Calculate the amount Paula paid for the house in 2023.,3,late,calculator | late,topics in arithmetic
+0607_w14_qp_23.json,0607,w,Oct/Nov,2014,2,non_calculator,3,4(b)(i),Simplify. (x^3)^4,1,early,non_calculator | early,expanding and factorising
+0607_w14_qp_41.json,0607,w,Oct/Nov,2014,4,calculator,1,6(a)(i),Find the vector OC in terms of a and b. Write each answer in its simplest form.,1,early,calculator | early,vectors
+0607_w15_qp_23.json,0607,w,Oct/Nov,2015,2,non_calculator,3,4,Write 0.72 as a fraction in its lowest terms.,1,early,non_calculator | early,topics in arithmetic
+0607_w15_qp_43.json,0607,w,Oct/Nov,2015,4,calculator,3,8(a)(i),Solve the inequality 2(x - 3) < 5(x + 3).,3,early,calculator | early,inequalities
+0607_w16_qp_21.json,0607,w,Oct/Nov,2016,2,non_calculator,1,8,"A, B, C and D lie on the circle, centre O. Work out the value of y.",3,early,non_calculator | early,circle theorems
+0607_w16_qp_42.json,0607,w,Oct/Nov,2016,4,calculator,2,6(b),"Describe fully the single transformation that is the inverse of a rotation of 90° clockwise, centre (2, 3),",2,early,calculator | early,transformations
+0607_w16_qp_43.json,0607,w,Oct/Nov,2016,4,calculator,3,6(a),"The diagram shows the points A(-1, -1), B(1, 3) and C(6, 3). The points A, B, C and D are the vertices of a parallelogram. Write down the co-ordinates of the three possible positions of D.",3,early,calculator | early,transformations
+0607_w17_qp_41.json,0607,w,Oct/Nov,2017,4,calculator,1,3(a),The nth term of a sequence is n^2 + 3n. Find the first four terms of this sequence.,2,early,calculator | early,sequences
+0607_w17_qp_42.json,0607,w,Oct/Nov,2017,4,calculator,2,4(b),Find the two values of x for which f(x) does not exist.,2,early,calculator | early,functions
+0607_w17_qp_42.json,0607,w,Oct/Nov,2017,4,calculator,2,8(a)(ii),"not 3,",1,early,calculator | early,probability
+0607_w17_qp_43.json,0607,w,Oct/Nov,2017,4,calculator,3,4(a),Calculate an estimate of the mean mass of a peach. Give your answer correct to the nearest gram.,3,early,calculator | early,probability
+0607_w18_qp_22.json,0607,w,Oct/Nov,2018,2,non_calculator,2,14(a),Find the value of n when log 5 + log 3 - log 2 = log n.,1,early,non_calculator | early,logarithms
+0607_w18_qp_42.json,0607,w,Oct/Nov,2018,4,calculator,2,8(b)(ii),Calculate the probability that they are both members of the set (C union H) intersect T'.,3,early,calculator | early,probability
+0607_w18_qp_43.json,0607,w,Oct/Nov,2018,4,calculator,3,2(d),"Stretch triangle T, stretch factor 3 and x-axis invariant.",2,early,calculator | early,transformations
+0607_w20_qp_21.json,0607,w,Oct/Nov,2020,2,non_calculator,1,6,"The mean of 5 numbers is 12.
+The mean of 3 of these numbers is 8.
+Find the mean of the other two numbers.",3,early,non_calculator | early,statistics
+0607_w20_qp_41.json,0607,w,Oct/Nov,2020,4,calculator,1,10(d),Find the area of quadrilateral ABCD.,4,early,calculator | early,mensuration
+0607_w21_qp_23.json,0607,w,Oct/Nov,2021,2,non_calculator,3,9,Expand the brackets and simplify: 5x(2 - 3x) - 3x(3x - 2),2,late,non_calculator | late,expanding and factorising
+0607_w22_qp_22.json,0607,w,Oct/Nov,2022,2,non_calculator,2,9,"y is inversely proportional to x^3. When x = 5, y = 2. Find y when x = 10.",3,late,non_calculator | late,variation and proportion
+0607_w22_qp_41.json,0607,w,Oct/Nov,2022,4,calculator,1,2(e),Which of your two answers to part (d) is likely to be more reliable? Give a reason for your answer.,1,late,calculator | late,statistics
+0607_w22_qp_41.json,0607,w,Oct/Nov,2022,4,calculator,1,5(e),Find the x-coordinate of each point of intersection of the two graphs.,2,late,calculator | late,functions
+0607_w22_qp_43.json,0607,w,Oct/Nov,2022,4,calculator,3,5(a)(ii),Kris spends 30.8% of his $80 on a book. Calculate the cost of the book.,2,late,calculator | late,topics in arithmetic
+0607_w22_qp_43.json,0607,w,Oct/Nov,2022,4,calculator,3,8(c),Calculate the area of the pentagon ABCDE.,4,late,calculator | late,mensuration
+0607_w23_qp_41.json,0607,w,Oct/Nov,2023,4,calculator,1,4(c)(i),Describe fully the single transformation that maps triangle T onto triangle A.,2,late,calculator | late,transformations
+0607_w24_qp_22.json,0607,w,Oct/Nov,2024,2,non_calculator,2,8,Work out \frac{3}{11} \div \frac{1}{2} .,2,late,non_calculator | late,topics in arithmetic
+0607_w24_qp_42.json,0607,w,Oct/Nov,2024,4,calculator,2,1(a),The line 2x + 3y = 12 crosses the x-axis at P and the y-axis at Q. Find the coordinates of P and the coordinates of Q.,2,late,calculator | late,straight lines
+0607_w25_qp_21.json,0607,w,Oct/Nov,2025,2,non_calculator,1,11(c)(i),"Two of the 20 numbers are picked at random without replacement.
+Find the probability that both numbers are in (A \u222a B)' \u2229 C",2,late,non_calculator | late,probability
+0607_w25_qp_41.json,0607,w,Oct/Nov,2025,4,calculator,1,15(b),The graph of y = f(x) is mapped onto the graph of y = g(x) by a translation vector \begin{pmatrix} 1 \\ 0 \end{pmatrix}. Find g(x) in terms of x.,2,late,calculator | late,functions

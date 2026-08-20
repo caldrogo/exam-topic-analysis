@@ -4,6 +4,4 @@ papers_raw/
 __pycache__/
 
 data/llm_tags_backup.csv
-data/llm_tags_checkpoint.csv
 data/manifest_full.csv
-data/manifest_sample.csv
