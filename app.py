@@ -39,7 +39,7 @@ tab1, tab2 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic"])
 
 # ---------------------------------------------------------------- TAB 1 ----
 with tab1:
-    st.subheader("Share of marks by topic and year")
+    st.subheader("Share of marks by topic and year - CI/CD Test")
 
     scope = st.radio("Paper type", ["Combined", "Non-calculator", "Calculator"], horizontal=True)
     if scope == "Non-calculator":
@@ -71,7 +71,7 @@ with tab1:
         "Prototype note: cells currently show **raw** yearly proportions. "
         "The full pipeline will replace these with bootstrap-smoothed estimates "
         "and a per-topic stability score, so a topic's *displayed* share may "
-        "still be noisy on a small per-year sample. blah"
+        "still be noisy on a small per-year sample."
     )
 
 # ---------------------------------------------------------------- TAB 2 ----
