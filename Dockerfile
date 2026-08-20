@@ -17,7 +17,7 @@ COPY app.py /app/
 COPY data/tagged_questions.csv /app/data/
 COPY src/topic_list.py /app/src/
 COPY src/calculate_kappa.py /app/src/
-COPY data/manifest_sample.py /app/data/
+COPY data/manifest_sample.csv /app/data/
 COPY data/llm_tags_backup.csv /app/data/
 # Expose Streamlit's default port
 EXPOSE 8501
