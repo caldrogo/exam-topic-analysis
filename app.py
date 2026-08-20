@@ -14,6 +14,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from pathlib import Path
+from src.calculate_kappa import compute_kappa
 
 st.set_page_config(page_title="IGCSE Topic Explorer", layout="wide")
 
@@ -35,7 +36,7 @@ df, using_demo = load_data()
 
 st.title("IGCSE International Mathematics — Exam Topic Explorer")
 
-tab1, tab2 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic"])
+tab1, tab2, tab3 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic", "LLM-accuracy Statistics"])
 
 # ---------------------------------------------------------------- TAB 1 ----
 with tab1:
@@ -105,3 +106,15 @@ with tab2:
             )
             st.write(row["question_text"])
             st.caption(row["filename"])
+
+# ---------------------------------------------------------------- TAB 3 ----
+with tab3:
+    st.subheader("See the statistics on the LLM topic-matching")
+
+hand_coded_df = pd.read_csv("data/manifest_sample.csv")
+llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
+results = compute_kappa(hand_coded_df, llm_tagged_df)
+
+st.write(f"Cohen's Kappa: {results['kappa']:.4f}")
+st.write(f"Number of questions compared: {results['n_compared']}")
+st.write(f"Agreement rate: {results['agreement_rate']:.2%}")

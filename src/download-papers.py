@@ -1,36 +1,16 @@
-"""
-Batch downloader for CAIE 0607 (IGCSE International Mathematics) past papers
-from papacambridge.com
-
-IMPORTANT: Run this on your OWN machine, not in a sandboxed/cloud dev
-environment — many sandboxes (including Claude's) restrict outbound network
-access to a fixed allowlist and will not be able to reach papacambridge.com.
-
-USAGE:
-    1. Fill in SESSIONS and VARIANTS below to match your actual exam entry
-       pattern (see TODOs).
-    2. pip install requests
-    3. python download_papers.py
-"""
-
 import requests
 import time
 from pathlib import Path
 
-# ---------------------------------------------------------------
-# CONFIG — confirm these against your actual 5-series-per-year pattern
-# ---------------------------------------------------------------
 SYLLABUS = "0607"
-YEARS = range(14, 26)          # 2016-2025 -> adjust to your actual 10 years
+YEARS = range(14, 26)          
 
 SESSIONS = ["s", "w", 'm']
 
-# Paper numbers per your coding: 2 = non-calc, 4 = calc, 6 = investigation
 PAPERS = {"2": "noncalc", "4": "calc", "6": "investigation"}
 
 VARIANTS = ["1", "2", "3"]
 
-# Set to True once you've decided you also want mark schemes (see chat)
 INCLUDE_MARK_SCHEMES = False
 DOC_TYPES = ["qp"] + (["ms"] if INCLUDE_MARK_SCHEMES else [])
 
@@ -43,7 +23,7 @@ BASE_URL = (
 OUT_DIR = Path("papers_raw")
 OUT_DIR.mkdir(exist_ok=True)
 
-REQUEST_DELAY_SECONDS = 1.5  # be polite to their server -- don't hammer it
+REQUEST_DELAY_SECONDS = 1.5 
 
 
 def build_filename(session, year, doc_type, paper, variant):

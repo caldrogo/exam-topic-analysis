@@ -27,15 +27,3 @@ def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> d
         "agreement_rate": (merged["human_topic"] == merged["topic"]).mean(),
         "top_disagreements": disagreement_pairs.head(10),
     }
-
-hand_coded_df = pd.read_csv("data/manifest_sample.csv")
-
-print(f"Hand-coded questions df: {hand_coded_df.head()}")
-
-llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
-
-results = compute_kappa(hand_coded_df, llm_tagged_df)
-
-print(f"Cohen's Kappa: {results['kappa']:.4f}")
-print(f"Number of questions compared: {results['n_compared']}")
-print(f"Agreement rate: {results['agreement_rate']:.2%}")
