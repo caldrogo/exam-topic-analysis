@@ -71,7 +71,7 @@ with tab1:
         "Prototype note: cells currently show **raw** yearly proportions. "
         "The full pipeline will replace these with bootstrap-smoothed estimates "
         "and a per-topic stability score, so a topic's *displayed* share may "
-        "still be noisy on a small per-year sample."
+        "still be noisy on a small per-year sample. blah"
     )
 
 # ---------------------------------------------------------------- TAB 2 ----
