@@ -24,7 +24,7 @@ SESSION_ORDER = {"m": 1, "s": 2, "w": 3}  # Mar/May, May/Jun, Oct/Nov — chrono
 SESSION_NAME = {"m": "Mar/May", "s": "May/Jun", "w": "Oct/Nov"}
 
 
-df = pd.read_csv("data/tagged_questions.csv")
+df = pd.read_csv("data/dataset_full.csv")
 
 st.title("IGCSE International Mathematics — Exam Topic Explorer")
 
@@ -103,13 +103,12 @@ with tab2:
 with tab3:
     st.subheader("See the statistics on the LLM topic-matching")
 
-    hand_coded_df = pd.read_csv("data/manifest_sample.csv")
-    llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
-    results = compute_kappa(hand_coded_df, llm_tagged_df)
+    hand_coded_df = pd.read_csv("data/dataset_sample.csv")
+    results = compute_kappa(hand_coded_df, df)
 
     
-    st.write(f"Total number of papers: {llm_tagged_df['filename'].nunique()}")
-    st.write(f"Total number of questions tagged: {len(llm_tagged_df.index)}")
+    st.write(f"Total number of papers: {df['filename'].nunique()}")
+    st.write(f"Total number of questions tagged: {len(df.index)}")
     st.write(f"Total number of questions hand-tagged: {len(hand_coded_df.index)}")
 
     st.write(f"Cohen's Kappa: {results['kappa']:.4f}")

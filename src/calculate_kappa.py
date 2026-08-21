@@ -1,7 +1,5 @@
 import pandas as pd
 
-from topic_list import TOPIC_LIST
-
 def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> dict:
     merged = hand_coded_df.merge(
         llm_tagged_df, on=["filename", "question_number"], suffixes=("_human", "_llm")
@@ -12,7 +10,7 @@ def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> d
         "Check for filename/question_number mismatches."
     )
 
-    kappa = cohen_kappa_score_me(merged["human_topic"], merged["topic"], labels=TOPIC_LIST)
+    kappa = cohen_kappa_score_me(merged["human_topic"], merged["topic"])
 
     # Per-topic disagreement breakdown — WHERE the model struggles, not just how much
     disagreements = merged[merged["human_topic"] != merged["topic"]]
@@ -29,7 +27,7 @@ def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> d
         "top_disagreements": disagreement_pairs.head(),
     }
 
-def cohen_kappa_score_me(y1, y2, labels=None):
+def cohen_kappa_score_me(y1, y2):
     assert len(y1) == len(y2)
     n = len(y1)
 
@@ -54,5 +52,3 @@ def cohen_kappa_score_me(y1, y2, labels=None):
         return 1.0  # avoid division by zero if perfect agreement expected
     kappa = (po - pe) / (1 - pe)
     return kappa
-
-print(compute_kappa(pd.read_csv('data/dataset_sample.csv'), pd.read_csv('data/dataset_full.csv')))
