@@ -1,5 +1,6 @@
-from sklearn.metrics import cohen_kappa_score, confusion_matrix
 import pandas as pd
+
+from topic_list import TOPIC_LIST
 
 def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> dict:
     merged = hand_coded_df.merge(
@@ -11,7 +12,7 @@ def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> d
         "Check for filename/question_number mismatches."
     )
 
-    kappa = cohen_kappa_score(merged["human_topic"], merged["topic"])
+    kappa = cohen_kappa_score_me(merged["human_topic"], merged["topic"], labels=TOPIC_LIST)
 
     # Per-topic disagreement breakdown — WHERE the model struggles, not just how much
     disagreements = merged[merged["human_topic"] != merged["topic"]]
@@ -25,5 +26,33 @@ def compute_kappa(hand_coded_df: pd.DataFrame, llm_tagged_df: pd.DataFrame) -> d
         "kappa": kappa,
         "n_compared": len(merged),
         "agreement_rate": (merged["human_topic"] == merged["topic"]).mean(),
-        "top_disagreements": disagreement_pairs.head(10),
+        "top_disagreements": disagreement_pairs.head(),
     }
+
+def cohen_kappa_score_me(y1, y2, labels=None):
+    assert len(y1) == len(y2)
+    n = len(y1)
+
+    # Get all unique categories
+    categories = sorted(set(y1) | set(y2))
+
+    # Build confusion matrix
+    matrix = {c: {c2: 0 for c2 in categories} for c in categories}
+    for a, b in zip(y1, y2):
+        matrix[a][b] += 1
+
+    # Observed agreement (Po)
+    po = sum(matrix[c][c] for c in categories) / n
+
+    # Expected agreement (Pe)
+    row_totals = {c: sum(matrix[c].values()) for c in categories}
+    col_totals = {c: sum(matrix[r][c] for r in categories) for c in categories}
+    pe = sum((row_totals[c] / n) * (col_totals[c] / n) for c in categories)
+
+    # Kappa
+    if pe == 1:
+        return 1.0  # avoid division by zero if perfect agreement expected
+    kappa = (po - pe) / (1 - pe)
+    return kappa
+
+print(compute_kappa(pd.read_csv('data/dataset_sample.csv'), pd.read_csv('data/dataset_full.csv')))

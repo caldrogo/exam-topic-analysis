@@ -37,7 +37,7 @@ def parse_filename(filename: str) -> dict:
         "variant": g["variant"],
     }
 
-def build_manifest(papers_dir: str) -> pd.DataFrame:
+def build_dataset(papers_dir: str) -> pd.DataFrame:
     rows = []
     papers_path = Path(papers_dir)
 
@@ -63,6 +63,7 @@ def build_manifest(papers_dir: str) -> pd.DataFrame:
                 "question_number": q["question_number"],
                 "question_text": q["question_text"],
                 "marks": marks,
+                'topic' : q['topic']
             })
 
     df = pd.DataFrame(rows)
@@ -89,7 +90,7 @@ def build_hand_coding_sample(
     total_n = len(df)
     target_n = round(total_n * target_fraction)
 
-    print(f"Total questions in manifest: {total_n}")
+    print(f"Total questions in dataset: {total_n}")
     print(f"Target sample size (~{target_fraction:.0%}): {target_n}")
     print(f"\nStratum sizes (population):")
     print(df["stratum"].value_counts())
@@ -105,7 +106,7 @@ def build_hand_coding_sample(
         sampled_idx = rng.choice(group.index, size=stratum_n, replace=False)
         sampled_frames.append(df.loc[sampled_idx])
 
-    sample_df = pd.concat(sampled_frames).sort_index()
+    sample_df = pd.concat(sampled_frames).drop(columns=['topic']).sort_index()
 
     print(f"\nActual sample size drawn: {len(sample_df)}")
     print(f"\nSample composition by stratum:")
@@ -113,15 +114,20 @@ def build_hand_coding_sample(
 
     return sample_df
 
-df = build_manifest("papers_json")
+if __name__ == "__main__":
 
-sample_df = build_hand_coding_sample(df, target_fraction=0.01, random_seed=42)
+    df = build_dataset("data/tagged_papers_json")
 
-print(f"Total questions: {len(df)}")
-print(f"Total papers: {df['filename'].nunique()}")
-print(f"\nPapers per year:\n{df.groupby('year')['filename'].nunique()}")
-print(f"\nPapers per (year, paper_type):\n{df.groupby(['year','paper_type'])['filename'].nunique()}")
-print(f"\nDistinct session_code/variant combos per year:\n{df.groupby('year')[['session_code','variant']].nunique()}")
+    print(f"Total questions: {len(df)}")
+    print(f"Total papers: {df['filename'].nunique()}")
+    print(f"\nPapers per year:\n{df.groupby('year')['filename'].nunique()}")
+    print(f"\nPapers per (year, paper_type):\n{df.groupby(['year','paper_type'])['filename'].nunique()}")
+    print(f"\nDistinct session_code/variant combos per year:\n{df.groupby('year')[['session_code','variant']].nunique()}")
 
-df.to_csv("manifest_full.csv", index=False)
-sample_df.to_csv("manifest_sample.csv", index=False)
+    df.to_csv("data/dataset_full.csv", index=False)
+    print(f"All questions tagged by LLM saved to data/dataset_full.csv")
+
+    sample_df = build_hand_coding_sample(df, target_fraction=0.01, random_seed=42)
+    sample_df.to_csv("data/dataset_sample.csv", index=False)
+    print(f"Sample questions to be tagged by human saved to data/dataset_sample.csv")
+    print(f"Tag these by introducing a new column 'human_topic")
