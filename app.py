@@ -107,6 +107,11 @@ with tab3:
     llm_tagged_df = pd.read_csv("data/llm_tags_backup.csv")
     results = compute_kappa(hand_coded_df, llm_tagged_df)
 
+    
+    st.write(f"Total number of papers: {llm_tagged_df['filename'].nunique()}")
+    st.write(f"Total number of questions tagged: {len(llm_tagged_df.index)}")
+    st.write(f"Total number of questions hand-tagged: {len(hand_coded_df.index)}")
+
     st.write(f"Cohen's Kappa: {results['kappa']:.4f}")
     st.write(f"Number of questions compared: {results['n_compared']}")
     st.write(f"Agreement rate: {results['agreement_rate']:.2%}")
