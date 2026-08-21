@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-from topic_list import TOPIC_LIST
+from config import TOPIC_LIST
 
 SYSTEM_PROMPT = f"""You are an assistant that extracts and tags IGCSE International Mathematics
 (0607) exam questions.
