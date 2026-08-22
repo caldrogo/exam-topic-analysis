@@ -13,9 +13,6 @@ load_dotenv()
 
 from config import TOPIC_LIST, ASSIGN_MODEL_NAME
 
-prompt_df = pd.read_json('data/prompts.json')
-SYSTEM_PROMPT = prompt_df
-
 
 # 1. Define the Pydantic output schema
 class QuestionItem(BaseModel):
@@ -44,9 +41,10 @@ def has_second_last_digit_six(file_path: Path) -> bool:
 
 def process_pdf_folder_with_resumption(
     input_dir: str = "data/papers_raw",
-    output_dir: str = "data/tagged_papers_json",
+    output_dir: str = "data/tagged_papers_latest_json",
     model_name: str = "gemini-3.5-flash-lite",
     overwrite_existing: bool = False,
+    prompt: str = ''
 ):
     input_path = Path(input_dir)
     output_path = Path(output_dir)
@@ -112,9 +110,7 @@ def process_pdf_folder_with_resumption(
                 model=model_name,
                 contents=[
                     pdf_part,
-                    (
-                        SYSTEM_PROMPT
-                    ),
+                    (prompt),
                 ],
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
@@ -162,5 +158,8 @@ def _rebuild_combined_json(output_path: Path):
     print(f"Updated aggregate file: {combined_json_path}")
 
 
-if __name__ == "__main__":
-    process_pdf_folder_with_resumption(model_name=ASSIGN_MODEL_NAME)
+def assign_topics():
+    prompt_df = pd.read_json('data/prompts.json')
+    latest_row = prompt_df.sort_values('iteration').iloc[-1]
+
+    process_pdf_folder_with_resumption(model_name=ASSIGN_MODEL_NAME, prompt=latest_row['prompt'])

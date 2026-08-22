@@ -114,9 +114,9 @@ def build_hand_coding_sample(
 
     return sample_df
 
-if __name__ == "__main__":
+def build(first_run: bool = False, target_fraction=0.01):
 
-    df = build_dataset("data/tagged_papers_json")
+    df = build_dataset("data/tagged_papers_latest_json")
 
     print(f"Total questions: {len(df)}")
     print(f"Total papers: {df['filename'].nunique()}")
@@ -124,10 +124,11 @@ if __name__ == "__main__":
     print(f"\nPapers per (year, paper_type):\n{df.groupby(['year','paper_type'])['filename'].nunique()}")
     print(f"\nDistinct session_code/variant combos per year:\n{df.groupby('year')[['session_code','variant']].nunique()}")
 
-    df.to_csv("data/dataset_full.csv", index=False)
-    print(f"All questions tagged by LLM saved to data/dataset_full.csv")
+    df.to_csv("data/dataset_full_latest.csv", index=False)
+    print(f"All questions tagged by LLM saved to data/dataset_full_latest.csv")
 
-    sample_df = build_hand_coding_sample(df, target_fraction=0.01, random_seed=42)
-    sample_df.to_csv("data/dataset_sample.csv", index=False)
-    print(f"Sample questions to be tagged by human saved to data/dataset_sample.csv")
-    print(f"Tag these by introducing a new column 'human_topic")
+    if first_run:
+        sample_df = build_hand_coding_sample(df, target_fraction=target_fraction, random_seed=42)
+        sample_df.to_csv("data/dataset_sample.csv", index=False)
+        print(f"Sample questions to be tagged by human saved to data/dataset_sample.csv")
+        print(f"Tag these by introducing a new column 'human_topic")

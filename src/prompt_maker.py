@@ -156,14 +156,14 @@ async def propose_next_prompt(
     return result.new_prompt, result.reasoning
 
 
-if __name__ == "__main__":
+def update_prompts():
     prompt_df = pd.read_json(DATA_PATH + 'prompts.json')
 
-    best_row = prompt_df.loc[prompt_df['kappa_score'].idxmax()] 
+    best_row = prompt_df.loc[prompt_df['kappa'].idxmax()] 
     latest_row = prompt_df.sort_values('iteration').iloc[-1]
 
-    best_prompt, best_score = best_row['prompt'], best_row['kappa_score']
-    latest_prompt, latest_score = latest_row['prompt'], latest_row['kappa_score']
+    best_prompt, best_score = best_row['prompt'], best_row['kappa']
+    latest_prompt, latest_score = latest_row['prompt'], latest_row['kappa']
 
     new_prompt, reasoning = asyncio.run(propose_next_prompt(
         task_description='TASK',
@@ -173,8 +173,8 @@ if __name__ == "__main__":
         latest_score=latest_score,
         ))
 
-    new_prompt_df = pd.DataFrame({'prompt' : [new_prompt], 'iteration': [latest_row['iteration'] + 1], 'reasoning': [reasoning], 'kappa_score': [pd.NA]})
+    new_prompt_df = pd.DataFrame({'prompt' : [new_prompt], 'iteration': [latest_row['iteration'] + 1], 'reasoning': [reasoning], 'kappa': [pd.NA], 'agreement_rate' : [pd.NA]})
 
-    prompt_df = pd.concat([prompt_df, new_prompt_df]).reset_index()
+    prompt_df = pd.concat([prompt_df, new_prompt_df]).reset_index(drop=True)
 
     prompt_df.to_json(DATA_PATH + 'prompts.json')
