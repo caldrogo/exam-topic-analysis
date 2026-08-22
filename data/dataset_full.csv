@@ -1,0 +1,417 @@
+filename,syllabus,session_code,session_name,year,paper_number,paper_type,variant,question_number,question_text,marks,topic
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,1(a),"Construct an ordered stem-and-leaf diagram to show this information, including a key.",3,statistics
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,1(b),Find the median.,1,statistics
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,2,"Point A (7, 5) is translated to point B (2, 2). Find the vector that represents this translation.",2,vectors
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,3,Find the highest common factor (HCF) of 84 and 72.,1,topics in arithmetic
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,4,Solve |x| + 2 = 7.,1,solving linear equations
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,5(a),"Point A has coordinates (-3, 2). Point B has coordinates (5, -4). Find the mid-point of AB.",2,straight lines
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,5(b),"Point A has coordinates (-3, 2). Point B has coordinates (5, -4). Find the length of AB.",3,Pythagoras
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,6,Find the value of p when 2^6 \div 4^p = 2^7.,3,exponents and surds
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,7(a),Iraj travels to school either by bus or on a bicycle. The probability that he goes by bus is 0.3. He can have lunch at home or at school. The probability that he has lunch at school is 0.6. Complete the tree diagram.,2,probability
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,7(b),Find the probability that Iraj travels on a bicycle to school and goes home for lunch.,2,probability
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,8,Expand and simplify 4(2a + 5b) - 3(6b - 3a).,2,expanding and factorising
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,9(a),"A, B, C, and D are points on a circle. CDE is a straight line. Find angle ABC.",1,circle theorems
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,9(b)(i),"P, Q, R, S and T are points on the circle centre O. TOQ is a straight line. Find angle STR.",1,circle theorems
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,9(b)(ii),"P, Q, R, S and T are points on the circle centre O. TOQ is a straight line. Find angle QOR.",1,circle theorems
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,10,Aisha picks three number cards from a pack. The mean of the three numbers is 6 1/3. She picks another card from the pack. The mean of the four numbers is 6 1/2. Work out the number on the fourth card.,3,statistics
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,11,"Find the next term and an expression for the nth term of this sequence: 35, 29, 19, 5, ...",3,sequences
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,12,Rearrange this formula to make x the subject: y = (a - x) / (3x).,3,solving linear equations
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,13,Rationalise the denominator and simplify: 2 / (\sqrt{5} + 1).,3,exponents and surds
+0607_m21_qp_22.json,0607,m,Mar/May,2021,2,non_calculator,2,14,Write as a single fraction in its simplest form: (3a) / (a + 4) - (a - 1) / (2a).,3,expanding and factorising
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,1(a),"In 2016, Carla's salary was $23970 per year. From her salary she pays tax at a rate of 20%. She is paid monthly in equal amounts. Calculate the amount Carla receives each month after tax has been paid.",3,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,1(b)(i),Carla's salary of $23970 was 2% more than her salary in 2015. Calculate her yearly salary in 2015.,3,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,1(b)(ii),"From 2016, Carla's employer agrees to pay her an increase of 3% each year. Calculate the year in which her salary is first greater than $30000.",3,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,2(a)(i),Reflection in the line y = x maps triangle A onto triangle B. Describe fully the single transformation that maps triangle B onto triangle A.,1,transformations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,2(a)(ii),"Enlargement, with centre (2, 1) and scale factor 4, maps triangle C onto triangle D. Describe fully the single transformation that maps triangle D onto triangle C.",2,transformations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,2(a)(iii),Translation by the vector (-3 / 5) maps triangle E onto triangle F. Describe fully the single transformation that maps triangle F onto triangle E.,2,transformations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,2(b)(i),"Rotate triangle P through 90° anticlockwise about (0, 0). Label the image Q.",2,transformations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,2(b)(ii),Stretch triangle P with stretch factor 2 and the y-axis invariant. Label the image R.,2,transformations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,3(a),Complete the scatter diagram. The first four points have been plotted for you.,3,statistics
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,3(b),What type of correlation is shown on your scatter diagram?,1,statistics
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,3(c)(i),"Find the equation of the regression line, in the form y = mx + c.",2,statistics
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,3(c)(ii),Judge A gives another dancer a mark of 6.4. Use your equation to estimate the mark judge B gives this dancer.,1,statistics
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,4(a)(i),Find the column vector 1/2 p.,1,vectors
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,4(a)(ii),Find the column vector q − 2p.,2,vectors
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,4(a)(iii),"Find |p|, leaving your answer in surd form.",2,vectors
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,4(b),AB = p + q. Mark and label point B on the grid.,2,vectors
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,5(a),Nitini changes 119050 Indian rupees (INR) to Singapore dollars (SGD). The exchange rate is 1 SGD = 47.62 INR. Find how many Singapore dollars he receives.,2,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,5(b)(i),The flight from New Delhi to Singapore takes 5 hours and 45 minutes. The distance of the flight is 4150 km. The time in New Delhi when the flight leaves is 21 55. The time in Singapore is 2 1/2 hours ahead of the time in New Delhi. Find the time in Singapore when the flight arrives.,2,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,5(b)(ii),Find the average speed of the aircraft.,3,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,5(b)(iii),On the return flight the average speed is 750 km/h. Find the time of this flight in hours and minutes.,3,topics in arithmetic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(a)(i),x is proportional to v. Write down an expression for x in terms of v and a constant c.,1,variation and proportion
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(a)(ii),y is proportional to v^2. Write down an expression for y in terms of v and a constant k.,1,variation and proportion
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(a)(iii),"d = x + y. Write down an expression for d in terms of v, c and k.",1,variation and proportion
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(b)(i),"Using your answer to part (a)(iii), show that 125 = 2c + 24k.",1,variation and proportion
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(b)(ii),Write down a second equation connecting c and k.,1,variation and proportion
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(c),Solve the simultaneous equations in part (b) to find the value of c and the value of k.,3,simultaneous equations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(d),Find the value of d when v = 40.,2,variation and proportion
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,7(a),"A ship sails 65 km on a bearing of 310° from A to B. It then changes course and sails 40 km on a bearing of 250° from B to C. The ship then returns to A. On the diagram, sketch the path of the ship from A. On your diagram show the bearings and distances.",3,trigonometry
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,7(b),Find angle ABC.,1,angles
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,7(c),"Calculate AC and show that it rounds to 91.8 km, correct to the nearest tenth of a kilometre.",3,trigonometry
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,7(d),Find the bearing of C from A.,4,trigonometry
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,8(a),Sketch the graph of y = f(x) for -400° ≤ x ≤ 600° where f(x) = 3^{sin x}.,3,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,8(b),Find the x coordinates of the local maximum points of f(x) for -400° ≤ x ≤ 600°.,3,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,8(c),"The point (30, \sqrt{3}) is on the graph. The point (a, \sqrt{3}) is also on the graph where 600° < a < 900°. Find the two possible values of a.",2,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,8(d),g(x) = 3 - x/100. Solve the inequality g(x) > f(x).,3,inequalities
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,9(a)(i),"In the diagram AC = x cm, AB = (x + 2) cm and angle A = 60°. Find an expression, in terms of x, for the area of triangle ABC. Give your answer in surd form.",2,trigonometry
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,9(a)(ii),The area of triangle ABC = 18\sqrt{3} cm^2. Show that x^2 + 2x - 72 = 0.,2,expanding and factorising
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,9(b)(i),Solve the equation x^2 + 2x - 72 = 0.,2,solving quadratic equations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,9(b)(ii),Find the shortest distance between the line AB and the point C.,2,trigonometry
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,10(a)(i),"A is the point (2, 2), B is the point (11, 4) and C is the point (14, 8). Find the equation, in the form y = mx + c, of the line AC.",3,straight lines
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,10(a)(ii),"Find the equation, in the form y = mx + c, of the line through B that is perpendicular to AC.",3,straight lines
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,10(b),"Show that the point (10, 6) is on both the lines you found in part (a).",2,straight lines
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,10(c),AC is the perpendicular bisector of BD. Find the co-ordinates of D.,1,straight lines
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,10(d),Find the exact area of the quadrilateral ABCD.,4,mensuration
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,11(a),"A farmer sorts the grapefruit he grows into sizes, according to their diameter. The diameters, d cm, of 170 grapefruit are shown in the table. Calculate an estimate of the mean diameter of the grapefruit.",2,statistics
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,11(b),"On the grid, draw a histogram to represent this information. Complete the scale on the frequency density axis.",4,statistics
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,11(c)(i),Two of the 170 grapefruit are chosen at random. Calculate the probability that they are both Very Large.,2,probability
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,11(c)(ii),Calculate the probability that one is Small and the other is Medium.,3,probability
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(a),"f(x) = 4x + 2, g(x) = 5 - 2x, h(x) = x^2 - 3. Find g(-3).",1,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(b),Find f(h(2)).,2,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(c),Find x when f(x) = -10.,2,solving linear equations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(d),Write down the range of h(x).,1,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(e),Find f^{-1}(x).,2,functions
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(f),k(x) = 10 - 4x. Describe fully the single transformation that maps the graph of y = g(x) onto the graph of y = k(x).,3,transformations
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,12(g),The graph of y = h(x) is translated by the vector (2 / 0). Find the equation of the graph of the image. Write your answer in the form y = ax^2 + bx + c.,3,transformations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,1(a)(i),Solve the equation 3x - 2 = -14.,2,solving linear equations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,1(a)(ii),Solve the equation 7x + 11 = 26 - 3x.,2,solving linear equations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,1(b),"Solve the simultaneous equations. You must show all your working. 5x + 3y = -15, 3x + 5y = -17",4,simultaneous equations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,1(c),Solve the inequality |2x + 1| > 9.,4,inequalities
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,2(a)(i),Calculate an estimate of the mean height of the plants.,2,statistics
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,2(a)(ii)(a),Complete the cumulative frequency table for the plants.,1,statistics
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,2(a)(ii)(b),"On the grid, draw the cumulative frequency curve.",3,statistics
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,2(c),Use your cumulative frequency curve to find an estimate for the interquartile range.,2,statistics
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,2(b),"The heights, h cm, of 50 different plants are shown in the table, where k is an integer. An estimate of the mean height of these plants is 27cm. Find the value of k.",3,statistics
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,3(a),"Translate triangle A with vector (2, -6). Label the image B.",2,transformations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,3(b),Describe fully the single transformation that maps triangle B onto triangle A.,2,transformations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,3(c),"Rotate triangle A through 90° clockwise about (0, 0). Label the image C.",2,transformations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,3(d),Reflect triangle A in the line y = x. Label the image D.,2,transformations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,3(e),Describe fully the single transformation that maps triangle C onto triangle B.,3,transformations
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,4(a),The price of a coat is $84. The price is reduced by 12%. Find the new price of the coat.,2,topics in arithmetic
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,4(b),The price of a table is reduced by 25%. The price is now $960. Find the original price of the table.,2,topics in arithmetic
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,4(c)(i),Samir invests $600 in a bank that pays compound interest at a rate of 5.1% each year. Find the value of Samir’s investment after 4 complete years.,2,topics in arithmetic
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,4(c)(ii),Find the number of complete years for the value of Samir’s investment to be first worth more than $1000.,4,topics in arithmetic
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,4(d)(i),Amir and Bob work together and share their earnings in the ratio 3:5. Find the amount Bob receives when their earnings are $120.,2,topics in arithmetic
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,4(d)(ii),They decide to change the ratio for all further earnings. Amir’s share of the earnings is increased by 20% of his original share. Bob’s share of the earnings is decreased by 20% of his original share. Show that the ratio of their earnings is now 9:10.,3,topics in arithmetic
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,5(a),Write down the mathematical name of the cyclic quadrilateral ABCD.,1,circle theorems
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,5(b),Complete the statement. Angle OAP = 90° because ...,1,circle theorems
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,5(c)(i),Find angle ADC.,1,circle theorems
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,5(c)(ii),Find angle ACD.,1,circle theorems
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,5(c)(iii),Find angle ACB.,2,circle theorems
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,5(c)(iv),Find angle OCA.,2,circle theorems
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,6(a),"On the diagram, sketch the graph of y = f(x), for values of x between -3 and 3.",3,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,6(b),The graph cuts the x-axis at points A and B. Work out the length AB.,2,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,6(c),Solve f(x) = 0.5.,2,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,6(d),Write down the coordinates of the minimum point of the graph.,1,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,6(e),The equation f(x) = k has two solutions. Find the range of values of k.,2,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(a)(i),Find the probability that the number on spinner A is 6.,1,probability
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(a)(ii),Find the probability that the number on spinner B is not 4.,1,probability
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(a)(iii),Find the probability that the number on spinner A is the same as the number on spinner B.,3,probability
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(a)(iv),Find the probability that the sum of the two numbers is 6.,3,probability
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(b)(i),"On the Venn diagram, shade A ∪ B.",1,sets and Venn diagrams
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(b)(ii),Describe the shaded region using set notation.,1,sets and Venn diagrams
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,7(b)(iii),The Venn diagram below shows the number of elements in each subset. Find n((A ∩ B) ∩ C').,1,sets and Venn diagrams
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,8(a),"Show that BC = 9.0 m, correct to 1 decimal place.",3,trigonometry
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,8(b),Use the sine rule to find angle BCA.,3,trigonometry
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,8(c),Find the area of triangle ABC.,2,trigonometry
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,8(d),Find the area of the shaded region.,3,mensuration
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,8(e),Find the perimeter of the shape ABDC.,2,mensuration
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,9(a),Find the volume of the cone.,3,mensuration
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,9(b),Show that the total surface area of the cone is 4000π cm².,2,mensuration
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,9(c),A mathematically similar cone has a surface area of 1000π cm². Show that the radius of this cone is 20 cm.,2,similarity
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,9(d),A cone with radius 20 cm is removed from the top of the cone with radius 40 cm to leave a solid. Calculate the surface area of the remaining solid.,3,mensuration
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,10(a)(i),y varies inversely as the square root of (x + 1). y = 18 when x = 3. Find the value of y when x = 8.,3,variation and proportion
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,10(a)(ii),Find the value of x when y = 1.5.,2,variation and proportion
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,10(b),w varies directly as the square root of (x + 1). w = 18 when x = 3. Find the value of √wy.,3,variation and proportion
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,11(a),"f(x) = 3x - 1, g(x) = 5 - 2x, h(x) = 1 / (2x - 3). Find f(4).",1,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,11(b),Solve f(x) = -7.,2,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,11(c),Find g⁻¹(x).,2,functions
+0607_s24_qp_41.json,0607,s,May/Jun,2024,4,calculator,1,11(d),Solve g(x) = 7h(f(x)). You must show all your working.,6,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,1(a),The volume of a triangular prism is 476 cm3. The base of the triangle is 8 cm and the perpendicular height is 7 cm. Calculate the length of the prism.,3,mensuration
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,1(b)(i),The volume of a solid steel cube is 8000 cm3. The mass of 1 cm3 of the steel is 7.86 g. Calculate the mass of the cube. Give your answer in kilograms.,1,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,1(b)(ii),Calculate the total surface area of the cube.,3,mensuration
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,1(b)(iii),The steel cube is melted down and made into spheres with radius 3.5 cm. Calculate the number of these spheres that are made.,3,mensuration
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,2(a),Yuri and Zoe share some money in the ratio 8 : 7. Zoe receives $210. Show that Yuri receives $240.,1,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,2(b)(i),He spends 21% of his $240 on the set of books. Calculate the cost of the set of books.,1,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,2(b)(ii),He spends $75.50 on the concert ticket. Calculate the amount Yuri has remaining as a percentage of the $240.,2,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,2(c),Zoe spends $140 on software. She is given a discount of 20% on the original price of the software. Calculate the original price of the software.,2,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,2(d),Find the ratio Yuri's remaining money : Zoe's remaining money. Give your answer in the form n : 1.,2,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(a)(i),Find the height of the stone when x = 7.,1,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(a)(ii),Find the maximum height of the stone.,1,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(a)(iii),Find the distance OG.,1,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(a)(iv),There are two points in the path of the stone where its height is 2 m. Find the horizontal distance between these two points.,2,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(b)(i),"On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",3,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(b)(ii),Write down the equation of each asymptote.,2,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(b)(iii),f(x) = k has two solutions. Find the range of values of k.,1,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(b)(iv)(a),"On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",2,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,3(b)(iv)(b),Solve the equation f(x) = 3 - x.,2,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(a),Erin rolls a biased die a number of times. The table shows the results. The mean score is 3.75. Find the value of x.,3,statistics
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(b)(i),Calculate an estimate of the mean.,2,statistics
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(b)(ii)(a),Use the information in the table to complete the cumulative frequency table.,2,statistics
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(b)(ii)(b),"On the grid, draw the cumulative frequency curve.",3,statistics
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(c),Use your curve to estimate the median.,1,statistics
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,4(d),Use your curve to estimate the number of students who took more than 13 minutes to complete their mathematics homework.,2,statistics
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,5(a),Calculate the area of an equilateral triangle with side length 12 cm.,2,mensuration
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,5(b),Calculate the area of a circle with circumference 60 cm.,3,mensuration
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,5(c),The diagram shows part of a regular 10-sided polygon with centre O and side length 6 cm. Calculate the area of the polygon.,4,mensuration
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,6(a),Calculate the number of complete years it took for Xavier's annual pay to be 30% greater than his annual pay in 2000.,4,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,6(b),In 2024 Xavier's annual pay is $25215. Calculate the amount Xavier's pay will increase from his annual pay in 2022 to his annual pay in 2027. Give your answer correct to the nearest dollar.,4,topics in arithmetic
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,7(a),Solve 63 = 8(3 - 2a).,3,solving linear equations
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,7(b),"Solve the simultaneous equations. You must show all your working. p/3 - q = 5/12, 2p + q/2 = 7/8",3,simultaneous equations
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,7(c)(i),Factorise c^2 - c - 56.,2,expanding and factorising
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,7(c)(ii),Solve c^2 - c - 56 = 0.,1,solving quadratic equations
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,8(a)(i),Describe fully the single transformation that maps triangle T onto triangle A.,2,transformations
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,8(a)(ii),Describe fully the single transformation that maps triangle T onto triangle B.,3,transformations
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,8(b)(i),"P is the point (-3, 2). The vector from P to Q is (5 / -7). Find the coordinates of Q.",1,vectors
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,8(b)(ii),Find the magnitude of the vector (5 / -7).,2,vectors
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,8(c),"Find the equation of the line that passes through the points (-3, -1) and (1, 11). Give your answer in the form y = mx + c.",3,straight lines
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(a)(i),Find f(-5).,1,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(a)(ii),Find the value of h(f(9)). Give your answer in standard form correct to 4 significant figures.,3,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(a)(iii),"Find g(f(x)), giving your answer in the form ax^2 + bx + c.",3,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(a)(iv),Find f^(-1)(x).,2,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(a)(v),The domain of h(x) is -1 <= x <= 2. Find the range of h(x).,2,functions
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(b)(i),Find x when j(x) = 3.,2,logarithms
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(b)(ii),Find j^(-1)(x).,2,logarithms
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,9(b)(iii),j(w) = 3j(x). Find w in terms of x.,2,logarithms
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,10(a)(i),"Tina picks one ball at random, notes the colour and replaces it in the bag. Find the probability that Tina picks a red ball.",1,probability
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,10(a)(ii),Tina repeats this 60 times. Find the number of times the ball she picks is expected to be red.,1,probability
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,10(b)(i),Eli picks two balls at random without replacement. Find the probability that both balls are blue.,2,probability
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,10(b)(ii),Eli picks two balls at random without replacement. Find the probability that one ball is red and one ball is blue.,3,probability
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,10(c),"The balls are replaced in the bag. Ida picks one ball at random, notes the colour and replaces it in the bag. She then picks another ball at random. Find the probability that the two balls are the same colour.",3,probability
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,11(a),Simplify (9x^2 - 4y^2) / (9x^2 - 6xy).,3,expanding and factorising
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,11(b)(i),Show that 5 / (2x - 3) - 7 / (4 - x) = 2 leads to 4x^2 - 41x + 65 = 0.,3,solving quadratic equations
+0607_s24_qp_42.json,0607,s,May/Jun,2024,4,calculator,2,11(b)(ii),"Solve 5 / (2x - 3) - 7 / (4 - x) = 2, giving your answers correct to 2 decimal places. You must show all your working.",4,solving quadratic equations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,1(a)(i),Find the mode,1,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,1(a)(ii),Find the median,1,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,1(a)(iii),Find the range,1,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,1(a)(iv),Find the upper quartile,1,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,1(a)(v),Find the mean.,2,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,1(b),This table shows the numbers of letters delivered to the houses in another street one day. Number of letters 0 1 2 3 4 5 6 Frequency 18 31 27 18 n 12 5 The mean number of letters delivered in this street is 2.28. Find the value of n.,3,statistics
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,2(a),Ameera and Bertrand share some money in the ratio 4 : 5. Bertrand gets $3000. Calculate Ameera's share.,2,topics in arithmetic
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,2(b),Bertrand invests $3000 at a rate of r% per year simple interest. At the end of 10 years the value of the investment is $3840. Find the value of r.,3,topics in arithmetic
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,2(c),Claudia invests $6000 at a rate of s% per year compound interest. At the end of 8 years the value of the investment is $7367.67. Find the value of s.,3,topics in arithmetic
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,2(d),Dieter invests $4000 at a rate of 1.8% per year compound interest. At the end of n complete years the value of the investment is more than $6000. Calculate the smallest value of n.,4,topics in arithmetic
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(a)(i),Write down the probability that the die shows a number less than 5,1,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(a)(ii),Write down the probability that the die shows an even number.,1,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(b)(i),Find the probability that both dice show a 6,2,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(b)(ii),Find the probability that at least one die does not show a 6.,1,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(c)(i),Complete this tree diagram.,2,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(c)(ii),"Find the probability that, on Wednesday, it does not rain and Hannah cycles.",2,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,4(a),Find the gradient and the y-intercept of line L.,3,straight lines
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,4(b),"Line P passes through the point (2, 10) and is perpendicular to line L. Show that the equation of line P is 2y - 3x = 14.",3,straight lines
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,4(c),Find the coordinates of the point where line L and line P intersect. You must show all your working.,4,simultaneous equations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,5(a),"On the diagram, sketch the graph of y = f(x).",2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,5(b),Find the zeros of f(x).,3,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,5(c),Write down the coordinates of the local minimum.,2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,5(d),"The point (a, b) lies on the graph of y = f(x) where the gradient is positive. Find the range of values for a.",2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,5(e),The equation 5 + 2x - 4x^2 - x^3 = k has exactly one solution. Write down a possible value of the integer k.,1,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,6(a)(i),Reflect triangle A in the line y = x.,2,transformations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,6(a)(ii),Describe fully the single transformation that maps triangle A onto triangle B.,3,transformations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,6(a)(iii),Describe fully the single transformation that maps triangle A onto triangle C.,3,transformations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,6(b)(i),"Write down the inverse of each of these transformations. Translation with the vector (-3, 4)",2,transformations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,6(b)(ii),Write down the inverse of each of these transformations. Stretch with the line y = 1 invariant and stretch factor 3,3,transformations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,7(a),"Show that the diameter of each semicircle is 4.14 cm, correct to 3 significant figures.",2,mensuration
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,7(b),Calculate angle ACB.,3,trigonometry
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,7(c),Calculate the area of the logo.,3,mensuration
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,7(d),A mathematically similar logo has an area of 35 cm^2. Calculate the perimeter of this logo.,3,similarity
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,8(a),"Show that the perpendicular height of the pyramid is 0.628 cm, correct to 3 significant figures.",4,Pythagoras
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,8(b),"The diagram shows a kitchen tool made from wood. The tool is formed from a cuboid, a cylinder and 49 of the square-based pyramids from part (a). The cylinder has a radius of 1.2 cm and length 25 cm. The cuboid measures 4.9 cm by 4.9 cm by 6 cm. The mass of 1 cm^3 of the wood is 0.63 grams. Calculate the total mass of the tool.",5,mensuration
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,9(a)(i),Solve 2x + 3 = 1 - 5x,2,solving linear equations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,9(a)(ii),Solve |x + 3| = 2,2,solving linear equations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,9(b),Factorise completely. 6x^3 y^2 - 3x^2 y^3,2,expanding and factorising
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,9(c),Write 5 / (2x + 3) - 2 / (x - 5) as a single fraction in its simplest form.,3,expanding and factorising
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,9(d),Solve 2x^2 + 3x = 7. You must show all your working and give your answers correct to 2 decimal places.,3,solving quadratic equations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(a),Find f(3).,1,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(b),Solve f(x) = 2.,2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(c),Find and simplify f(g(x)).,2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(d),Find g^(-1)(x).,2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(e),Find h(g(29)).,2,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(f),"Using a graphical method, solve h(g(x)) = 1 - 0.01x.",5,functions
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,11(a),"Show that angle ABC = 80.6°, correct to 1 decimal place.",3,trigonometry
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,11(b),Find the bearing of B from C.,2,trigonometry
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,11(c),A ship leaves port A at 13 00. It sails directly towards C at a speed of 32 km/h. At point P the ship is at its shortest distance from B. Find the time when the ship reaches point P. Give your answer correct to the nearest minute.,6,trigonometry
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,1(a),"This is a list of numbers. 3.142, \sqrt{125}, 125, 81, 7\frac{2}{3}. From this list write down a cube number",1,exponents and surds
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,1(b),"This is a list of numbers. 3.142, \sqrt{125}, 125, 81, 7\frac{2}{3}. From this list write down an irrational number.",1,exponents and surds
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,2(a),Write 0.0030948 correct to 3 significant figures.,1,topics in arithmetic
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,2(b),Write 579644358 correct to the nearest million.,1,topics in arithmetic
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,3,In the diagram AC = BC = AD. BCD is a straight line. Find angle BAC.,2,angles
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,4(a),Draw all the lines of symmetry of this regular pentagon.,1,transformations
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,4(b),A quadrilateral has rotational symmetry of order 2 and no lines of symmetry. Write down the mathematical name of this quadrilateral.,1,transformations
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,5,Work out 1\frac{3}{7} \times 4\frac{2}{3}. Give your answer as a mixed number in its simplest form.,3,topics in arithmetic
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,6(a),Describe fully the single transformation that maps triangle A onto triangle B.,2,transformations
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,6(b),Describe fully the single transformation that maps triangle A onto triangle C.,3,transformations
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,6(c),"Rotate triangle A through 90° anticlockwise about (-1, 1).",2,transformations
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,7,The ratio a : b = 7 : 12. The ratio b : c = 8 : 5. Find the ratio a : b : c in its simplest form.,2,topics in arithmetic
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,8,"The mean of 9 numbers is 8. When an extra number is included, the mean is 7.7. Find the extra number.",2,statistics
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,9(a),Factorise. 4x^2y^3 - 6xy^4,2,expanding and factorising
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,9(b),Factorise. 18p^2 - 2,2,expanding and factorising
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,10,Work out 4 \times 10^{18} + 3.2 \times 10^{17}. Give your answer in standard form.,2,exponents and surds
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,11,Solve. 7 - 3x > 2x - 8,2,inequalities
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,12,"P = 2^3 \times 3^a \times 5^b \times 7, Q = 2 \times 3^5 \times 7^c. The highest common factor (HCF) of P and Q is 2 \times 3^4 \times 7. The lowest common multiple (LCM) of P and Q is 2^3 \times 3^5 \times 5^2 \times 7. Find the values of a, b and c.",3,topics in arithmetic
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,13(a),"A, B, C, D, E and F are points on a circle, centre O. Find angle BFE.",1,circle theorems
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,13(b),"A, B, C, D, E and F are points on a circle, centre O. Find angle BED.",1,circle theorems
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,13(c),"A, B, C, D, E and F are points on a circle, centre O. Find reflex angle BOE. Give geometrical reasons for your answer.",3,circle theorems
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,14(a),"These are the first 5 terms of a sequence. 1, 7, 17, 31, 49. Find the next term of the sequence.",1,sequences
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,14(b),"These are the first 5 terms of a sequence. 1, 7, 17, 31, 49. Find an expression for the nth term of the sequence.",2,sequences
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,15,Solve. 2x^2 - 5x - 3 = 0,3,solving quadratic equations
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,16,"A is the point (-3, 2) and B is the point (5, -8). Find the equation of the perpendicular bisector of AB.",5,straight lines
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,17(a),The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the interquartile range,2,statistics
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,17(b),The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the number of plants greater than 20 cm in height.,2,statistics
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,18(a)(i),"f(x) = 3x - 2, g(x) = 5 - x. Find f(-4).",1,functions
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,18(a)(ii),"f(x) = 3x - 2, g(x) = 5 - x. Find g^{-1}(x).",1,functions
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,18(a)(iii),"f(x) = 3x - 2, g(x) = 5 - x. Solve gf(x) = 1.",3,functions
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,18(b),h(x) is a function with an inverse function h^{-1}(x). Find hh^{-1}(x).,1,functions
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,19,Expand and simplify. (x - 4)(2x + 1)(x + 2),3,expanding and factorising
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,20(a),Solve \tan x = \sqrt{3} for values of x between 0° and 360°.,2,trigonometry
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,20(b),Solve 4 \sin x + 3 = 1 for values of x between 0° and 360°.,3,trigonometry
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,21(a),y is inversely proportional to x^3. y = 1 when x = 2. Find y in terms of x.,2,variation and proportion
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,21(b),y is inversely proportional to x^3. y = 1 when x = 2. Find x when y = 27.,2,variation and proportion
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,22(a),Simplify. \sqrt{120} \times \sqrt{27},2,exponents and surds
+0607_s25_qp_21.json,0607,s,May/Jun,2025,2,non_calculator,1,22(b),Simplify. \frac{1}{5 - 2\sqrt{3}},2,exponents and surds
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,1(a),Work out (0.02)^3.,1,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,1(b),Write your answer to part (a) in standard form.,1,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,2,"This is a list of numbers. 31, 33, 35, 37, 39, 41. From this list, write down all the prime numbers.",2,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,3,Write the fraction 24/64 in its lowest terms.,1,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,4,Convert 250 cm^3 into m^3.,1,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,5,A quadrilateral has exactly one pair of parallel sides. Write down the mathematical name of this quadrilateral.,1,mensuration
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,6(a),Share 120 in the ratio 2 : 3.,2,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,6(b),Share Z in the ratio x : y.,2,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,7(a),"At a school, 50 students are asked their favourite car colour. The table shows the results (Colour: Red, Blue, White, Silver, Black; Frequency: 7, x, 15, 16, x). Find the value of x.",2,statistics
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,7(b),Find the relative frequency of red.,1,probability
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,8(a),Expand and simplify. 5(2x - 1) - 3(3 + 4x),2,expanding and factorising
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,8(b)(i),Factorise. 3y - y^2,1,expanding and factorising
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,8(b)(ii),Factorise. 8ax - 3by + 2ay - 12bx,2,expanding and factorising
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,8(b)(iii),Factorise. 3x^2 + 5x - 12,2,expanding and factorising
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,9(a),The table shows the marks scored by each of 60 students in a science test. Write down the mode.,1,statistics
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,9(b),Find the interquartile range.,2,statistics
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,10,Use set notation to describe each of the shaded regions.,2,sets and Venn diagrams
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,11,Simplify. (5x)^3 \div (1/x)^4,2,exponents and surds
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,12,A solid is made by joining a cuboid to a pyramid. The base of the cuboid is a square of side x. The height of the cuboid is 3x. The base of the pyramid is a square of side x. The height of the pyramid is 3x. The total volume of the solid is 32000 cm^3. Show that x = 20.,3,mensuration
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,13(a),Show that x = 5.,2,trigonometry
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,13(b),Find the value of y.,3,trigonometry
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,14,"Find the lowest common multiple (LCM) of these expressions: 2x^3y^4, 3x^2z^3, 4y^2z.",2,exponents and surds
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,15,"An unbiased die is numbered 2, 3, 4, 4, 5, 6. Zaira rolls the die three times. Find the probability that Zaira rolls an odd number two or more times.",4,probability
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,16(a),"Find the next term and the nth term in the sequence: 12, 14, 16, 18, 20, ....",3,sequences
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,16(b),"Find the next term and the nth term in the sequence: 81, 27, 9, 3, 1, ....",3,sequences
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,17(a),"The diagram shows a circle, centre O. AOBP is a straight line. PC is a tangent to the circle. Angle AOC = 116°. Find angle OAC.",1,circle theorems
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,17(b),Find angle ABC.,1,circle theorems
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,17(c),Find angle ADC.,1,circle theorems
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,17(d),Find angle APC.,2,circle theorems
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,18,Apples cost $2.50 per kilogram. The total cost of x kg of apples and y kg of pears is $10. Find the cost of 1 kg of pears. Give your answer in terms of x and y.,3,topics in arithmetic
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,19(a),"f(x) = 1 / (5x - 4), x \neq 0.8. Find f(2).",1,functions
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,19(b),Solve f(x) = 1/11.,2,functions
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,19(c),Find f^{-1}(x).,3,functions
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,20(a),Rationalise the denominator: (\sqrt{3} - \sqrt{2}) / (\sqrt{3} + \sqrt{2}),3,exponents and surds
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,20(b),Expand and simplify: (\sqrt{x+1} - \sqrt{x})(\sqrt{x+1} + \sqrt{x}),2,exponents and surds
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,21(a),"Line L is perpendicular to the line with equation y = 2x + 1. Line L passes through the point (3, 12). Find the equation of the line L.",3,straight lines
+0607_s25_qp_22.json,0607,s,May/Jun,2025,2,non_calculator,2,21(b),"The shortest distance from the point (3, 12) to the line y = 2x + 1 is \sqrt{k}. Find the value of k.",5,straight lines
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,1,Work out. 2 - 5 \times 3 + 7,1,topics in arithmetic
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,2(a),"This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the square number",1,topics in arithmetic
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,2(b),"This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the prime number",1,topics in arithmetic
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,2(c),"This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the triangle number.",1,topics in arithmetic
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,3,Simplify. 2x - 3y - x - 2y,2,expanding and factorising
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,4,A regular polygon has 20 sides. Work out the size of one interior angle of the polygon.,3,angles
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,5(a),Ganpreet and Rahul share $240 in the ratio 7 : 5. Show that the value of Rahul's share is $100.,1,topics in arithmetic
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,5(b),Ganpreet spends $x of her share. Rahul spends $x of his share. The ratio of their remaining money is Ganpreet : Rahul = 2 : 1. Find the value of x.,3,solving linear equations
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,6,"The cost of a bar of chocolate is $c. The cost of a packet of sweets is $p. The total cost of 5 bars of chocolate and 2 packets of sweets is $13. The total cost of 7 bars of chocolate and 4 packets of sweets is $20. By forming a pair of simultaneous equations, find the cost of one bar of chocolate and the cost of one packet of sweets.",5,simultaneous equations
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,7,Work out 5(1/3) \div 1(3/5). Give your answer as a mixed number in its simplest form.,3,topics in arithmetic
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,8(a),Translate triangle T by the vector (1 \ -4).,2,transformations
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,8(b),Describe fully the single transformation that maps triangle T onto triangle P.,3,transformations
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,9,Find the value of 16^(-3/2).,2,exponents and surds
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,10,"A, B, C, D and E lie on the circle. TU is a tangent to the circle at C. Find the values of x, y and z.",4,circle theorems
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,11(a),Simplify. \sqrt{27} - 2\sqrt{75},2,exponents and surds
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,11(b),Rationalise the denominator and simplify. 6 / (\sqrt{5} - \sqrt{2}),3,exponents and surds
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,12,The diagram shows a sector of a circle with radius 8 cm. The area of the sector is 8\pi cm^2. The perimeter of the sector is (a + b\pi) cm. Find the value of a and the value of b.,4,mensuration
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,13,Work out. 4.9 \times 10^{199} + 4.9 \times 10^{197},2,exponents and surds
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,14(a)(i),"f(x) = \cos x, 0^\circ \le x \le 360^\circ. Write down the exact value of f(0).",1,trigonometry
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,14(a)(ii),"f(x) = \cos x, 0^\circ \le x \le 360^\circ. Write down the exact value of f(30^\circ).",1,trigonometry
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,14(b),"On the diagram, sketch the graph of y = f(x) for 0^\circ \le x \le 360^\circ.",2,functions
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,14(c),Write down the amplitude of f(x).,1,functions
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,15,y^{2k} \times x \times y^3 = 1/y. Find the value of k.,2,exponents and surds
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,16,Rearrange 4y - 3x = 1 - py to write y in terms of p and x.,2,solving linear equations
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,17,"The diagram shows a sketch of the graph of y = x^2 + ax + b. The point (1, -2) is a minimum. Find the value of a and the value of b.",3,solving quadratic equations
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,18,Solve. 3(2x + 1) > 5 - 4x,3,inequalities
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,19(a),Solve. Give each answer as an exact value. 2^x = 5,1,logarithms
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,19(b),Solve. Give each answer as an exact value. 2 \log y = 1,1,logarithms
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,20(a),"These are the first 5 terms of a sequence: 3, 6, 12, 24, 48. Find the next term of the sequence.",1,sequences
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,20(b),Find the nth term of the sequence.,2,sequences
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,21(a),"The diagram shows a triangular prism. The cross-section is a right-angled triangle EAB. AE = 3 cm, AB = 4 cm and BC = 12 cm. Work out the length of BF.",3,Pythagoras
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,21(b),Find the sine of the angle between BF and the base ABCD.,1,trigonometry
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,22,Write as a single fraction in its simplest form. 2 - 3 / (x - 2),2,expanding and factorising
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,23(a),Bag A contains 4 white balls and 3 black balls. Bag B contains 5 white balls and 4 black balls. Ranjit picks a ball at random from Bag A and replaces it. Ranjit also picks a ball at random from Bag B and replaces it. Find the probability that the two balls are the same colour.,3,probability
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,23(b),Leyla picks a ball at random from Bag A. She places it into Bag B. She then picks a ball at random from Bag B. Find the probability that the ball she picks from Bag B is black.,3,probability
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,1,"From this list write down the square number. 8, 27, 49, 51, 53, 55, 99",1,topics in arithmetic
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,2,Change 3.2 metres into millimetres.,1,topics in arithmetic
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,3(a),Write each number in standard form. (a) 28010,1,topics in arithmetic
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,3(b),Write each number in standard form. (b) 0.100209,1,topics in arithmetic
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,4,Each interior angle of a regular polygon is 170°. Find the number of sides of this polygon.,3,angles
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,5,Xian walks 8 km in 1 1/2 hours. She then runs 10 km in 45 minutes. Find her average speed in km/h for the whole journey.,3,topics in arithmetic
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,6,AB = AC. Find the value of x.,2,angles
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,7,"The lengths of the sides of a right-angled triangle are 6 cm, 8 cm and 10 cm. Find the tangent of the smallest angle.",1,trigonometry
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,8,Magda buys 6 apples and 4 oranges for a total cost of $4.18. Oranges cost $0.52 each. Find the cost of one apple.,3,solving linear equations
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,9,The mean of five numbers is 16. When two extra numbers are included the mean of the seven numbers is 20. Find the mean of the two extra numbers.,2,statistics
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,10,"The point A has co-ordinates (1, -5) and the point B has co-ordinates (9, 1). Find the equation of the perpendicular bisector of AB in the form y = mx + c.",5,straight lines
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,11,Factorise completely. 8x^2 - 18,2,expanding and factorising
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,12(a),Simplify. \sqrt{300} - \sqrt{27},2,exponents and surds
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,12(b),Rationalise the denominator and simplify your answer. \frac{14}{3 - \sqrt{2}},3,exponents and surds
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,13,Solve the equation. 3 \log x - \log 4 = 4 \log 2,3,logarithms
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,14,Rearrange the formula to make x the subject. y = 1 - \frac{x}{3x - 5},4,solving linear equations
+0607_w19_qp_22.json,0607,w,Oct/Nov,2019,2,non_calculator,2,15,An archer fires three arrows at a target. The probability that the archer hits the target with each arrow is 3/5. Find the probability that the archer hits the target exactly twice.,3,probability
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,1(a),Adam and Brenda share $560 in the ratio Adam : Brenda = 4 : 3. Show that Adam receives $320.,1,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,1(b),Adam spends 15% of his $320 on some software. Calculate how much Adam spends on this software.,2,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,1(c),"In a sale, Brenda buys a computer for $179.40. This is 8% less than the original price. Calculate the original price of the computer.",2,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,1(d),Adam spends a further $29.60 on a train ticket. Adam and Brenda then work out how much money each of them has left. Show that Adam has 4 times as much left as Brenda.,3,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,2(a),Find the size of one interior angle of a regular polygon with 45 sides.,3,angles
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,2(b)(i),"In the diagram, A, B, C and D lie on the circle. TA is a tangent to the circle at A. Angle TAD = 75° and angle DAC = 35°. Find angle ACD,",1,circle theorems
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,2(b)(ii),"In the diagram, A, B, C and D lie on the circle. TA is a tangent to the circle at A. Angle TAD = 75° and angle DAC = 35°. Find angle ABC.",2,circle theorems
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,2(c)(i),"In the diagram, DE is parallel to BC. Complete the statement. Triangle ADE is ...................................................... to triangle ABC.",1,similarity
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,2(c)(ii),"AE = 6 cm, EC = 3 cm and DB = 2 cm. Calculate the length of AD.",3,similarity
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,2(c)(iii),The area of triangle ADE is 9 cm2. Calculate the area of triangle ABC.,2,similarity
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(a)(i),"Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the range,",1,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(a)(ii),"Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the mode,",1,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(a)(iii),"Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the median,",1,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(a)(iv),"Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the lower quartile,",1,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(a)(v),"Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the mean.",2,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(b)(i),"Frank compares the science marks, x, with the mathematics marks, y, of ten students. Complete the scatter diagram. The first six points have been plotted for you.",2,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(b)(ii),What type of correlation is shown on the scatter diagram?,1,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(b)(iii),"Find the equation of the line of regression, giving y in terms of x.",2,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(b)(iv),Another student's science mark is 16. Use your answer to part (b)(iii) to find an expected mathematics mark for this student.,1,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,3(c),"Georgio records the time, t minutes, he takes to complete each of 40 pieces of mathematics homework. Calculate an estimate of the mean.",2,statistics
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(a)(i),The Venn diagram shows the number of students who like sweets (S) and the number of students who like nuts (N). Find the number of students who like nuts.,1,sets and Venn diagrams
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(a)(ii),Find the number of students who like sweets or nuts but not both.,1,sets and Venn diagrams
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(b)(i),Find n(U).,1,sets and Venn diagrams
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(b)(ii),Find n(S ∩ N).,1,sets and Venn diagrams
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(b)(iii),Find n(S' ∩ N).,1,sets and Venn diagrams
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(c),One of these students is chosen at random. Find the probability that this student likes nuts but not sweets.,1,probability
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(d),Two of these students are chosen at random. Find the probability that they both like sweets and nuts.,2,probability
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,4(e),Two students who like sweets are chosen at random. Find the probability that they both also like nuts.,3,probability
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,5(a),Carla invests $600 at a rate of 1.8% per year compound interest. Calculate the value of Carla's investment at the end of 7 years.,3,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,5(b),Dominic wants to invest his money so that it will double its value in 17 years. Find the lowest possible rate of compound interest per year that will give Dominic this result. Give your answer correct to 1 decimal place.,4,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,5(c),"Each year, the population of a village is decreasing at a rate of 4% of its value at the beginning of that year. The population is now 2120. Find the number of complete years since the population was last greater than 2700.",4,topics in arithmetic
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,6(a),The diagram shows a solid made from a cylinder and two hemispheres. The cylinder has radius 3 cm and length 11 cm. Each hemisphere has radius 3 cm. Find the volume of the solid. Give your answer in terms of ̴̵̶̷̸̴̵̶̷̸̡̢̧̨̡̢̧̨̛̛̖̗̘̙̜̝̞̟̠̖̗̘̣̙̤̥̦̜̝̞̩̟̪̠̫̬̭̣̮̤̯̥̰̦̱̲̳̩̪̫̬̭̮̹̯̺̰̻̱̼̲̳̹̺̻̼͇͈͉͍͎́̀̑̆̒̈̓̉̔̊̋̌̍̎̏̐̑̒̓̔̽̾̿̀́͂̓̈́͆̽̾̿͊̀͋́͌͂̓̈́̕̚̕̚͠ͅ͏͇͈͓͉͔͕͖͍͎͙͐͆͑͒͊͋͌͗͘ͅ͏͚͓͔͕͖͙͚͐͛͑͒͗͛ͣͤͥͦͧͨͩͪͫͬͭͮͯ͘͜͟͢͜͟͢͝͞͠͡͝͞͠͡ͰͱͲͳʹ͵Ͷͷ͸͹ͺͻͼͽ;Ϳ΀΁΂΃΄΅Ά·ΈΉΊ΋Ό΍ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡ΢ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϏϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲϳϴϵ϶ϷϸϹϺϻϼϽϾϿpi.,3,mensuration
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,6(b)(i),The solid is melted down and all the metal is used to make a cylinder of length 15 cm. Use your answer to part (a) to find the radius of this cylinder.,2,mensuration
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,6(b)(ii),A rectangular tank contains water. The base of the tank measures 20 cm by 10 cm. The cylinder is placed in the tank so that it is completely covered by water. No water overflows the tank. Calculate the increase in the depth of the water in the tank.,2,mensuration
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,7(a)(i),Factorise a^2 - b^2.,1,expanding and factorising
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,7(a)(ii),The diagram shows two squares. The difference between the areas of the squares is 7.41 cm2. The difference between the lengths of the sides of the squares is 1.3 cm. Find the area of the larger square.,5,simultaneous equations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,7(b)(i),Factorise x^2 - 5x - 24.,2,expanding and factorising
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,7(b)(ii),The area of rectangle A is 15 cm2 greater than the area of rectangle B. Find the area of rectangle A.,8,solving quadratic equations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,8(a)(i),"On the diagram, sketch the graph of y = 1.5^-x for -2 ≤ x ≤ 2.",2,functions
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,8(a)(ii),Solve the inequality 0.5 ≤ 1.5^-x ≤ 1.,3,inequalities
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,8(a)(iii),Solve the equation 1.5^-x = x^2 for -2 ≤ x ≤ 2.,3,solving quadratic equations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,8(a)(iv),On your diagram shade the regions where 1.5^-x < x^2 for -2 ≤ x ≤ 2.,1,inequalities
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,8(b),"The diagram shows a sketch of the graph of y = (-2x + b) / (x + a). The asymptotes of the graph are x = 2 and y = -2. The graph passes through the point (0, 2). Find the value of a and the value of b.",3,functions
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,8(c),"f(x) is a function such that the asymptotes of the graph are x = a, x = b and y = k; when x < a, the gradient of the graph is positive; when x > b, the gradient of the graph is negative; M is the only local maximum point; the graph does not cross any asymptote. On the diagram sketch the graph of y = f(x).",3,functions
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,9(a),"p = (-1/3), q = (2/-1). Find p - q.",1,vectors
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,9(b),"A is the point (3, 4). A is translated onto H by the vector p. Find the coordinates of H.",1,vectors
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,9(c),"A is the point (3, 4). J is translated onto A by the vector q. Find the coordinates of J.",1,vectors
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,9(d),Find the coordinates of the mid-point of HJ.,1,vectors
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,9(e),Find the length of HJ.,3,vectors
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,9(f),"A line L, parallel to the vector q, has gradient -1/2. Find the equation of the line perpendicular to the line L that passes through the point A.",3,straight lines
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,10(a)(i),Describe fully the single transformation that maps shape T onto shape V.,3,transformations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,10(a)(ii),Reflect shape T in the line y = -2.,2,transformations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,10(a)(iii),Stretch shape T by a factor of 2 with the x-axis invariant.,2,transformations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,10(b),"f(x) = log(x), g(x) = log(x^3). Describe fully the single transformation that maps the graph of y = f(x) onto the graph of y = g(x).",3,transformations
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,11(a),"f(x) = x^3, g(x) = 3^x. Find g(2) - f(2).",2,functions
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,11(b),Find x when g(x) = 1/9.,1,exponents and surds
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,11(c),Write x - 1/f(x) in terms of x. Give your answer as a single fraction.,2,functions
+0607_w20_qp_43.json,0607,w,Oct/Nov,2020,4,calculator,3,11(d),Find f^-1(x).,1,functions

@@ -1,0 +1,2518 @@
+{
+  "0607_w20_qp_43.pdf": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Adam and Brenda share $560 in the ratio Adam : Brenda = 4 : 3. Show that Adam receives $320.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Adam spends 15% of his $320 on some software. Calculate how much Adam spends on this software.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "In a sale, Brenda buys a computer for $179.40. This is 8% less than the original price. Calculate the original price of the computer.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Adam spends a further $29.60 on a train ticket. Adam and Brenda then work out how much money each of them has left. Show that Adam has 4 times as much left as Brenda.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Find the size of one interior angle of a regular polygon with 45 sides.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "In the diagram, A, B, C and D lie on the circle. TA is a tangent to the circle at A. Angle TAD = 75° and angle DAC = 35°. Find angle ACD,",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "In the diagram, A, B, C and D lie on the circle. TA is a tangent to the circle at A. Angle TAD = 75° and angle DAC = 35°. Find angle ABC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "In the diagram, DE is parallel to BC. Complete the statement. Triangle ADE is ...................................................... to triangle ABC.",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "AE = 6 cm, EC = 3 cm and DB = 2 cm. Calculate the length of AD.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "2(c)(iii)",
+      "question_text": "The area of triangle ADE is 9 cm2. Calculate the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the range,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the mode,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the median,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iv)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the lower quartile,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(v)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Frank compares the science marks, x, with the mathematics marks, y, of ten students. Complete the scatter diagram. The first six points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "What type of correlation is shown on the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(iii)",
+      "question_text": "Find the equation of the line of regression, giving y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(iv)",
+      "question_text": "Another student's science mark is 16. Use your answer to part (b)(iii) to find an expected mathematics mark for this student.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Georgio records the time, t minutes, he takes to complete each of 40 pieces of mathematics homework. Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "The Venn diagram shows the number of students who like sweets (S) and the number of students who like nuts (N). Find the number of students who like nuts.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the number of students who like sweets or nuts but not both.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Find n(U).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Find n(S ∩ N).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(b)(iii)",
+      "question_text": "Find n(S' ∩ N).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "One of these students is chosen at random. Find the probability that this student likes nuts but not sweets.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Two of these students are chosen at random. Find the probability that they both like sweets and nuts.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "Two students who like sweets are chosen at random. Find the probability that they both also like nuts.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Carla invests $600 at a rate of 1.8% per year compound interest. Calculate the value of Carla's investment at the end of 7 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Dominic wants to invest his money so that it will double its value in 17 years. Find the lowest possible rate of compound interest per year that will give Dominic this result. Give your answer correct to 1 decimal place.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Each year, the population of a village is decreasing at a rate of 4% of its value at the beginning of that year. The population is now 2120. Find the number of complete years since the population was last greater than 2700.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "The diagram shows a solid made from a cylinder and two hemispheres. The cylinder has radius 3 cm and length 11 cm. Each hemisphere has radius 3 cm. Find the volume of the solid. Give your answer in terms of ̴̵̶̷̸̴̵̶̷̸̡̢̧̨̡̢̧̨̛̛̖̗̘̙̜̝̞̟̠̖̗̘̣̙̤̥̦̜̝̞̩̟̪̠̫̬̭̣̮̤̯̥̰̦̱̲̳̩̪̫̬̭̮̹̯̺̰̻̱̼̲̳̹̺̻̼͇͈͉͍͎́̀̑̆̒̈̓̉̔̊̋̌̍̎̏̐̑̒̓̔̽̾̿̀́͂̓̈́͆̽̾̿͊̀͋́͌͂̓̈́̕̚̕̚͠ͅ͏͇͈͓͉͔͕͖͍͎͙͐͆͑͒͊͋͌͗͘ͅ͏͚͓͔͕͖͙͚͐͛͑͒͗͛ͣͤͥͦͧͨͩͪͫͬͭͮͯ͘͜͟͢͜͟͢͝͞͠͡͝͞͠͡ͰͱͲͳʹ͵Ͷͷ͸͹ͺͻͼͽ;Ϳ΀΁΂΃΄΅Ά·ΈΉΊ΋Ό΍ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡ΢ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϏϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲϳϴϵ϶ϷϸϹϺϻϼϽϾϿpi.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "The solid is melted down and all the metal is used to make a cylinder of length 15 cm. Use your answer to part (a) to find the radius of this cylinder.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "A rectangular tank contains water. The base of the tank measures 20 cm by 10 cm. The cylinder is placed in the tank so that it is completely covered by water. No water overflows the tank. Calculate the increase in the depth of the water in the tank.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Factorise a^2 - b^2.",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "The diagram shows two squares. The difference between the areas of the squares is 7.41 cm2. The difference between the lengths of the sides of the squares is 1.3 cm. Find the area of the larger square.",
+      "marks_available": "[5]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Factorise x^2 - 5x - 24.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "The area of rectangle A is 15 cm2 greater than the area of rectangle B. Find the area of rectangle A.",
+      "marks_available": "[8]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = 1.5^-x for -2 ≤ x ≤ 2.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Solve the inequality 0.5 ≤ 1.5^-x ≤ 1.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Solve the equation 1.5^-x = x^2 for -2 ≤ x ≤ 2.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(a)(iv)",
+      "question_text": "On your diagram shade the regions where 1.5^-x < x^2 for -2 ≤ x ≤ 2.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "The diagram shows a sketch of the graph of y = (-2x + b) / (x + a). The asymptotes of the graph are x = 2 and y = -2. The graph passes through the point (0, 2). Find the value of a and the value of b.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "f(x) is a function such that the asymptotes of the graph are x = a, x = b and y = k; when x < a, the gradient of the graph is positive; when x > b, the gradient of the graph is negative; M is the only local maximum point; the graph does not cross any asymptote. On the diagram sketch the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "p = (-1/3), q = (2/-1). Find p - q.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "A is the point (3, 4). A is translated onto H by the vector p. Find the coordinates of H.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "A is the point (3, 4). J is translated onto A by the vector q. Find the coordinates of J.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Find the coordinates of the mid-point of HJ.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(e)",
+      "question_text": "Find the length of HJ.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(f)",
+      "question_text": "A line L, parallel to the vector q, has gradient -1/2. Find the equation of the line perpendicular to the line L that passes through the point A.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Describe fully the single transformation that maps shape T onto shape V.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Reflect shape T in the line y = -2.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Stretch shape T by a factor of 2 with the x-axis invariant.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "f(x) = log(x), g(x) = log(x^3). Describe fully the single transformation that maps the graph of y = f(x) onto the graph of y = g(x).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "f(x) = x^3, g(x) = 3^x. Find g(2) - f(2).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find x when g(x) = 1/9.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Write x - 1/f(x) in terms of x. Give your answer as a single fraction.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "Find f^-1(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    }
+  ],
+  "0607_s25_qp_21.pdf": [
+    {
+      "question_number": "1(a)",
+      "question_text": "This is a list of numbers. 3.142, \\sqrt{125}, 125, 81, 7\\frac{2}{3}. From this list write down a cube number",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "This is a list of numbers. 3.142, \\sqrt{125}, 125, 81, 7\\frac{2}{3}. From this list write down an irrational number.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write 0.0030948 correct to 3 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Write 579644358 correct to the nearest million.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "In the diagram AC = BC = AD. BCD is a straight line. Find angle BAC.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Draw all the lines of symmetry of this regular pentagon.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "A quadrilateral has rotational symmetry of order 2 and no lines of symmetry. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Work out 1\\frac{3}{7} \\times 4\\frac{2}{3}. Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Rotate triangle A through 90° anticlockwise about (-1, 1).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "The ratio a : b = 7 : 12. The ratio b : c = 8 : 5. Find the ratio a : b : c in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8",
+      "question_text": "The mean of 9 numbers is 8. When an extra number is included, the mean is 7.7. Find the extra number.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Factorise. 4x^2y^3 - 6xy^4",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Factorise. 18p^2 - 2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Work out 4 \\times 10^{18} + 3.2 \\times 10^{17}. Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Solve. 7 - 3x > 2x - 8",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "12",
+      "question_text": "P = 2^3 \\times 3^a \\times 5^b \\times 7, Q = 2 \\times 3^5 \\times 7^c. The highest common factor (HCF) of P and Q is 2 \\times 3^4 \\times 7. The lowest common multiple (LCM) of P and Q is 2^3 \\times 3^5 \\times 5^2 \\times 7. Find the values of a, b and c.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "A, B, C, D, E and F are points on a circle, centre O. Find angle BFE.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "A, B, C, D, E and F are points on a circle, centre O. Find angle BED.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "13(c)",
+      "question_text": "A, B, C, D, E and F are points on a circle, centre O. Find reflex angle BOE. Give geometrical reasons for your answer.",
+      "marks_available": "[3]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "These are the first 5 terms of a sequence. 1, 7, 17, 31, 49. Find the next term of the sequence.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "These are the first 5 terms of a sequence. 1, 7, 17, 31, 49. Find an expression for the nth term of the sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Solve. 2x^2 - 5x - 3 = 0",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "16",
+      "question_text": "A is the point (-3, 2) and B is the point (5, -8). Find the equation of the perpendicular bisector of AB.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "17(a)",
+      "question_text": "The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the interquartile range",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "17(b)",
+      "question_text": "The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the number of plants greater than 20 cm in height.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "18(a)(i)",
+      "question_text": "f(x) = 3x - 2, g(x) = 5 - x. Find f(-4).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "18(a)(ii)",
+      "question_text": "f(x) = 3x - 2, g(x) = 5 - x. Find g^{-1}(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "18(a)(iii)",
+      "question_text": "f(x) = 3x - 2, g(x) = 5 - x. Solve gf(x) = 1.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "18(b)",
+      "question_text": "h(x) is a function with an inverse function h^{-1}(x). Find hh^{-1}(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "19",
+      "question_text": "Expand and simplify. (x - 4)(2x + 1)(x + 2)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "20(a)",
+      "question_text": "Solve \\tan x = \\sqrt{3} for values of x between 0° and 360°.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "20(b)",
+      "question_text": "Solve 4 \\sin x + 3 = 1 for values of x between 0° and 360°.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "21(a)",
+      "question_text": "y is inversely proportional to x^3. y = 1 when x = 2. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "21(b)",
+      "question_text": "y is inversely proportional to x^3. y = 1 when x = 2. Find x when y = 27.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "22(a)",
+      "question_text": "Simplify. \\sqrt{120} \\times \\sqrt{27}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "22(b)",
+      "question_text": "Simplify. \\frac{1}{5 - 2\\sqrt{3}}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    }
+  ],
+  "0607_s24_qp_42.pdf": [
+    {
+      "question_number": "1(a)",
+      "question_text": "The volume of a triangular prism is 476 cm3. The base of the triangle is 8 cm and the perpendicular height is 7 cm. Calculate the length of the prism.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "The volume of a solid steel cube is 8000 cm3. The mass of 1 cm3 of the steel is 7.86 g. Calculate the mass of the cube. Give your answer in kilograms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Calculate the total surface area of the cube.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "1(b)(iii)",
+      "question_text": "The steel cube is melted down and made into spheres with radius 3.5 cm. Calculate the number of these spheres that are made.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Yuri and Zoe share some money in the ratio 8 : 7. Zoe receives $210. Show that Yuri receives $240.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "He spends 21% of his $240 on the set of books. Calculate the cost of the set of books.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "He spends $75.50 on the concert ticket. Calculate the amount Yuri has remaining as a percentage of the $240.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Zoe spends $140 on software. She is given a discount of 20% on the original price of the software. Calculate the original price of the software.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Find the ratio Yuri's remaining money : Zoe's remaining money. Give your answer in the form n : 1.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Find the height of the stone when x = 7.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Find the maximum height of the stone.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Find the distance OG.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(a)(iv)",
+      "question_text": "There are two points in the path of the stone where its height is 2 m. Find the horizontal distance between these two points.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Write down the equation of each asymptote.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(iii)",
+      "question_text": "f(x) = k has two solutions. Find the range of values of k.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(iv)(a)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(iv)(b)",
+      "question_text": "Solve the equation f(x) = 3 - x.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Erin rolls a biased die a number of times. The table shows the results. The mean score is 3.75. Find the value of x.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)(a)",
+      "question_text": "Use the information in the table to complete the cumulative frequency table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)(b)",
+      "question_text": "On the grid, draw the cumulative frequency curve.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Use your curve to estimate the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Use your curve to estimate the number of students who took more than 13 minutes to complete their mathematics homework.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Calculate the area of an equilateral triangle with side length 12 cm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Calculate the area of a circle with circumference 60 cm.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "The diagram shows part of a regular 10-sided polygon with centre O and side length 6 cm. Calculate the area of the polygon.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Calculate the number of complete years it took for Xavier's annual pay to be 30% greater than his annual pay in 2000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "In 2024 Xavier's annual pay is $25215. Calculate the amount Xavier's pay will increase from his annual pay in 2022 to his annual pay in 2027. Give your answer correct to the nearest dollar.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Solve 63 = 8(3 - 2a).",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. p/3 - q = 5/12, 2p + q/2 = 7/8",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7(c)(i)",
+      "question_text": "Factorise c^2 - c - 56.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(c)(ii)",
+      "question_text": "Solve c^2 - c - 56 = 0.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "P is the point (-3, 2). The vector from P to Q is (5 / -7). Find the coordinates of Q.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Find the magnitude of the vector (5 / -7).",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the equation of the line that passes through the points (-3, -1) and (1, 11). Give your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Find f(-5).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Find the value of h(f(9)). Give your answer in standard form correct to 4 significant figures.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(iii)",
+      "question_text": "Find g(f(x)), giving your answer in the form ax^2 + bx + c.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(iv)",
+      "question_text": "Find f^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(v)",
+      "question_text": "The domain of h(x) is -1 <= x <= 2. Find the range of h(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Find x when j(x) = 3.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find j^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "9(b)(iii)",
+      "question_text": "j(w) = 3j(x). Find w in terms of x.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Tina picks one ball at random, notes the colour and replaces it in the bag. Find the probability that Tina picks a red ball.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Tina repeats this 60 times. Find the number of times the ball she picks is expected to be red.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "Eli picks two balls at random without replacement. Find the probability that both balls are blue.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Eli picks two balls at random without replacement. Find the probability that one ball is red and one ball is blue.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "The balls are replaced in the bag. Ida picks one ball at random, notes the colour and replaces it in the bag. She then picks another ball at random. Find the probability that the two balls are the same colour.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Simplify (9x^2 - 4y^2) / (9x^2 - 6xy).",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Show that 5 / (2x - 3) - 7 / (4 - x) = 2 leads to 4x^2 - 41x + 65 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Solve 5 / (2x - 3) - 7 / (4 - x) = 2, giving your answers correct to 2 decimal places. You must show all your working.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    }
+  ],
+  "0607_m21_qp_22.pdf": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Construct an ordered stem-and-leaf diagram to show this information, including a key.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Point A (7, 5) is translated to point B (2, 2). Find the vector that represents this translation.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Find the highest common factor (HCF) of 84 and 72.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Solve |x| + 2 = 7.",
+      "marks_available": "[1]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Point A has coordinates (-3, 2). Point B has coordinates (5, -4). Find the mid-point of AB.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Point A has coordinates (-3, 2). Point B has coordinates (5, -4). Find the length of AB.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Find the value of p when 2^6 \\div 4^p = 2^7.",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Iraj travels to school either by bus or on a bicycle. The probability that he goes by bus is 0.3. He can have lunch at home or at school. The probability that he has lunch at school is 0.6. Complete the tree diagram.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the probability that Iraj travels on a bicycle to school and goes home for lunch.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Expand and simplify 4(2a + 5b) - 3(6b - 3a).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "A, B, C, and D are points on a circle. CDE is a straight line. Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "P, Q, R, S and T are points on the circle centre O. TOQ is a straight line. Find angle STR.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "P, Q, R, S and T are points on the circle centre O. TOQ is a straight line. Find angle QOR.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Aisha picks three number cards from a pack. The mean of the three numbers is 6 1/3. She picks another card from the pack. The mean of the four numbers is 6 1/2. Work out the number on the fourth card.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Find the next term and an expression for the nth term of this sequence: 35, 29, 19, 5, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Rearrange this formula to make x the subject: y = (a - x) / (3x).",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Rationalise the denominator and simplify: 2 / (\\sqrt{5} + 1).",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Write as a single fraction in its simplest form: (3a) / (a + 4) - (a - 1) / (2a).",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    }
+  ],
+  "0607_s24_qp_43.pdf": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Find the mode",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Find the median",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(iii)",
+      "question_text": "Find the range",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(iv)",
+      "question_text": "Find the upper quartile",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(v)",
+      "question_text": "Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "This table shows the numbers of letters delivered to the houses in another street one day. Number of letters 0 1 2 3 4 5 6 Frequency 18 31 27 18 n 12 5 The mean number of letters delivered in this street is 2.28. Find the value of n.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Ameera and Bertrand share some money in the ratio 4 : 5. Bertrand gets $3000. Calculate Ameera's share.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Bertrand invests $3000 at a rate of r% per year simple interest. At the end of 10 years the value of the investment is $3840. Find the value of r.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Claudia invests $6000 at a rate of s% per year compound interest. At the end of 8 years the value of the investment is $7367.67. Find the value of s.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Dieter invests $4000 at a rate of 1.8% per year compound interest. At the end of n complete years the value of the investment is more than $6000. Calculate the smallest value of n.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Write down the probability that the die shows a number less than 5",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Write down the probability that the die shows an even number.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Find the probability that both dice show a 6",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Find the probability that at least one die does not show a 6.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Complete this tree diagram.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Find the probability that, on Wednesday, it does not rain and Hannah cycles.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Find the gradient and the y-intercept of line L.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Line P passes through the point (2, 10) and is perpendicular to line L. Show that the equation of line P is 2y - 3x = 14.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the coordinates of the point where line L and line P intersect. You must show all your working.",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the zeros of f(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Write down the coordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "The point (a, b) lies on the graph of y = f(x) where the gradient is positive. Find the range of values for a.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(e)",
+      "question_text": "The equation 5 + 2x - 4x^2 - x^3 = k has exactly one solution. Write down a possible value of the integer k.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Reflect triangle A in the line y = x.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Write down the inverse of each of these transformations. Translation with the vector (-3, 4)",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Write down the inverse of each of these transformations. Stretch with the line y = 1 invariant and stretch factor 3",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Show that the diameter of each semicircle is 4.14 cm, correct to 3 significant figures.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate angle ACB.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate the area of the logo.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "A mathematically similar logo has an area of 35 cm^2. Calculate the perimeter of this logo.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Show that the perpendicular height of the pyramid is 0.628 cm, correct to 3 significant figures.",
+      "marks_available": "[4]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "The diagram shows a kitchen tool made from wood. The tool is formed from a cuboid, a cylinder and 49 of the square-based pyramids from part (a). The cylinder has a radius of 1.2 cm and length 25 cm. The cuboid measures 4.9 cm by 4.9 cm by 6 cm. The mass of 1 cm^3 of the wood is 0.63 grams. Calculate the total mass of the tool.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Solve 2x + 3 = 1 - 5x",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Solve |x + 3| = 2",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Factorise completely. 6x^3 y^2 - 3x^2 y^3",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Write 5 / (2x + 3) - 2 / (x - 5) as a single fraction in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Solve 2x^2 + 3x = 7. You must show all your working and give your answers correct to 2 decimal places.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find f(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Solve f(x) = 2.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find and simplify f(g(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find g^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(e)",
+      "question_text": "Find h(g(29)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(f)",
+      "question_text": "Using a graphical method, solve h(g(x)) = 1 - 0.01x.",
+      "marks_available": "[5]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Show that angle ABC = 80.6°, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the bearing of B from C.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "A ship leaves port A at 13 00. It sails directly towards C at a speed of 32 km/h. At point P the ship is at its shortest distance from B. Find the time when the ship reaches point P. Give your answer correct to the nearest minute.",
+      "marks_available": "[6]",
+      "topic": "trigonometry"
+    }
+  ],
+  "0607_s24_qp_41.pdf": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Solve the equation 3x - 2 = -14.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Solve the equation 7x + 11 = 26 - 3x.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. 5x + 3y = -15, 3x + 5y = -17",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Solve the inequality |2x + 1| > 9.",
+      "marks_available": "[4]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Calculate an estimate of the mean height of the plants.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)(a)",
+      "question_text": "Complete the cumulative frequency table for the plants.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)(b)",
+      "question_text": "On the grid, draw the cumulative frequency curve.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Use your cumulative frequency curve to find an estimate for the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "The heights, h cm, of 50 different plants are shown in the table, where k is an integer. An estimate of the mean height of these plants is 27cm. Find the value of k.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Translate triangle A with vector (2, -6). Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Describe fully the single transformation that maps triangle B onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Rotate triangle A through 90° clockwise about (0, 0). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "Reflect triangle A in the line y = x. Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(e)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "The price of a coat is $84. The price is reduced by 12%. Find the new price of the coat.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "The price of a table is reduced by 25%. The price is now $960. Find the original price of the table.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Samir invests $600 in a bank that pays compound interest at a rate of 5.1% each year. Find the value of Samir’s investment after 4 complete years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "Find the number of complete years for the value of Samir’s investment to be first worth more than $1000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(d)(i)",
+      "question_text": "Amir and Bob work together and share their earnings in the ratio 3:5. Find the amount Bob receives when their earnings are $120.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(d)(ii)",
+      "question_text": "They decide to change the ratio for all further earnings. Amir’s share of the earnings is increased by 20% of his original share. Bob’s share of the earnings is decreased by 20% of his original share. Show that the ratio of their earnings is now 9:10.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Write down the mathematical name of the cyclic quadrilateral ABCD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Complete the statement. Angle OAP = 90° because ...",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Find angle ADC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Find angle ACD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(iii)",
+      "question_text": "Find angle ACB.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(iv)",
+      "question_text": "Find angle OCA.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x), for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "The graph cuts the x-axis at points A and B. Work out the length AB.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Solve f(x) = 0.5.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Write down the coordinates of the minimum point of the graph.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(e)",
+      "question_text": "The equation f(x) = k has two solutions. Find the range of values of k.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Find the probability that the number on spinner A is 6.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find the probability that the number on spinner B is not 4.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(iii)",
+      "question_text": "Find the probability that the number on spinner A is the same as the number on spinner B.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(iv)",
+      "question_text": "Find the probability that the sum of the two numbers is 6.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "On the Venn diagram, shade A ∪ B.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Describe the shaded region using set notation.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(b)(iii)",
+      "question_text": "The Venn diagram below shows the number of elements in each subset. Find n((A ∩ B) ∩ C').",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Show that BC = 9.0 m, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Use the sine rule to find angle BCA.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Find the area of the shaded region.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Find the perimeter of the shape ABDC.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find the volume of the cone.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Show that the total surface area of the cone is 4000π cm².",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "A mathematically similar cone has a surface area of 1000π cm². Show that the radius of this cone is 20 cm.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "A cone with radius 20 cm is removed from the top of the cone with radius 40 cm to leave a solid. Calculate the surface area of the remaining solid.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "y varies inversely as the square root of (x + 1). y = 18 when x = 3. Find the value of y when x = 8.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find the value of x when y = 1.5.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "w varies directly as the square root of (x + 1). w = 18 when x = 3. Find the value of √wy.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "f(x) = 3x - 1, g(x) = 5 - 2x, h(x) = 1 / (2x - 3). Find f(4).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Solve f(x) = -7.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Find g⁻¹(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "Solve g(x) = 7h(f(x)). You must show all your working.",
+      "marks_available": "[6]",
+      "topic": "functions"
+    }
+  ],
+  "0607_s25_qp_22.pdf": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out (0.02)^3.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write your answer to part (a) in standard form.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "This is a list of numbers. 31, 33, 35, 37, 39, 41. From this list, write down all the prime numbers.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write the fraction 24/64 in its lowest terms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Convert 250 cm^3 into m^3.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5",
+      "question_text": "A quadrilateral has exactly one pair of parallel sides. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Share 120 in the ratio 2 : 3.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Share Z in the ratio x : y.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "At a school, 50 students are asked their favourite car colour. The table shows the results (Colour: Red, Blue, White, Silver, Black; Frequency: 7, x, 15, 16, x). Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the relative frequency of red.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Expand and simplify. 5(2x - 1) - 3(3 + 4x)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Factorise. 3y - y^2",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Factorise. 8ax - 3by + 2ay - 12bx",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)(iii)",
+      "question_text": "Factorise. 3x^2 + 5x - 12",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "The table shows the marks scored by each of 60 students in a science test. Write down the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Use set notation to describe each of the shaded regions.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Simplify. (5x)^3 \\div (1/x)^4",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "A solid is made by joining a cuboid to a pyramid. The base of the cuboid is a square of side x. The height of the cuboid is 3x. The base of the pyramid is a square of side x. The height of the pyramid is 3x. The total volume of the solid is 32000 cm^3. Show that x = 20.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Show that x = 5.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Find the value of y.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Find the lowest common multiple (LCM) of these expressions: 2x^3y^4, 3x^2z^3, 4y^2z.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "15",
+      "question_text": "An unbiased die is numbered 2, 3, 4, 4, 5, 6. Zaira rolls the die three times. Find the probability that Zaira rolls an odd number two or more times.",
+      "marks_available": "[4]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "16(a)",
+      "question_text": "Find the next term and the nth term in the sequence: 12, 14, 16, 18, 20, ....",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "16(b)",
+      "question_text": "Find the next term and the nth term in the sequence: 81, 27, 9, 3, 1, ....",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "17(a)",
+      "question_text": "The diagram shows a circle, centre O. AOBP is a straight line. PC is a tangent to the circle. Angle AOC = 116°. Find angle OAC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17(b)",
+      "question_text": "Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17(c)",
+      "question_text": "Find angle ADC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17(d)",
+      "question_text": "Find angle APC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "18",
+      "question_text": "Apples cost $2.50 per kilogram. The total cost of x kg of apples and y kg of pears is $10. Find the cost of 1 kg of pears. Give your answer in terms of x and y.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "19(a)",
+      "question_text": "f(x) = 1 / (5x - 4), x \\neq 0.8. Find f(2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "19(b)",
+      "question_text": "Solve f(x) = 1/11.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "19(c)",
+      "question_text": "Find f^{-1}(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "20(a)",
+      "question_text": "Rationalise the denominator: (\\sqrt{3} - \\sqrt{2}) / (\\sqrt{3} + \\sqrt{2})",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "20(b)",
+      "question_text": "Expand and simplify: (\\sqrt{x+1} - \\sqrt{x})(\\sqrt{x+1} + \\sqrt{x})",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "21(a)",
+      "question_text": "Line L is perpendicular to the line with equation y = 2x + 1. Line L passes through the point (3, 12). Find the equation of the line L.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "21(b)",
+      "question_text": "The shortest distance from the point (3, 12) to the line y = 2x + 1 is \\sqrt{k}. Find the value of k.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    }
+  ],
+  "0607_w19_qp_22.pdf": [
+    {
+      "question_number": "1",
+      "question_text": "From this list write down the square number. 8, 27, 49, 51, 53, 55, 99",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Change 3.2 metres into millimetres.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Write each number in standard form. (a) 28010",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Write each number in standard form. (b) 0.100209",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Each interior angle of a regular polygon is 170°. Find the number of sides of this polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Xian walks 8 km in 1 1/2 hours. She then runs 10 km in 45 minutes. Find her average speed in km/h for the whole journey.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6",
+      "question_text": "AB = AC. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7",
+      "question_text": "The lengths of the sides of a right-angled triangle are 6 cm, 8 cm and 10 cm. Find the tangent of the smallest angle.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Magda buys 6 apples and 4 oranges for a total cost of $4.18. Oranges cost $0.52 each. Find the cost of one apple.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The mean of five numbers is 16. When two extra numbers are included the mean of the seven numbers is 20. Find the mean of the two extra numbers.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The point A has co-ordinates (1, -5) and the point B has co-ordinates (9, 1). Find the equation of the perpendicular bisector of AB in the form y = mx + c.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Factorise completely. 8x^2 - 18",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Simplify. \\sqrt{300} - \\sqrt{27}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Rationalise the denominator and simplify your answer. \\frac{14}{3 - \\sqrt{2}}",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Solve the equation. 3 \\log x - \\log 4 = 4 \\log 2",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Rearrange the formula to make x the subject. y = 1 - \\frac{x}{3x - 5}",
+      "marks_available": "[4]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "15",
+      "question_text": "An archer fires three arrows at a target. The probability that the archer hits the target with each arrow is 3/5. Find the probability that the archer hits the target exactly twice.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    }
+  ],
+  "0607_s17_qp_42.pdf": [
+    {
+      "question_number": "1(a)",
+      "question_text": "In 2016, Carla's salary was $23970 per year. From her salary she pays tax at a rate of 20%. She is paid monthly in equal amounts. Calculate the amount Carla receives each month after tax has been paid.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Carla's salary of $23970 was 2% more than her salary in 2015. Calculate her yearly salary in 2015.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "From 2016, Carla's employer agrees to pay her an increase of 3% each year. Calculate the year in which her salary is first greater than $30000.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Reflection in the line y = x maps triangle A onto triangle B. Describe fully the single transformation that maps triangle B onto triangle A.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Enlargement, with centre (2, 1) and scale factor 4, maps triangle C onto triangle D. Describe fully the single transformation that maps triangle D onto triangle C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Translation by the vector (-3 / 5) maps triangle E onto triangle F. Describe fully the single transformation that maps triangle F onto triangle E.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Rotate triangle P through 90° anticlockwise about (0, 0). Label the image Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "Stretch triangle P with stretch factor 2 and the y-axis invariant. Label the image R.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Complete the scatter diagram. The first four points have been plotted for you.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "What type of correlation is shown on your scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Find the equation of the regression line, in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Judge A gives another dancer a mark of 6.4. Use your equation to estimate the mark judge B gives this dancer.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find the column vector 1/2 p.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the column vector q − 2p.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Find |p|, leaving your answer in surd form.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "AB = p + q. Mark and label point B on the grid.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Nitini changes 119050 Indian rupees (INR) to Singapore dollars (SGD). The exchange rate is 1 SGD = 47.62 INR. Find how many Singapore dollars he receives.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "The flight from New Delhi to Singapore takes 5 hours and 45 minutes. The distance of the flight is 4150 km. The time in New Delhi when the flight leaves is 21 55. The time in Singapore is 2 1/2 hours ahead of the time in New Delhi. Find the time in Singapore when the flight arrives.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Find the average speed of the aircraft.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "On the return flight the average speed is 750 km/h. Find the time of this flight in hours and minutes.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "x is proportional to v. Write down an expression for x in terms of v and a constant c.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "y is proportional to v^2. Write down an expression for y in terms of v and a constant k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "d = x + y. Write down an expression for d in terms of v, c and k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Using your answer to part (a)(iii), show that 125 = 2c + 24k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Write down a second equation connecting c and k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Solve the simultaneous equations in part (b) to find the value of c and the value of k.",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Find the value of d when v = 40.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "A ship sails 65 km on a bearing of 310° from A to B. It then changes course and sails 40 km on a bearing of 250° from B to C. The ship then returns to A. On the diagram, sketch the path of the ship from A. On your diagram show the bearings and distances.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate AC and show that it rounds to 91.8 km, correct to the nearest tenth of a kilometre.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Find the bearing of C from A.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Sketch the graph of y = f(x) for -400° ≤ x ≤ 600° where f(x) = 3^{sin x}.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the x coordinates of the local maximum points of f(x) for -400° ≤ x ≤ 600°.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "The point (30, \\sqrt{3}) is on the graph. The point (a, \\sqrt{3}) is also on the graph where 600° < a < 900°. Find the two possible values of a.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "g(x) = 3 - x/100. Solve the inequality g(x) > f(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "In the diagram AC = x cm, AB = (x + 2) cm and angle A = 60°. Find an expression, in terms of x, for the area of triangle ABC. Give your answer in surd form.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "The area of triangle ABC = 18\\sqrt{3} cm^2. Show that x^2 + 2x - 72 = 0.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Solve the equation x^2 + 2x - 72 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find the shortest distance between the line AB and the point C.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "A is the point (2, 2), B is the point (11, 4) and C is the point (14, 8). Find the equation, in the form y = mx + c, of the line AC.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find the equation, in the form y = mx + c, of the line through B that is perpendicular to AC.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Show that the point (10, 6) is on both the lines you found in part (a).",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "AC is the perpendicular bisector of BD. Find the co-ordinates of D.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find the exact area of the quadrilateral ABCD.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "A farmer sorts the grapefruit he grows into sizes, according to their diameter. The diameters, d cm, of 170 grapefruit are shown in the table. Calculate an estimate of the mean diameter of the grapefruit.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "On the grid, draw a histogram to represent this information. Complete the scale on the frequency density axis.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Two of the 170 grapefruit are chosen at random. Calculate the probability that they are both Very Large.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Calculate the probability that one is Small and the other is Medium.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "f(x) = 4x + 2, g(x) = 5 - 2x, h(x) = x^2 - 3. Find g(-3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Find f(h(2)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Find x when f(x) = -10.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "12(d)",
+      "question_text": "Write down the range of h(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(e)",
+      "question_text": "Find f^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(f)",
+      "question_text": "k(x) = 10 - 4x. Describe fully the single transformation that maps the graph of y = g(x) onto the graph of y = k(x).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "12(g)",
+      "question_text": "The graph of y = h(x) is translated by the vector (2 / 0). Find the equation of the graph of the image. Write your answer in the form y = ax^2 + bx + c.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    }
+  ],
+  "0607_s25_qp_23.pdf": [
+    {
+      "question_number": "1",
+      "question_text": "Work out. 2 - 5 \\times 3 + 7",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the square number",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the prime number",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the triangle number.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Simplify. 2x - 3y - x - 2y",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4",
+      "question_text": "A regular polygon has 20 sides. Work out the size of one interior angle of the polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Ganpreet and Rahul share $240 in the ratio 7 : 5. Show that the value of Rahul's share is $100.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Ganpreet spends $x of her share. Rahul spends $x of his share. The ratio of their remaining money is Ganpreet : Rahul = 2 : 1. Find the value of x.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "6",
+      "question_text": "The cost of a bar of chocolate is $c. The cost of a packet of sweets is $p. The total cost of 5 bars of chocolate and 2 packets of sweets is $13. The total cost of 7 bars of chocolate and 4 packets of sweets is $20. By forming a pair of simultaneous equations, find the cost of one bar of chocolate and the cost of one packet of sweets.",
+      "marks_available": "[5]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Work out 5(1/3) \\div 1(3/5). Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Translate triangle T by the vector (1 \\ -4).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle P.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Find the value of 16^(-3/2).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "A, B, C, D and E lie on the circle. TU is a tangent to the circle at C. Find the values of x, y and z.",
+      "marks_available": "[4]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Simplify. \\sqrt{27} - 2\\sqrt{75}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Rationalise the denominator and simplify. 6 / (\\sqrt{5} - \\sqrt{2})",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "The diagram shows a sector of a circle with radius 8 cm. The area of the sector is 8\\pi cm^2. The perimeter of the sector is (a + b\\pi) cm. Find the value of a and the value of b.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Work out. 4.9 \\times 10^{199} + 4.9 \\times 10^{197}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14(a)(i)",
+      "question_text": "f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ. Write down the exact value of f(0).",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(a)(ii)",
+      "question_text": "f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ. Write down the exact value of f(30^\\circ).",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for 0^\\circ \\le x \\le 360^\\circ.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "14(c)",
+      "question_text": "Write down the amplitude of f(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "15",
+      "question_text": "y^{2k} \\times x \\times y^3 = 1/y. Find the value of k.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "16",
+      "question_text": "Rearrange 4y - 3x = 1 - py to write y in terms of p and x.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "17",
+      "question_text": "The diagram shows a sketch of the graph of y = x^2 + ax + b. The point (1, -2) is a minimum. Find the value of a and the value of b.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "18",
+      "question_text": "Solve. 3(2x + 1) > 5 - 4x",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "19(a)",
+      "question_text": "Solve. Give each answer as an exact value. 2^x = 5",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "19(b)",
+      "question_text": "Solve. Give each answer as an exact value. 2 \\log y = 1",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "20(a)",
+      "question_text": "These are the first 5 terms of a sequence: 3, 6, 12, 24, 48. Find the next term of the sequence.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "20(b)",
+      "question_text": "Find the nth term of the sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "21(a)",
+      "question_text": "The diagram shows a triangular prism. The cross-section is a right-angled triangle EAB. AE = 3 cm, AB = 4 cm and BC = 12 cm. Work out the length of BF.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "21(b)",
+      "question_text": "Find the sine of the angle between BF and the base ABCD.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "22",
+      "question_text": "Write as a single fraction in its simplest form. 2 - 3 / (x - 2)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "23(a)",
+      "question_text": "Bag A contains 4 white balls and 3 black balls. Bag B contains 5 white balls and 4 black balls. Ranjit picks a ball at random from Bag A and replaces it. Ranjit also picks a ball at random from Bag B and replaces it. Find the probability that the two balls are the same colour.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "23(b)",
+      "question_text": "Leyla picks a ball at random from Bag A. She places it into Bag B. She then picks a ball at random from Bag B. Find the probability that the ball she picks from Bag B is black.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    }
+  ]
+}

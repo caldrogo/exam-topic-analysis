@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "In 2016, Carla's salary was $23970 per year. From her salary she pays tax at a rate of 20%. She is paid monthly in equal amounts. Calculate the amount Carla receives each month after tax has been paid.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Carla's salary of $23970 was 2% more than her salary in 2015. Calculate her yearly salary in 2015.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "From 2016, Carla's employer agrees to pay her an increase of 3% each year. Calculate the year in which her salary is first greater than $30000.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Reflection in the line y = x maps triangle A onto triangle B. Describe fully the single transformation that maps triangle B onto triangle A.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Enlargement, with centre (2, 1) and scale factor 4, maps triangle C onto triangle D. Describe fully the single transformation that maps triangle D onto triangle C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Translation by the vector (-3 / 5) maps triangle E onto triangle F. Describe fully the single transformation that maps triangle F onto triangle E.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Rotate triangle P through 90° anticlockwise about (0, 0). Label the image Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "Stretch triangle P with stretch factor 2 and the y-axis invariant. Label the image R.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Complete the scatter diagram. The first four points have been plotted for you.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "What type of correlation is shown on your scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Find the equation of the regression line, in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Judge A gives another dancer a mark of 6.4. Use your equation to estimate the mark judge B gives this dancer.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find the column vector 1/2 p.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the column vector q − 2p.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Find |p|, leaving your answer in surd form.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "AB = p + q. Mark and label point B on the grid.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Nitini changes 119050 Indian rupees (INR) to Singapore dollars (SGD). The exchange rate is 1 SGD = 47.62 INR. Find how many Singapore dollars he receives.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "The flight from New Delhi to Singapore takes 5 hours and 45 minutes. The distance of the flight is 4150 km. The time in New Delhi when the flight leaves is 21 55. The time in Singapore is 2 1/2 hours ahead of the time in New Delhi. Find the time in Singapore when the flight arrives.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Find the average speed of the aircraft.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "On the return flight the average speed is 750 km/h. Find the time of this flight in hours and minutes.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "x is proportional to v. Write down an expression for x in terms of v and a constant c.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "y is proportional to v^2. Write down an expression for y in terms of v and a constant k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "d = x + y. Write down an expression for d in terms of v, c and k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Using your answer to part (a)(iii), show that 125 = 2c + 24k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Write down a second equation connecting c and k.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Solve the simultaneous equations in part (b) to find the value of c and the value of k.",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Find the value of d when v = 40.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "A ship sails 65 km on a bearing of 310° from A to B. It then changes course and sails 40 km on a bearing of 250° from B to C. The ship then returns to A. On the diagram, sketch the path of the ship from A. On your diagram show the bearings and distances.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate AC and show that it rounds to 91.8 km, correct to the nearest tenth of a kilometre.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Find the bearing of C from A.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Sketch the graph of y = f(x) for -400° ≤ x ≤ 600° where f(x) = 3^{sin x}.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the x coordinates of the local maximum points of f(x) for -400° ≤ x ≤ 600°.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "The point (30, \\sqrt{3}) is on the graph. The point (a, \\sqrt{3}) is also on the graph where 600° < a < 900°. Find the two possible values of a.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "g(x) = 3 - x/100. Solve the inequality g(x) > f(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "In the diagram AC = x cm, AB = (x + 2) cm and angle A = 60°. Find an expression, in terms of x, for the area of triangle ABC. Give your answer in surd form.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "The area of triangle ABC = 18\\sqrt{3} cm^2. Show that x^2 + 2x - 72 = 0.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Solve the equation x^2 + 2x - 72 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find the shortest distance between the line AB and the point C.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "A is the point (2, 2), B is the point (11, 4) and C is the point (14, 8). Find the equation, in the form y = mx + c, of the line AC.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find the equation, in the form y = mx + c, of the line through B that is perpendicular to AC.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Show that the point (10, 6) is on both the lines you found in part (a).",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "AC is the perpendicular bisector of BD. Find the co-ordinates of D.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find the exact area of the quadrilateral ABCD.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "A farmer sorts the grapefruit he grows into sizes, according to their diameter. The diameters, d cm, of 170 grapefruit are shown in the table. Calculate an estimate of the mean diameter of the grapefruit.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "On the grid, draw a histogram to represent this information. Complete the scale on the frequency density axis.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Two of the 170 grapefruit are chosen at random. Calculate the probability that they are both Very Large.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Calculate the probability that one is Small and the other is Medium.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "f(x) = 4x + 2, g(x) = 5 - 2x, h(x) = x^2 - 3. Find g(-3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Find f(h(2)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Find x when f(x) = -10.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "12(d)",
+      "question_text": "Write down the range of h(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(e)",
+      "question_text": "Find f^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(f)",
+      "question_text": "k(x) = 10 - 4x. Describe fully the single transformation that maps the graph of y = g(x) onto the graph of y = k(x).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "12(g)",
+      "question_text": "The graph of y = h(x) is translated by the vector (2 / 0). Find the equation of the graph of the image. Write your answer in the form y = ax^2 + bx + c.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Adam and Brenda share $560 in the ratio Adam : Brenda = 4 : 3. Show that Adam receives $320.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Adam spends 15% of his $320 on some software. Calculate how much Adam spends on this software.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "In a sale, Brenda buys a computer for $179.40. This is 8% less than the original price. Calculate the original price of the computer.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Adam spends a further $29.60 on a train ticket. Adam and Brenda then work out how much money each of them has left. Show that Adam has 4 times as much left as Brenda.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Find the size of one interior angle of a regular polygon with 45 sides.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "In the diagram, A, B, C and D lie on the circle. TA is a tangent to the circle at A. Angle TAD = 75° and angle DAC = 35°. Find angle ACD,",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "In the diagram, A, B, C and D lie on the circle. TA is a tangent to the circle at A. Angle TAD = 75° and angle DAC = 35°. Find angle ABC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "In the diagram, DE is parallel to BC. Complete the statement. Triangle ADE is ...................................................... to triangle ABC.",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "AE = 6 cm, EC = 3 cm and DB = 2 cm. Calculate the length of AD.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "2(c)(iii)",
+      "question_text": "The area of triangle ADE is 9 cm2. Calculate the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the range,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the mode,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the median,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iv)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the lower quartile,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(v)",
+      "question_text": "Eva records her science homework marks during the school year. The table shows the results. Homework mark 5, 6, 7, 8, 9, 10; Frequency 2, 7, 11, 13, 5, 2. Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Frank compares the science marks, x, with the mathematics marks, y, of ten students. Complete the scatter diagram. The first six points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "What type of correlation is shown on the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(iii)",
+      "question_text": "Find the equation of the line of regression, giving y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(iv)",
+      "question_text": "Another student's science mark is 16. Use your answer to part (b)(iii) to find an expected mathematics mark for this student.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Georgio records the time, t minutes, he takes to complete each of 40 pieces of mathematics homework. Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "The Venn diagram shows the number of students who like sweets (S) and the number of students who like nuts (N). Find the number of students who like nuts.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the number of students who like sweets or nuts but not both.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Find n(U).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Find n(S ∩ N).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(b)(iii)",
+      "question_text": "Find n(S' ∩ N).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "One of these students is chosen at random. Find the probability that this student likes nuts but not sweets.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Two of these students are chosen at random. Find the probability that they both like sweets and nuts.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "Two students who like sweets are chosen at random. Find the probability that they both also like nuts.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Carla invests $600 at a rate of 1.8% per year compound interest. Calculate the value of Carla's investment at the end of 7 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Dominic wants to invest his money so that it will double its value in 17 years. Find the lowest possible rate of compound interest per year that will give Dominic this result. Give your answer correct to 1 decimal place.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Each year, the population of a village is decreasing at a rate of 4% of its value at the beginning of that year. The population is now 2120. Find the number of complete years since the population was last greater than 2700.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "The diagram shows a solid made from a cylinder and two hemispheres. The cylinder has radius 3 cm and length 11 cm. Each hemisphere has radius 3 cm. Find the volume of the solid. Give your answer in terms of ̴̵̶̷̸̴̵̶̷̸̡̢̧̨̡̢̧̨̛̛̖̗̘̙̜̝̞̟̠̖̗̘̣̙̤̥̦̜̝̞̩̟̪̠̫̬̭̣̮̤̯̥̰̦̱̲̳̩̪̫̬̭̮̹̯̺̰̻̱̼̲̳̹̺̻̼͇͈͉͍͎́̀̑̆̒̈̓̉̔̊̋̌̍̎̏̐̑̒̓̔̽̾̿̀́͂̓̈́͆̽̾̿͊̀͋́͌͂̓̈́̕̚̕̚͠ͅ͏͇͈͓͉͔͕͖͍͎͙͐͆͑͒͊͋͌͗͘ͅ͏͚͓͔͕͖͙͚͐͛͑͒͗͛ͣͤͥͦͧͨͩͪͫͬͭͮͯ͘͜͟͢͜͟͢͝͞͠͡͝͞͠͡ͰͱͲͳʹ͵Ͷͷ͸͹ͺͻͼͽ;Ϳ΀΁΂΃΄΅Ά·ΈΉΊ΋Ό΍ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡ΢ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϏϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲϳϴϵ϶ϷϸϹϺϻϼϽϾϿpi.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "The solid is melted down and all the metal is used to make a cylinder of length 15 cm. Use your answer to part (a) to find the radius of this cylinder.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "A rectangular tank contains water. The base of the tank measures 20 cm by 10 cm. The cylinder is placed in the tank so that it is completely covered by water. No water overflows the tank. Calculate the increase in the depth of the water in the tank.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Factorise a^2 - b^2.",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "The diagram shows two squares. The difference between the areas of the squares is 7.41 cm2. The difference between the lengths of the sides of the squares is 1.3 cm. Find the area of the larger square.",
+      "marks_available": "[5]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Factorise x^2 - 5x - 24.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "The area of rectangle A is 15 cm2 greater than the area of rectangle B. Find the area of rectangle A.",
+      "marks_available": "[8]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = 1.5^-x for -2 ≤ x ≤ 2.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Solve the inequality 0.5 ≤ 1.5^-x ≤ 1.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Solve the equation 1.5^-x = x^2 for -2 ≤ x ≤ 2.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(a)(iv)",
+      "question_text": "On your diagram shade the regions where 1.5^-x < x^2 for -2 ≤ x ≤ 2.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "The diagram shows a sketch of the graph of y = (-2x + b) / (x + a). The asymptotes of the graph are x = 2 and y = -2. The graph passes through the point (0, 2). Find the value of a and the value of b.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "f(x) is a function such that the asymptotes of the graph are x = a, x = b and y = k; when x < a, the gradient of the graph is positive; when x > b, the gradient of the graph is negative; M is the only local maximum point; the graph does not cross any asymptote. On the diagram sketch the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "p = (-1/3), q = (2/-1). Find p - q.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "A is the point (3, 4). A is translated onto H by the vector p. Find the coordinates of H.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "A is the point (3, 4). J is translated onto A by the vector q. Find the coordinates of J.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Find the coordinates of the mid-point of HJ.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(e)",
+      "question_text": "Find the length of HJ.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9(f)",
+      "question_text": "A line L, parallel to the vector q, has gradient -1/2. Find the equation of the line perpendicular to the line L that passes through the point A.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Describe fully the single transformation that maps shape T onto shape V.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Reflect shape T in the line y = -2.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Stretch shape T by a factor of 2 with the x-axis invariant.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "f(x) = log(x), g(x) = log(x^3). Describe fully the single transformation that maps the graph of y = f(x) onto the graph of y = g(x).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "f(x) = x^3, g(x) = 3^x. Find g(2) - f(2).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find x when g(x) = 1/9.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Write x - 1/f(x) in terms of x. Give your answer as a single fraction.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "Find f^-1(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    }
+  ]
+}

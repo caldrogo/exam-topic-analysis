@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "The volume of a triangular prism is 476 cm3. The base of the triangle is 8 cm and the perpendicular height is 7 cm. Calculate the length of the prism.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "The volume of a solid steel cube is 8000 cm3. The mass of 1 cm3 of the steel is 7.86 g. Calculate the mass of the cube. Give your answer in kilograms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Calculate the total surface area of the cube.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "1(b)(iii)",
+      "question_text": "The steel cube is melted down and made into spheres with radius 3.5 cm. Calculate the number of these spheres that are made.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Yuri and Zoe share some money in the ratio 8 : 7. Zoe receives $210. Show that Yuri receives $240.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "He spends 21% of his $240 on the set of books. Calculate the cost of the set of books.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "He spends $75.50 on the concert ticket. Calculate the amount Yuri has remaining as a percentage of the $240.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Zoe spends $140 on software. She is given a discount of 20% on the original price of the software. Calculate the original price of the software.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Find the ratio Yuri's remaining money : Zoe's remaining money. Give your answer in the form n : 1.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Find the height of the stone when x = 7.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Find the maximum height of the stone.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Find the distance OG.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(a)(iv)",
+      "question_text": "There are two points in the path of the stone where its height is 2 m. Find the horizontal distance between these two points.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Write down the equation of each asymptote.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(iii)",
+      "question_text": "f(x) = k has two solutions. Find the range of values of k.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(iv)(a)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(b)(iv)(b)",
+      "question_text": "Solve the equation f(x) = 3 - x.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Erin rolls a biased die a number of times. The table shows the results. The mean score is 3.75. Find the value of x.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)(a)",
+      "question_text": "Use the information in the table to complete the cumulative frequency table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)(b)",
+      "question_text": "On the grid, draw the cumulative frequency curve.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Use your curve to estimate the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Use your curve to estimate the number of students who took more than 13 minutes to complete their mathematics homework.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Calculate the area of an equilateral triangle with side length 12 cm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Calculate the area of a circle with circumference 60 cm.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "The diagram shows part of a regular 10-sided polygon with centre O and side length 6 cm. Calculate the area of the polygon.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Calculate the number of complete years it took for Xavier's annual pay to be 30% greater than his annual pay in 2000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "In 2024 Xavier's annual pay is $25215. Calculate the amount Xavier's pay will increase from his annual pay in 2022 to his annual pay in 2027. Give your answer correct to the nearest dollar.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Solve 63 = 8(3 - 2a).",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. p/3 - q = 5/12, 2p + q/2 = 7/8",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7(c)(i)",
+      "question_text": "Factorise c^2 - c - 56.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(c)(ii)",
+      "question_text": "Solve c^2 - c - 56 = 0.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "P is the point (-3, 2). The vector from P to Q is (5 / -7). Find the coordinates of Q.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Find the magnitude of the vector (5 / -7).",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the equation of the line that passes through the points (-3, -1) and (1, 11). Give your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Find f(-5).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Find the value of h(f(9)). Give your answer in standard form correct to 4 significant figures.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(iii)",
+      "question_text": "Find g(f(x)), giving your answer in the form ax^2 + bx + c.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(iv)",
+      "question_text": "Find f^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(v)",
+      "question_text": "The domain of h(x) is -1 <= x <= 2. Find the range of h(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Find x when j(x) = 3.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find j^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "9(b)(iii)",
+      "question_text": "j(w) = 3j(x). Find w in terms of x.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Tina picks one ball at random, notes the colour and replaces it in the bag. Find the probability that Tina picks a red ball.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Tina repeats this 60 times. Find the number of times the ball she picks is expected to be red.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "Eli picks two balls at random without replacement. Find the probability that both balls are blue.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Eli picks two balls at random without replacement. Find the probability that one ball is red and one ball is blue.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "The balls are replaced in the bag. Ida picks one ball at random, notes the colour and replaces it in the bag. She then picks another ball at random. Find the probability that the two balls are the same colour.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Simplify (9x^2 - 4y^2) / (9x^2 - 6xy).",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Show that 5 / (2x - 3) - 7 / (4 - x) = 2 leads to 4x^2 - 41x + 65 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Solve 5 / (2x - 3) - 7 / (4 - x) = 2, giving your answers correct to 2 decimal places. You must show all your working.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    }
+  ]
+}

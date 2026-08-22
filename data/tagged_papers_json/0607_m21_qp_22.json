@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Construct an ordered stem-and-leaf diagram to show this information, including a key.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Point A (7, 5) is translated to point B (2, 2). Find the vector that represents this translation.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Find the highest common factor (HCF) of 84 and 72.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Solve |x| + 2 = 7.",
+      "marks_available": "[1]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Point A has coordinates (-3, 2). Point B has coordinates (5, -4). Find the mid-point of AB.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Point A has coordinates (-3, 2). Point B has coordinates (5, -4). Find the length of AB.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Find the value of p when 2^6 \\div 4^p = 2^7.",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Iraj travels to school either by bus or on a bicycle. The probability that he goes by bus is 0.3. He can have lunch at home or at school. The probability that he has lunch at school is 0.6. Complete the tree diagram.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the probability that Iraj travels on a bicycle to school and goes home for lunch.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Expand and simplify 4(2a + 5b) - 3(6b - 3a).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "A, B, C, and D are points on a circle. CDE is a straight line. Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "P, Q, R, S and T are points on the circle centre O. TOQ is a straight line. Find angle STR.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "P, Q, R, S and T are points on the circle centre O. TOQ is a straight line. Find angle QOR.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Aisha picks three number cards from a pack. The mean of the three numbers is 6 1/3. She picks another card from the pack. The mean of the four numbers is 6 1/2. Work out the number on the fourth card.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Find the next term and an expression for the nth term of this sequence: 35, 29, 19, 5, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Rearrange this formula to make x the subject: y = (a - x) / (3x).",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Rationalise the denominator and simplify: 2 / (\\sqrt{5} + 1).",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Write as a single fraction in its simplest form: (3a) / (a + 4) - (a - 1) / (2a).",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

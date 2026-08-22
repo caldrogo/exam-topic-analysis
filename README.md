@@ -4,7 +4,7 @@ An AI-assisted prototype that quantifies topic distributions across past exam pa
 
 ![Screenshot of dashboard](screenshot.png)
 
-🔗 **Live Demo:** [http://ec2-18-132-200-207.eu-west-2.compute.amazonaws.com/](http://ec2-18-132-200-207.eu-west-2.compute.amazonaws.com/)
+🔗 **Live Demo:** [http://ec2-3-11-13-118.eu-west-2.compute.amazonaws.com/](http://ec2-3-11-13-118.eu-west-2.compute.amazonaws.com/)
 
 ## Motivation
 

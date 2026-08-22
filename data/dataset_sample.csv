@@ -1,0 +1,5 @@
+filename,syllabus,session_code,session_name,year,paper_number,paper_type,variant,question_number,question_text,marks,time_period,stratum,human_topic
+0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(b)(i),"Using your answer to part (a)(iii), show that 125 = 2c + 24k.",1,early,calculator | early,solving linear equations
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(b)(ii),Find the probability that at least one die does not show a 6.,1,early,calculator | early,probability
+0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(f),"Using a graphical method, solve h(g(x)) = 1 - 0.01x.",5,early,calculator | early,functions
+0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,14(a)(ii),"f(x) = \cos x, 0^\circ \le x \le 360^\circ. Write down the exact value of f(30^\circ).",1,late,non_calculator | late,trigonometry

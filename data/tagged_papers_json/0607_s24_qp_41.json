@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Solve the equation 3x - 2 = -14.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Solve the equation 7x + 11 = 26 - 3x.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. 5x + 3y = -15, 3x + 5y = -17",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Solve the inequality |2x + 1| > 9.",
+      "marks_available": "[4]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Calculate an estimate of the mean height of the plants.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)(a)",
+      "question_text": "Complete the cumulative frequency table for the plants.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)(b)",
+      "question_text": "On the grid, draw the cumulative frequency curve.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Use your cumulative frequency curve to find an estimate for the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "The heights, h cm, of 50 different plants are shown in the table, where k is an integer. An estimate of the mean height of these plants is 27cm. Find the value of k.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Translate triangle A with vector (2, -6). Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Describe fully the single transformation that maps triangle B onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Rotate triangle A through 90° clockwise about (0, 0). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "Reflect triangle A in the line y = x. Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(e)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "The price of a coat is $84. The price is reduced by 12%. Find the new price of the coat.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "The price of a table is reduced by 25%. The price is now $960. Find the original price of the table.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Samir invests $600 in a bank that pays compound interest at a rate of 5.1% each year. Find the value of Samir’s investment after 4 complete years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "Find the number of complete years for the value of Samir’s investment to be first worth more than $1000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(d)(i)",
+      "question_text": "Amir and Bob work together and share their earnings in the ratio 3:5. Find the amount Bob receives when their earnings are $120.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(d)(ii)",
+      "question_text": "They decide to change the ratio for all further earnings. Amir’s share of the earnings is increased by 20% of his original share. Bob’s share of the earnings is decreased by 20% of his original share. Show that the ratio of their earnings is now 9:10.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Write down the mathematical name of the cyclic quadrilateral ABCD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Complete the statement. Angle OAP = 90° because ...",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Find angle ADC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Find angle ACD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(iii)",
+      "question_text": "Find angle ACB.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(c)(iv)",
+      "question_text": "Find angle OCA.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x), for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "The graph cuts the x-axis at points A and B. Work out the length AB.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Solve f(x) = 0.5.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Write down the coordinates of the minimum point of the graph.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(e)",
+      "question_text": "The equation f(x) = k has two solutions. Find the range of values of k.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Find the probability that the number on spinner A is 6.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find the probability that the number on spinner B is not 4.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(iii)",
+      "question_text": "Find the probability that the number on spinner A is the same as the number on spinner B.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(iv)",
+      "question_text": "Find the probability that the sum of the two numbers is 6.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "On the Venn diagram, shade A ∪ B.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Describe the shaded region using set notation.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(b)(iii)",
+      "question_text": "The Venn diagram below shows the number of elements in each subset. Find n((A ∩ B) ∩ C').",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Show that BC = 9.0 m, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Use the sine rule to find angle BCA.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Find the area of the shaded region.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Find the perimeter of the shape ABDC.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find the volume of the cone.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Show that the total surface area of the cone is 4000π cm².",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "A mathematically similar cone has a surface area of 1000π cm². Show that the radius of this cone is 20 cm.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "A cone with radius 20 cm is removed from the top of the cone with radius 40 cm to leave a solid. Calculate the surface area of the remaining solid.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "y varies inversely as the square root of (x + 1). y = 18 when x = 3. Find the value of y when x = 8.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find the value of x when y = 1.5.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "w varies directly as the square root of (x + 1). w = 18 when x = 3. Find the value of √wy.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "f(x) = 3x - 1, g(x) = 5 - 2x, h(x) = 1 / (2x - 3). Find f(4).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Solve f(x) = -7.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Find g⁻¹(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "Solve g(x) = 7h(f(x)). You must show all your working.",
+      "marks_available": "[6]",
+      "topic": "functions"
+    }
+  ]
+}
