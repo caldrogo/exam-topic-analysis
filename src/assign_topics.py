@@ -67,7 +67,7 @@ def process_pdf_folder_with_resumption(
     pdf_files
 
 
-    for pdf_file in pdf_files[0:10]:
+    for pdf_file in pdf_files:
 
         json_filename = pdf_file.stem + ".json"
         target_json_path = output_path / json_filename

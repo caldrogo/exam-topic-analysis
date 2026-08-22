@@ -26,7 +26,7 @@ TOPIC_LIST = [
 
 ASSIGN_MODEL_NAME = "gemini-3.5-flash-lite" # The model is going to call 150 requests
 
-PROMPT_MODEL_NAME = ""  # The model is going to call 1 request
+PROMPT_MODEL_NAME = "gemini-3.5-flash"  # The model is going to call 1 request
 
 DATA_PATH = "data/"
 
