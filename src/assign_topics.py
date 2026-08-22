@@ -5,41 +5,16 @@ from typing import List
 from google import genai
 from google.genai import types
 from pydantic import BaseModel, Field
-import os
 from dotenv import load_dotenv
+import pandas as pd
 
 load_dotenv()
 
 
-from config import TOPIC_LIST
+from config import TOPIC_LIST, ASSIGN_MODEL_NAME
 
-SYSTEM_PROMPT = f"""You are an assistant that extracts and tags IGCSE International Mathematics
-(0607) exam questions.
-
-Extract all questions from this exam paper, including sub-questions. For each
-question, output the question_number, question_text, and marks_available,
-then tag it with a single best-fit topic label.
-
-You must choose exactly one topic from this fixed list — use these exact
-strings, with no variation in spelling, capitalization, or phrasing:
-{TOPIC_LIST}
-
-Rules:
-- Choose the topic that best represents the PRIMARY mathematical skill
-  being assessed, even if the question touches on more than one area.
-- Use the mark allocation as a secondary signal: higher-mark questions
-  often span more of a topic's depth; lower-mark questions are often
-  narrower/more atomic.
-- If genuinely torn between two topics, choose the one that a teacher
-  would file this question under when building a topic-based revision
-  worksheet — this is a REVISION-PRIORITY tool, so prioritize the framing
-  a student would recognize.
-- You will be given ALL questions from one exam paper at once. Return one
-  tag per question, and echo back the exact question_number given for
-  each — do not renumber, merge, or omit any question.
-- Respond only in the specified JSON schema. Do not include commentary,
-  explanation, or any text outside the JSON object.
-"""
+prompt_df = pd.read_json('data/prompts.json')
+SYSTEM_PROMPT = prompt_df
 
 
 # 1. Define the Pydantic output schema
@@ -188,4 +163,4 @@ def _rebuild_combined_json(output_path: Path):
 
 
 if __name__ == "__main__":
-    process_pdf_folder_with_resumption()
+    process_pdf_folder_with_resumption(model_name=ASSIGN_MODEL_NAME)
