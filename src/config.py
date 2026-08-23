@@ -23,6 +23,7 @@ TOPIC_LIST = [
     "logarithms",
     "inequalities",
     'statistics',
+    'rearranging formulae'
 ]
 
 ASSIGN_MODEL_NAME = "gemini-3.1-flash-lite" # The model is going to call 150 requests

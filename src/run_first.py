@@ -12,4 +12,4 @@ assign_topics()
 
 from build_dataset import build
 
-build(first_run=True, target_fraction=0.02)
+build()

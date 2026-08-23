@@ -4,6 +4,7 @@ import queue
 import threading
 from pathlib import Path
 from typing import List
+from enum import Enum
 from google import genai
 from google.genai import types
 from pydantic import BaseModel, Field
@@ -16,7 +17,13 @@ load_dotenv()
 from config import TOPIC_LIST, ASSIGN_MODEL_NAME
 
 
-# 1. Define the Pydantic output schema
+# Build a real Enum from the list. Using an Enum (rather than typing.Literal)
+# means the same TOPIC_LIST drives both the LLM constraint AND anywhere else
+# in the codebase that needs to iterate over/validate topics -- one
+# definition, not two things that can silently drift apart.
+Topic = Enum("Topic", {name.replace(" ", "_"): name for name in TOPIC_LIST})
+ 
+ 
 class QuestionItem(BaseModel):
     question_number: str = Field(
         description="The question number or sub-part label (e.g., '1', '1(a)', '9(b)(i)')"
@@ -27,13 +34,20 @@ class QuestionItem(BaseModel):
     marks_available: str = Field(
         description="The marks allocated for this question in brackets, e.g., '[3]', '[1]'"
     )
-    topic: str = Field(
-        description="The topic assigned to the question"
+    topic: Topic = Field(
+        description=(
+            "The single best-matching topic for this question. "
+            "You MUST choose exactly one value from the fixed enum of "
+            f"{len(TOPIC_LIST)} approved syllabus topics — no other value "
+            "is permitted, even if none of them seem like a perfect fit. "
+            "Pick the closest match rather than inventing a new label."
+        )
     )
-
-
+ 
+ 
 class QuestionExtractionResult(BaseModel):
     questions: List[QuestionItem]
+ 
 
 def _generate_with_timeout(client, model_name, contents, config, timeout_seconds: float):
     """
