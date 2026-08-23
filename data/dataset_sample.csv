@@ -1,10 +1,4 @@
 filename,syllabus,session_code,session_name,year,paper_number,paper_type,variant,question_number,question_text,marks,time_period,stratum,human_topic
-<<<<<<< HEAD
-0607_s17_qp_42.json,0607,s,May/Jun,2017,4,calculator,2,6(b)(i),"Using your answer to part (a)(iii), show that 125 = 2c + 24k.",1,early,calculator | early,solving linear equations
-0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,3(b)(ii),Find the probability that at least one die does not show a 6.,1,early,calculator | early,probability
-0607_s24_qp_43.json,0607,s,May/Jun,2024,4,calculator,3,10(f),"Using a graphical method, solve h(g(x)) = 1 - 0.01x.",5,early,calculator | early,functions
-0607_s25_qp_23.json,0607,s,May/Jun,2025,2,non_calculator,3,14(a)(ii),"f(x) = \cos x, 0^\circ \le x \le 360^\circ. Write down the exact value of f(30^\circ).",1,late,non_calculator | late,trigonometry
-=======
 0607_m21_qp_42.json,0607,m,Mar/May,2021,4,calculator,2,3(a)(i),Write down the coordinates of the point where the line y = -2x + 3 crosses the y-axis.,1,late,calculator | late,straight lines
 0607_m22_qp_42.json,0607,m,Mar/May,2022,4,calculator,2,2(e),"Each year the value of another car decreases by r% of its value at the beginning of that year. At the end of 10 years, the value has decreased from $12 000 to $4673. Find the value of r.",3,late,calculator | late,topics in arithmetic
 0607_m24_qp_22.json,0607,m,Mar/May,2024,2,non_calculator,2,9(a),Find the highest common factor (HCF) of 72 and 120.,1,late,non_calculator | late,topics in arithmetic
@@ -123,4 +117,3 @@ Find $f(-3)$.
 0607_w25_qp_22.json,0607,w,Oct/Nov,2025,2,non_calculator,2,14(b),Write down two triangles that are congruent.,1,late,non_calculator | late,similarity
 0607_w25_qp_22.json,0607,w,Oct/Nov,2025,2,non_calculator,2,20(a),Factorise 4x^2 - 4x - 3,2,late,non_calculator | late,expanding and factorising
 0607_w25_qp_23.json,0607,w,Oct/Nov,2025,2,non_calculator,3,7(a),"U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, A = {odd numbers}, B = {square numbers}. Find A \cap B.",1,late,non_calculator | late,sets and Venn diagrams
->>>>>>> auto_run_analysis
