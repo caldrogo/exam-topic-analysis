@@ -1,0 +1,310 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "She uses some of the money to buy a car. The salesman reduces the price from $3800 to $3610. Calculate the percentage reduction.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Adila invests the remaining $6390 at a rate of 3% per year compound interest. Find the value of the investment at the end of 5 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Find the least number of complete years after which the value of the investment is more than $9000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "For these numbers find the range,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "For these numbers find the mode,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "For these numbers find the median,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(iv)",
+      "question_text": "For these numbers find the mean,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(v)",
+      "question_text": "For these numbers find the inter-quartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Dee chooses a number at random from these numbers. Find the probability that it is a prime number.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Translate triangle A by the vector \\(\\begin{pmatrix}-5\\\\3\\end{pmatrix}\\).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Describe fully the single transformation that is equivalent to a reflection in y = -x followed by a reflection in the y-axis. You may use the grid below to help you.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "y varies directly as the square of (x + 2). When x = 3, y = 100. Find an equation connecting x and y.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the value of y when x = 18.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Find the values of x when y = 25.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "z varies inversely as \\(\\sqrt{w}\\). When w = A, z = 18. Find the value of z when w = \\(\\frac{A}{9}\\).",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for -4 \\(\\le\\) x \\(\\le\\) 4.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the positive zeros of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Find the co-ordinates of the local maximum,",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Find the co-ordinates of the local minimum.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Describe fully the symmetry of the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Show that the radius of the circle is 8.51 cm, correct to 3 significant figures.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Calculate the perimeter of the shaded segment,",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Calculate the area of the shaded segment.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "A train travels at an average speed of 252 km/h. This train leaves Beijing at 12 49. The local time in Beijing is the same as the local time in Shanghai. Find the time, correct to the nearest minute, that this train arrives in Shanghai.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Change 252 kilometres per hour to metres per second.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Calculate the time, in seconds, for the train to completely cross the bridge.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Calculate the number of members who play none of the three sports.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Calculate the probability that they both play hockey and tennis but not cricket,",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Calculate the probability that they are both members of the set \\((C \\cup H) \\cap T'\\).",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Three of the members who play tennis are chosen at random. Calculate the probability that none of them play cricket.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Complete the cumulative frequency diagram to show the results. The first section has been drawn for you.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Use your cumulative frequency diagram to estimate the median mark,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Use your cumulative frequency diagram to estimate the inter-quartile range,",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(iii)",
+      "question_text": "Use your cumulative frequency diagram to estimate the number of students with a mark greater than 84.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "The table below shows some information about Paper 2. On the grid opposite, draw the cumulative frequency diagram for Paper 2.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Point C is on a bearing of 060° from A and a bearing of 325° from B. Calculate the distance BC.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Point D is South of AB. D is 80 m from A and 90 m from B. Calculate the bearing of D from B.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Calculate the volume of the structure.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "The curved surface of the prism and the two ends of the structure are made of polythene. Calculate the area of the polythene.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -6 and 6.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Write down the equations of the asymptotes of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(c)(i)",
+      "question_text": "Solve f(x) = g(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(c)(ii)",
+      "question_text": "Find g(f(x)). Give your answer as a single fraction in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(a)(i)",
+      "question_text": "Write each of these vectors in terms of a and/or b, giving each answer in its simplest form. \\(\\vec{AB}\\)",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "13(a)(ii)",
+      "question_text": "Write each of these vectors in terms of a and/or b, giving each answer in its simplest form. \\(\\vec{OP}\\)",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "13(b)(i)",
+      "question_text": "The point Q is such that \\(\\vec{OQ} = \\frac{5}{3}\\vec{OP}\\). Write \\(\\vec{BQ}\\), in terms of a and/or b, in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "13(b)(ii)",
+      "question_text": "Use your answer to part (b)(i) to explain why \\(\\vec{OA}\\) and \\(\\vec{BQ}\\) are parallel.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Find the length of AB.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Find the co-ordinates of the midpoint of AB.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "14(c)",
+      "question_text": "B is the reflection of A in the line L. Find the equation of the line L.",
+      "marks_available": "[4]",
+      "topic": "straight lines"
+    }
+  ]
+}

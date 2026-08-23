@@ -1,0 +1,190 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Complete the scatter diagram. The first 6 points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "What type of correlation is shown on the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Find the equation of the regression line. Give your answer in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Bruno scored 57 in the practical test. Use your answer to part (c) to estimate Bruno’s score for the theory test.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out (5.3^2 - \\sqrt{4.56}) / 1.27.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "3",
+      "question_text": "In France, the price of a phone is 310 euros. In Dubai, the price of the same phone is 1185 dirhams. The exchange rate is 1 euro = 3.95 dirhams. Find the difference between the two prices. Give your answer in euros.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Aisha is paid $17.50 per hour. Aisha’s pay is increased to $19.30 per hour. Calculate the percentage increase in Aisha’s pay.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Solve 5 - 2x > 3x + 7.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Jeanne invests $2000 at a rate of 3.5% per year simple interest. Calculate the interest earned at the end of 8 years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Karim invests $2000 at a rate of 2.8% per year compound interest. Calculate the interest earned at the end of 10 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Lauren invests $2000 at a rate of 3.1% per year compound interest. At the end of n years, the value of the investment is $3066.56 correct to the nearest cent. Calculate the value of n.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "The diagram shows a trapezium, ABCD. AD = DC = CB and AB = 23 cm. The perimeter of the trapezium is 62 cm. Calculate the area of the trapezium.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate angle BAD.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -5 and 5, where f(x) = 2^x / (x + 2).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the coordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Solve f(x) = 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Write down a value of k for which f(x) = k has only one solution.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Find the range of values of k for which f(x) = k has no solutions.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "ABC is a field on level ground. B is 178 m due east of A. The bearing of C from A is 158°. The bearing of C from B is 237°. Calculate the length of CB.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Calculate the area of the field ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "y is inversely proportional to x^3. When x = 2, y = 2.5. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find the value of x when y = 20000.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "p is directly proportional to y^2. When x = \\sqrt[3]{2}, p = 1200. Find p in terms of x.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "11",
+      "question_text": "The table shows some information about the heights, in cm, of 120 plants. All of these plants have a height greater than 12 cm. Maximum: 80, Median: 48, Lower quartile: 34, Interquartile range: 26. Use this information to draw a cumulative frequency diagram. The first point has been plotted for you.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Transformation A is a rotation 90° clockwise about the origin. Transformation B is a translation by the vector (3 / -1). Describe fully the single transformation equivalent to transformation A followed by transformation B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "A is the point (-3, 2) and B is the point (7, -3). Find the equation of the line AB.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "C is a point on AB, and the ratio AC : CB = 3 : 2. Find the coordinates of C.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "OAD and OBC are sectors of circles each with centre O. The sector angle is 35°. The radius of the smaller circle is 15 m. The radius of the larger circle is 25 m. Calculate the area of the shaded region.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Calculate the perimeter of the shaded region.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "15(a)",
+      "question_text": "The diagram shows a sketch of the graph of a quadratic function y = f(x). The graph passes through (-1, 0), (3, 0) and (0, -6). Find f(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "15(b)",
+      "question_text": "The graph of y = f(x) is mapped onto the graph of y = g(x) by a translation vector (1 / 0). Find g(x) in terms of x.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    }
+  ]
+}

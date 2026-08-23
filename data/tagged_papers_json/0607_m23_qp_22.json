@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "From this list of numbers write down a prime number",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "From this list of numbers write down a square number.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out 10% of 250.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Work out 2.04 \\times 20",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Work out \\frac{0.09}{0.003}",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "The diagram shows three angles on a straight line. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5",
+      "question_text": "A bag contains 7 black balls, 2 red balls and 4 yellow balls. One ball is chosen at random from the bag. Find the probability that the ball chosen is yellow.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Solve 5x - 10 = 3x - 6",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Solve 4x - 3 \\ge 9",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "p = 2 \\times 10^3, q = 8 \\times 10^{-5}. Work out pq, giving each answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "p = 2 \\times 10^3, q = 8 \\times 10^{-5}. Work out \\frac{p}{q}, giving each answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The size of one exterior angle of a regular polygon is 24°. Find the number of sides of this polygon.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The point A has coordinates (2, 9) and the point B has coordinates (5, 3). Find the length of AB. Give your answer in surd form.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Solve the simultaneous equations 5x - 2y = 12, 3x + 4y = 2",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Expand the brackets and simplify. (4x - 3y)(4x + 3y)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Shade the given set in the Venn diagram: A' \\cup B'",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Shade the given set in the Venn diagram: (A \\cap B)'",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Make x the subject of A = \\frac{3(x + y)}{x}",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Factorise. 5x^2 - xy - 4y^2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "16",
+      "question_text": "The volume of a hemisphere with radius r cm is \\frac{16}{3}\\pi\\text{ cm}^3. Find the value of r.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "17",
+      "question_text": "An unbiased die is numbered 2, 3, 3, 4, 5, 6. Wendy rolls the die three times. Find the probability that Wendy rolls a prime number at least twice.",
+      "marks_available": "[4]",
+      "topic": "probability"
+    }
+  ]
+}

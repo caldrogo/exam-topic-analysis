@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write down the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Work out the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(e)",
+      "question_text": "Calculate the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(f)",
+      "question_text": "Two of the students are chosen at random. Find the probability that the difference in their marks is 8.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Find the image of the point (5, -2) under the transformation P.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "Find the image of the point (5, -2) under the transformation Q.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(iii)",
+      "question_text": "Describe fully the single transformation equivalent to P followed by Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(iv)",
+      "question_text": "Describe fully the single transformation equivalent to Q followed by P.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Complete the scatter diagram. The first six points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the mean amount of money spent on advertising.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Find the equation of the regression line for y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Use your regression line to estimate the number of tickets sold when Petra spends $130 on advertising.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(iii)",
+      "question_text": "Explain why Petra should not rely on this regression line to estimate the number of tickets she will sell if she spends $500 on advertising.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find the volume of the metal remaining after the cylinder has been removed.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Write your answer to part (i) in standard form.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Find the total surface area of the metal remaining after the cylinder has been removed.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Calculate the volume of one sphere.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "Calculate the radius of one sphere.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Calculate the probability that the student chosen is a girl who prefers swimming,",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Calculate the probability that the student chosen is a boy who does not prefer football,",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "Calculate the probability that the student chosen is a student who prefers athletics.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Two of the girls are chosen at random. Calculate the probability they both prefer tennis.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Two of the students who prefer athletics are chosen at random. Calculate the probability that one is a boy and one is a girl.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Three of the 50 students are chosen at random. Calculate the probability that one is a boy and two are girls and they all prefer swimming.",
+      "marks_available": "[4]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Find how much Herman paid for the motorbike.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "From 2016, the value of the motorbike reduced by 8% each year. Calculate the number of complete years it will take for the value of the motorbike to decrease from $7392 to $5000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -6 and 2.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Write down the coordinates of the points where the graph crosses the axes.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)(iii)",
+      "question_text": "Write down the equations of the asymptotes of the graph.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for -6 <= x <= -1.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Solve the equation f(x) = g(x)",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Solve the inequality f(x) >= g(x)",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Find the bearing of D from A,",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Find the bearing of A from D.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Calculate angle ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Calculate the area of quadrilateral ABCD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Calculate CD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Angle ACD is acute. Find the bearing of D from C.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Find f(2),",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Find f(g(4)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find g(g(-1)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Solve h(f(x)) = 9",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Find (f(x))^2 - 1 in terms of x. Give your answer in the form k(ax + b)(cx + d) where a, b, c, d and k are integers.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The diagram shows a vertical pole CD. ABC is a straight line on level ground. Find DC.",
+      "marks_available": "[6]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(a)(i)",
+      "question_text": "Solve the equation 5 + 2x = 1",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11(a)(ii)",
+      "question_text": "Solve the equation 6 - (10/x) = 1",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11(a)(iii)",
+      "question_text": "Solve the equation 3(1 - 2x) = 2 - 4(x - 7)",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Solve 6x^2 = 7 - 3x. Give your answers correct to 3 decimal places. You must show all your working.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Solve 6y^4 = 7 - 3y^2. Give your answers correct to 3 decimal places.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Solve 2 log x + log 5 = 1.",
+      "marks_available": "[4]",
+      "topic": "logarithms"
+    }
+  ]
+}

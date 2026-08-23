@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Find the mode",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Find the median",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(iii)",
+      "question_text": "Find the range",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(iv)",
+      "question_text": "Find the upper quartile",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(a)(v)",
+      "question_text": "Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "This table shows the numbers of letters delivered to the houses in another street one day. Number of letters: 0, 1, 2, 3, 4, 5, 6. Frequency: 18, 31, 27, 18, n, 12, 5. The mean number of letters delivered in this street is 2.28. Find the value of n.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Ameera and Bertrand share some money in the ratio 4 : 5. Bertrand gets $3000. Calculate Ameera's share.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Bertrand invests $3000 at a rate of r% per year simple interest. At the end of 10 years the value of the investment is $3840. Find the value of r.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Claudia invests $6000 at a rate of s% per year compound interest. At the end of 8 years the value of the investment is $7367.67. Find the value of s.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Dieter invests $4000 at a rate of 1.8% per year compound interest. At the end of n complete years the value of the investment is more than $6000. Calculate the smallest value of n.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Noora throws a fair 6-sided die numbered from 1 to 6. Write down the probability that the die shows a number less than 5",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Noora throws a fair 6-sided die numbered from 1 to 6. Write down the probability that the die shows an even number.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Dilshan has two fair 6-sided dice each numbered from 1 to 6. He throws both dice. Find the probability that both dice show a 6",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Dilshan has two fair 6-sided dice each numbered from 1 to 6. He throws both dice. Find the probability that at least one die does not show a 6.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "The probability that it rains on Wednesday is 0.48. If it rains, the probability that Hannah cycles to work is 0.28. If it does not rain, the probability that Hannah cycles to work is 0.84. Complete this tree diagram.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Find the probability that, on Wednesday, it does not rain and Hannah cycles.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Line L has equation 3y + 2x = 8. Find the gradient and the y-intercept of line L.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Line P passes through the point (2, 10) and is perpendicular to line L. Show that the equation of line P is 2y - 3x = 14.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the coordinates of the point where line L and line P intersect. You must show all your working.",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "f(x) = 5 + 2x - 4x^2 - x^3 for -5 <= x <= 2. On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the zeros of f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Write down the coordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "The point (a, b) lies on the graph of y = f(x) where the gradient is positive. Find the range of values for a.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(e)",
+      "question_text": "The equation 5 + 2x - 4x^2 - x^3 = k has exactly one solution. Write down a possible value of the integer k.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Reflect triangle A in the line y = x.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Write down the inverse of each of these transformations. Translation with the vector (-3, 4)",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Write down the inverse of each of these transformations. Stretch with the line y = 1 invariant and stretch factor 3",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "The diagram shows a logo made from an isosceles triangle and two semicircles. The perimeter of the logo is 37 cm. Show that the diameter of each semicircle is 4.14 cm, correct to 3 significant figures.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate angle ACB.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate the area of the logo.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "A mathematically similar logo has an area of 35 cm^2. Calculate the perimeter of this logo.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "The diagram shows a square-based pyramid. The side of the base of the pyramid is 0.7 cm. The length of each sloping edge is 0.8 cm. Show that the perpendicular height of the pyramid is 0.628 cm, correct to 3 significant figures.",
+      "marks_available": "[4]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "The diagram shows a kitchen tool made from wood. The tool is formed from a cuboid, a cylinder and 49 of the square-based pyramids from part (a). The cylinder has a radius of 1.2 cm and length 25 cm. The cuboid measures 4.9 cm by 4.9 cm by 6 cm. The mass of 1 cm^3 of the wood is 0.63 grams. Calculate the total mass of the tool.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Solve 2x + 3 = 1 - 5x",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Solve |x + 3| = 2",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Factorise completely. 6x^3y^2 - 3x^2y^3",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Write 5 / (2x + 3) - 2 / (x - 5) as a single fraction in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Solve 2x^2 + 3x = 7. You must show all your working and give your answers correct to 2 decimal places.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "f(x) = 5 - (1/2)x, g(x) = 3(x + 1), h(x) = sin x° for 0 <= x <= 180. Find f(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Solve f(x) = 2.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find and simplify f(g(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find g^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(e)",
+      "question_text": "Find h(g(29)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(f)",
+      "question_text": "Using a graphical method, solve h(g(x)) = 1 - 0.01x.",
+      "marks_available": "[5]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "A, B, and C are three ports. The bearing of B from A is 040°. Show that angle ABC = 80.6°, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the bearing of B from C.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "A ship leaves port A at 13 00. It sails directly towards C at a speed of 32 km/h. At point P the ship is at its shortest distance from B. Find the time when the ship reaches point P. Give your answer correct to the nearest minute.",
+      "marks_available": "[6]",
+      "topic": "trigonometry"
+    }
+  ]
+}

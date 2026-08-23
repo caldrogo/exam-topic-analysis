@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write 5.30987 correct to 3 decimal places.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write 0.0036489 correct to 3 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Construct an ordered stem and leaf diagram to show these scores and complete the key.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the median score.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Factorise completely. 6x^2 - 2x",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Complete this statement for the parallelogram shown. This shape has ......... lines of symmetry and rotational symmetry of order ..........",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Simplify 4(2x - 1) - 3(x - 2).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6",
+      "question_text": "AD is an arc of a circle, centre C, and BCD is a straight line. BC = 9 cm, CD = 6 cm and angle ACD = 90°. Find the total area of the shape ABCD. Give your answer in terms of pi.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Solve the inequality 3x + 2 >= 5x - 6.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Show your solution to part (a) on this number line.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "ADC is a straight line and angle BAC = angle DBC. Complete the following statement. Triangle ACB is similar to triangle ................................... .",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "BC = 6 cm and CD = 4 cm. Calculate the length AC.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "In each diagram, shade the region indicated. A intersection B' and (A union C) intersection B'",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Use set notation to describe the shaded region.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Expand the brackets and simplify. (2x - 3y)(3x - 4y)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Sketch the graph of y = |x + 2|.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "A, B, C, D and E are points on the circle. Angle CAD = 35° and angle EBD = 15°. Find angle CBD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Find angle CDE.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "13",
+      "question_text": "p = 5 + 2*sqrt(3) and q = 5 - 2*sqrt(3). Find p^2 - q^2, writing your answer in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Find the value of x when 5 log 2 - log 8 = log x.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "15",
+      "question_text": "The equation of this curve is y = ax^2 + bx + c. Find the values of a, b and c.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    }
+  ]
+}

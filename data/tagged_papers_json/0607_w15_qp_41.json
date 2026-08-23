@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write the ratio 80 : 75 in its simplest form.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Sunil spends $24. Work out $24 as a percentage of $80.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Sunil invests $50 at a rate of 2% per year compound interest. Calculate the interest Sunil has after 20 years.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)(i)",
+      "question_text": "During each month, Asha spends 1/5 of the money that she had at the beginning of the month. Work out how much of the $75 Asha has at the end of the 2nd month.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)(ii)",
+      "question_text": "Calculate the number of whole months it takes for Asha to have less than $5.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Find 2p + 3q.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Find |q - p|.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "The graph of y = f(x) is mapped onto the graph of y = f(x + 2) by a translation with vector (u v). Find the value of u and the value of v.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "Draw the image of triangle T under a rotation of 90° clockwise about the point (-1, -1).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle E.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x), for values between x = -5 and x = 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Solve the inequality f(x) < 0.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find f^(-1)(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "On the diagram, sketch the graph of y = f^(-1)(x), for values between x = -5 and x = 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(e)",
+      "question_text": "Describe fully the single transformation that maps the graph of y = f(x) onto the graph of y = f^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "AB and CD are parallel. AD and CB intersect at X. CD = 9 cm, AB = 4 cm, AX = 4.5 cm and BX = 3 cm. Calculate the length of CX.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "P, Q, R and S lie on a circle. PR and QS intersect at Y. QR = 6 cm, PS = 8 cm, PY = 7 cm and YS = 4 cm. Calculate the length of RY.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "The two shapes are mathematically similar. The area of E is 90 cm^2 and the area of F is 45 cm^2. Find the value of w.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Calculate BC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Calculate angle CAD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Calculate the area of the quadrilateral ABCD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Complete the histogram to show the information in the table.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Calculate the mass of the cuboid.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "The surface of the cuboid is painted at a cost of 8 cents per cm^2. Calculate the cost of painting the cuboid. Give your answer in dollars.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Another cuboid measures 16 cm by 6 cm by 4 cm. It is cut into cubes, each of side 2 cm. Calculate the number of cubes.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)(i)",
+      "question_text": "Another solid metal cuboid measures 20 cm by 12 cm by 4 cm. It is melted down and made into spheres of radius 1.5 cm. Calculate the largest number of spheres of radius 1.5 cm that can be made.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)(ii)",
+      "question_text": "Calculate the volume of metal remaining after the spheres have been made.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)(iii)",
+      "question_text": "Calculate the radius of the sphere that can be made using all the remaining metal.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "A plastic cone has radius r cm and perpendicular height 3r cm. 1 cm^3 of the plastic has a mass of 0.9 g. A wooden hemisphere has a radius of 2r cm. 1 cm^3 of the wood has a mass of 0.45 g. Find the mass of the cone as a fraction of the mass of the hemisphere. Give your answer in its lowest terms.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "On the diagram, sketch the graphs of y = f(x) and y = g(x) for values between x = 0 and x = 2.",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Solve the equation 3 - x^2 = x^x for 0 <= x <= 2.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Solve the equation 3 - x^2 = 0 for 0 <= x <= 2.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(d)(i)",
+      "question_text": "Find the co-ordinates of the local minimum point on the graph of y = g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(d)(ii)",
+      "question_text": "Find the range of g(x) for the domain 0 < x <= 2.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(e)(i)",
+      "question_text": "Find the values of the following: g(0.1) = ..., g(0.01) = ..., g(0.001) = ...",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(e)(ii)",
+      "question_text": "Complete the statement. Starting from x = 0.1, as x gets closer and closer to 0, g(x) gets closer and closer to the value ...",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Both dice are rolled. Find the probability that both dice show 3.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Both dice are rolled. Find the probability that the numbers showing on the two dice add up to 2.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Die B is rolled until it shows 2. Find the probability that this occurs when the die is rolled for the 4th time.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Die A is rolled until it shows 3. The probability that this occurs when the die is rolled for the nth time is 3125/46656. Find the value of n.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find f(h(9)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find g(f(x)) in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find 1/f(x) + 1/g(x) in terms of x. Give your answer as a single fraction.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Solve the equation h(x) = -1.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(e)",
+      "question_text": "Solve the equation (g(x))^2 = 5. Give exact answers.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Cakes cost x cents each and drinks cost y cents each. 2 cakes and 1 drink cost $1.57. 1 cake and 3 drinks cost $2.96. Find the total cost of 3 cakes and 2 drinks. Give your answer in dollars.",
+      "marks_available": "[6]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "A child's train ticket costs $x. An adult's train ticket costs $(x + 5). Claudia buys 11 tickets. She spends $24 on children's tickets and $24 on adults' tickets. Write down an equation in x and solve it to find the cost of a child's ticket.",
+      "marks_available": "[4]",
+      "topic": "solving linear equations"
+    }
+  ]
+}

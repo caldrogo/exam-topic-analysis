@@ -1,0 +1,322 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Find the gradient and y-intercept of the line with equation 3x + 4y = 24.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Show that the equation of line L is 2y - x = 2.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Find the equation of the line parallel to L that passes through the point (0, 7). Give your answer in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Find 12 kg as a percentage of 80 kg.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find 19% of $250.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Xavier invests $500 at a rate of 1.5% per year simple interest. At the end of y years, the value of Xavier's investment is $612.50. Find the value of y.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)(i)",
+      "question_text": "Calculate the value of the car at the end of 3 years. Give your answer correct to the nearest dollar.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)(ii)",
+      "question_text": "Find the number of complete years for the value of $20 000 to decrease until it is first below $1000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "Each year the value of another car decreases by r% of its value at the beginning of that year. At the end of 10 years, the value has decreased from $12 000 to $4673. Find the value of r.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Find the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iv)",
+      "question_text": "Find the lower quartile.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Calculate an estimate of the mean height.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "When using mid-interval values, an estimate of the mean value of t is 25.4. Find the value of n.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Find the values of a, b and c.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Find the values of u, v, w, x, y and z.",
+      "marks_available": "[6]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Expand and simplify (2x + 3)^2.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "The equation 4x^2 + 12x + 5 = 0 can be written as (2x + 3)^2 = k. Find the value of k.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "Use your answer to part(ii) to solve the equation 4x^2 + 12x + 5 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "Find x in terms of w.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Find x when w = 3.25.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "Find w in terms of x.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Show that 5x^2 + 2x - 88 = 0.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Factorise 5x^2 + 2x - 88.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Find the area of the smaller rectangle.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Write down the zeros of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Write down the coordinates of the local maximum.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "The equation |4 - x^2| = k has 4 solutions and k is an integer. Write down a possible value of k.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(e)(i)",
+      "question_text": "On the diagram, sketch the graph of y = 2x.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(e)(ii)",
+      "question_text": "Solve the equation |4 - x^2| = 2x.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "7(e)(iii)",
+      "question_text": "On the diagram, shade the regions where y >= 0, y <= 2x and y <= |4 - x^2|.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Find the value of f(12).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Find the value of g(f(12)).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the value of x when f(x) = g(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find f(g(x)), giving your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Find g^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Find x when h(x) = f(0.5).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "8(f)",
+      "question_text": "Find h^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Calculate the value of x.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Calculate angle ABC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "T is the point on AB that is the shortest distance from C. Calculate BT.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Another triangle PQR has QR = 12 cm, PR = 7 cm and angle PQR = 35°. Calculate the difference between the two possible values of angle QPR.",
+      "marks_available": "[5]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Complete the tree diagram.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "Find the probability that on one day Zena does not wear a sweatshirt and she goes for a walk.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Find the probability that on one day Zena goes for a walk.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "Find the probability that Zena does not wear a sweatshirt when she goes for a walk.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "Complete the tree diagram above.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "The diagram shows a sector of a circle with radius r and angle y°. The length of the arc of the sector is 2r. Calculate the value of y.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Show that A = (8x / 45) * pi - 32 sin(x).",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Find the value of A when x = 90.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)(iii)",
+      "question_text": "By sketching the graph of A = (8x / 45) * pi - 32 sin(x), find the value of x when A = 5.5.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write 0.0301497 correct to 3 decimal places",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write 0.0301497 correct to 4 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Write down the number of lines of symmetry of a kite.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Work out 5/6 - 5/8.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Solve 11 + 2x > 5.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Show your solution to part (a) on this number line.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Complete the table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "A total of 1200 cars pass Hassan’s house that day. Calculate an estimate of the number of these cars with 5 people.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6",
+      "question_text": "The angles of a triangle are in the ratio 2:3:7. Find each angle.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7",
+      "question_text": "p = 5 × 10^7. Work out p^3. Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "For this sequence 1, 6, 11, 16, 21 ... find the next term",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "For this sequence 1, 6, 11, 16, 21 ... find an expression for the nth term.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The two bottles are mathematically similar. The height of the large bottle is 30 cm. The height of the small bottle is 24 cm. The volume of the large bottle is 250 cm³. Calculate the volume of the small bottle.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "A, B, C and D are points on the circle centre O. PDQ is a tangent to the circle at D. Angle BAD = 51° and angle PDA = 64°. Find angle BCD",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "A, B, C and D are points on the circle centre O. PDQ is a tangent to the circle at D. Angle BAD = 51° and angle PDA = 64°. Find angle ABD",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "A, B, C and D are points on the circle centre O. PDQ is a tangent to the circle at D. Angle BAD = 51° and angle PDA = 64°. Find the obtuse angle BOD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Expand and simplify. (4 + 2sqrt(3))(5 - sqrt(3))",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "y is inversely proportional to x^2. When x = 2, y = 10. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "13",
+      "question_text": "The area of the shaded segment is (aπ + b) cm². Find the value of a and the value of b.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Solve 2 log x - 3 log 2 + log 5 = 3.",
+      "marks_available": "[4]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Write as a single fraction in its simplest form. 3 / (x - 1) - 2 / (2x + 5)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

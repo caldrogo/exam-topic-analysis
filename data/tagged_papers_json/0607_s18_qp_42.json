@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out (\\sqrt[3]{402}) / (3.15^2).",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Write 130.47 correct to one decimal place.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Write 130.47 correct to one significant figure.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Work out 23% of $76.80.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "$4200 is shared in the ratio 3 : 4 : 6 : 8. Find the difference between the largest share and the smallest share.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(e)",
+      "question_text": "Write down an irrational number less than 10.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "1(f)",
+      "question_text": "Work out 7.31 \\times 10^{-2} + 1.56 \\times 10^{-1}. Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x), for values of x between -5 and 5, where f(x) = 1 - x / (x^2 - 9).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Write down the equations of the three asymptotes.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "The line y = x intersects the curve y = 1 - x / (x^2 - 9) three times. Find the values of the x co-ordinates of the points of intersection.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "y varies directly as the square root of x. y = 32 when x = 16. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Find the value of y when x = 4.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Find x in terms of y.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "p varies inversely as q+2. p = 3 when q = 2. Find the value of p when q = 4.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Calculate an estimate of the mean mass of the oranges.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Two of these oranges are chosen at random. Calculate the probability that they both have a mass of 140g or less.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "The oranges with a mass of 140g or less are removed. From the remaining oranges, two are chosen at random. Calculate the probability that one orange has a mass of 250g or less and the other has a mass of more than 250g.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Complete the frequency density column in this table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "On the grid, draw a histogram to show this information.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "In the diagram, ABCD is a rectangle. Find PS.",
+      "marks_available": "[2]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find angle BRS.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Find the perimeter of PQRS.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Find the shaded area.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(e)",
+      "question_text": "Explain why triangle ASP is similar to triangle BSR.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Translate triangle A with vector \\begin{pmatrix} -7 \\\\ -3 \\end{pmatrix}. Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Rotate triangle A through 90° anti-clockwise about (-1, 2). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Enlarge triangle A scale factor -2 with centre (3, 1). Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(e)",
+      "question_text": "Describe fully the single transformation that maps triangle D onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Find the height of a stack of 8 of these cups.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the number of these cups in a stack that has a total height of 105 mm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "A similar cup, B, has base diameter 42 mm. Find the height of this cup.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "7(d)(i)",
+      "question_text": "For cup A, show that a = 8 mm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(d)(ii)",
+      "question_text": "Find the volume of cup A.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(d)(iii)",
+      "question_text": "Find the volume of cup B.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "7(d)(iv)",
+      "question_text": "Rearrange V = \\pi h (3r^2 + 3ar + a^2) / 3 to make h the subject.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Complete the statement. Angle ODE = 90° because...",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Find the value of angle AOD.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Find the value of angle ODC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)(iii)",
+      "question_text": "Find the value of angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)(iv)",
+      "question_text": "Find the value of angle CFD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)(v)",
+      "question_text": "Find the value of angle CAB.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Show that angle BAC = 47.0°, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Use the sine rule to find angle ABC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Find the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Find the length of the perpendicular from B to AC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Complete the scatter diagram. The first four points have been plotted for you.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "Find the mean amount of fertiliser.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Find the mean height.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "Find the equation of the regression line in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "Use your answer to part (c)(i) to estimate the height of a seedling when the amount of fertiliser is 20 ml.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(c)(iii)",
+      "question_text": "Write down the units of m in the equation of the regression line, y = mx + c.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "11(a)(i)",
+      "question_text": "Find f(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(a)(ii)",
+      "question_text": "Solve f(x) = 1.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find f^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Find f(g(x)) in terms of x.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Solve f(g(x)) = 5.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)(i)",
+      "question_text": "Find h(g(f(x))) in terms of x.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)(ii)",
+      "question_text": "Find an inequality in terms of x for which h(g(f(x))) exists.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    }
+  ]
+}

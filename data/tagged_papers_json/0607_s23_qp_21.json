@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Insert one pair of brackets to make the statement correct. 3 * 7 + 2 + 9 = 36",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Work out (0.2)^3.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Write down a prime number between 80 and 90.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Solve the equation. 7 - 5x = -3",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Work out (1/2) - (-5/3)",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "P is the point (-3, 6). Q is the point (0, 2). Find the translation vector that maps the point P onto the point Q.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Factorise. 2p^2 - pq",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Expand the brackets and simplify. (p - 7)(p + 3)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Work out (11/12) + (3/4). Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Simplify (a/x) / (b/2y). Give your answer as a single fraction.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Rotate triangle T 90° clockwise about the point (2, 1).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "The interior angle of a regular polygon is 140°. Find the number of sides of this polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Rearrange this equation to make x the subject. y = 7x + 2",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Simplify (3w^3)^3.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "APB is a tangent to the circle at P. Work out the value of x.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Simplify sqrt(27) + sqrt(12) - sqrt(108).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "f(x) = 3 sin(4x°). Find the amplitude and period of f(x).",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "13",
+      "question_text": "y varies inversely as sqrt(x). When x = 9, y = 2. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "14",
+      "question_text": "f(x) = x^(1/7). Find f^(-1)(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "15(a)",
+      "question_text": "Simplify (3 / (x + 2)) - (2 / (x - 1))",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "15(b)",
+      "question_text": "Simplify (6x^2 + x - 12) / (6ax - 8a - 3x + 4)",
+      "marks_available": "[5]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

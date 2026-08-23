@@ -1,0 +1,226 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out (0.02)^3.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write your answer to part (a) in standard form.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "This is a list of numbers: 31, 33, 35, 37, 39, 41. From this list, write down all the prime numbers.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Write the fraction 24/64 in its lowest terms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Convert 250 cm^3 into m^3.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5",
+      "question_text": "A quadrilateral has exactly one pair of parallel sides. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Share 120 in the ratio 2 : 3.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Share Z in the ratio x : y.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "At a school, 50 students are asked their favourite car colour. The table shows the results. Colour: Red (7), Blue (x), White (15), Silver (16), Black (x). Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the relative frequency of red.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Expand and simplify: 5(2x - 1) - 3(3 + 4x)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Factorise: 3y - y^2",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Factorise: 8ax - 3by + 2ay - 12bx",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)(iii)",
+      "question_text": "Factorise: 3x^2 + 5x - 12",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "The table shows the marks scored by each of 60 students in a science test. Write down the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Use set notation to describe each of the shaded regions.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Simplify: (5x)^3 \\div (1/x)^4",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "A solid is made by joining a cuboid to a pyramid. The base of the cuboid is a square of side x. The height of the cuboid is 3x. The base of the pyramid is a square of side x. The height of the pyramid is 3x. The total volume of the solid is 32 000 cm^3. Show that x = 20.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Show that x = 5.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Find the value of y.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Find the lowest common multiple (LCM) of these expressions: 2x^3y^4, 3x^2z^3, 4y^2z.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "15",
+      "question_text": "An unbiased die is numbered 2, 3, 4, 4, 5, 6. Zaira rolls the die three times. Find the probability that Zaira rolls an odd number two or more times.",
+      "marks_available": "[4]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "16(a)",
+      "question_text": "Find the next term and the nth term in the sequence: 12, 14, 16, 18, 20, ....",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "16(b)",
+      "question_text": "Find the next term and the nth term in the sequence: 81, 27, 9, 3, 1, ....",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "17(a)",
+      "question_text": "The diagram shows a circle, centre O. AOBP is a straight line. PC is a tangent to the circle. Angle AOC = 116°. Find angle OAC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17(b)",
+      "question_text": "Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17(c)",
+      "question_text": "Find angle ADC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17(d)",
+      "question_text": "Find angle APC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "18",
+      "question_text": "Apples cost $2.50 per kilogram. The total cost of x kg of apples and y kg of pears is $10. Find the cost of 1 kg of pears. Give your answer in terms of x and y.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "19(a)",
+      "question_text": "f(x) = 1 / (5x - 4), x \\neq 0.8. Find f(2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "19(b)",
+      "question_text": "Solve f(x) = 1/11.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "19(c)",
+      "question_text": "Find f^{-1}(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "20(a)",
+      "question_text": "Rationalise the denominator: (\\sqrt{3} - \\sqrt{2}) / (\\sqrt{3} + \\sqrt{2})",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "20(b)",
+      "question_text": "Expand and simplify: (\\sqrt{x+1} - \\sqrt{x})(\\sqrt{x+1} + \\sqrt{x})",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "21(a)",
+      "question_text": "Line L is perpendicular to the line with equation y = 2x + 1. Line L passes through the point (3, 12). Find the equation of the line L.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "21(b)",
+      "question_text": "The shortest distance from the point (3, 12) to the line y = 2x + 1 is \\sqrt{k}. Find the value of k.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    }
+  ]
+}

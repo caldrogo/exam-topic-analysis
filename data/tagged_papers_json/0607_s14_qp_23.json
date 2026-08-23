@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "The price of a book was $7.00. It is reduced by 20%. Find the new price of the book.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write 0.0063 in standard form.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "5.7 × 10^9 + 2.4 × 10^8 = k × 10^9. Find the value of k.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Find the next term in each of these sequences: 3, 5, 8, 12, 17, ………………",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the next term in each of these sequences: 100, 91, 80, 67, 52, ………………",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find the next term in each of these sequences: 4, 12, 36, 108, 324, ………………",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "A small square of side 2y is inside a larger square of side 6x. Find an expression for the shaded area, A, in terms of x and y.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Rearrange your answer to part (a) to write x in terms of y and A.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Find 125^0.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Simplify cube_root(27 y^27).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "A, B, C and D lie on the circumference of a circle. Angle ABC = 98° and angle ACB = 50°. Find the value of x and the value of y.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "P, Q, R and S lie on the circumference of a circle, centre O. TP is a tangent to the circle at P and PR is a diameter. Find the value of v and the value of w.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "7",
+      "question_text": "y varies directly as the square of x. When x = 8, y = 40. Find y when x = 12.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Simplify (3√2 - 2)(2√2 + 1).",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Rationalise the denominator of 10 / √5.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "The diagram shows the graph of y = f(x). On the same diagram, sketch the graph of y = 2f(x).",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "The diagram shows the graph of y = f(x). On the same diagram, sketch the graph of y = f(x + 1).",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Find the exact value of cos x.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "The Venn diagram shows the sets P, Q and R. Complete the following statements using set notation: P ........ R = {a, b, c, d, e}",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "The Venn diagram shows the sets P, Q and R. Complete the following statements using set notation: Q ........ R = ∅",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "The Venn diagram shows the sets P, Q and R. Complete the following statements using set notation: e ........ R",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "The Venn diagram shows the sets P, Q and R. Complete the following statements using set notation: P ........ Q = P",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "f(x) = x + 3 and g(x) = 12/x, x ≠ 0. Find g(f(1)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "f(x) = x + 3 and g(x) = 12/x, x ≠ 0. Find g^(-1)(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    }
+  ]
+}

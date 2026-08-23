@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out 16 - 8 \\div 2 + 2 \\times 4.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Work out (8 \\times 10^{-4}) \\times (2 \\times 10^{-3}), giving your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Solve 2x - 3(1 - 4x) = 2(11 - 3x).",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Solve |4x - 3| = 11.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "3",
+      "question_text": "x varies as the square of y. When y = 4, x = 32. Find x when y = 5.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Two fair dice, each numbered 1, 2, 3, 4, 5, 6, are rolled and the total score is recorded. Find the probability that the total score is 12.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Two fair dice, each numbered 1, 2, 3, 4, 5, 6, are rolled and the total score is recorded. Find the probability that the total score is 13.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Two fair dice, each numbered 1, 2, 3, 4, 5, 6, are rolled and the total score is recorded. Find the probability that the total score is 7.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "If a = \\begin{pmatrix} 5 \\\\ -12 \\end{pmatrix} and b = \\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}, find a - 3b.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "If a = \\begin{pmatrix} 5 \\\\ -12 \\end{pmatrix}, work out |a|.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Factorise 8ax - by + 2ay - 4bx.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Factorise 3x^2 - 5x - 12.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Find the value of 6^0.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Write 5^{-2} as a fraction.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "A, B, C, and D lie on a circle, centre O. AD is parallel to OC and angle ADC = 108°. Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "A, B, C, and D lie on a circle, centre O. AD is parallel to OC and angle ADC = 108°. Find angle AOC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "A, B, C, and D lie on a circle, centre O. AD is parallel to OC and angle ADC = 108°. Find angle OCA.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "A, B, C, and D lie on a circle, centre O. AD is parallel to OC and angle ADC = 108°. Find angle DAC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "In triangle ABC, AB = \\sqrt{48} cm, AC = 8 cm and angle ABC = 90°. Find BC.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "In triangle ABC, AB = \\sqrt{48} cm, AC = 8 cm and angle ABC = 90°. Find angle BAC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The graph of y = (x - h)^2 + k has a vertex at (2, -3). Find the value of h and the value of k.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11",
+      "question_text": "The table shows the marks of 70 students in an examination. On the grid below, draw a histogram to show this information.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Solve the following equation: 12 - x = 4",
+      "marks_available": "[1]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Solve the following equation: 9x - 4 = 6x + 8",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(a)(iii)",
+      "question_text": "Solve the following equation: \\frac{12}{x} + 5 = 9",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Solve 6x^2 - 5x + 1 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Use your answer to part (b)(i) to solve 6\\sin^2 x - 5\\sin x + 1 = 0 for 0^\\circ \\leqslant x \\leqslant 90^\\circ.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write down the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Find the inter-quartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(f)",
+      "question_text": "Give a reason why your answer to part (e) is an estimate.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(g)",
+      "question_text": "Two of these students are chosen at random. Find the probability that the highest mark of these students is 2.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "On the diagram sketch the graph of y = f(x), for -90 \\leqslant x \\leqslant 90, where f(x) = 1 - 2\\sin(2x - 10)^\\circ.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Write down the co-ordinates of the x-intercepts.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Write down the co-ordinates of the local maximum.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "The graph of y = -\\frac{x}{60} intersects the graph of y = 1 - 2\\sin(2x - 10)^\\circ three times. Find the value of the x co-ordinate at each point of intersection.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find the co-ordinates of point A, given that ABCD is a rectangle and the equation of the line AB is 4x + 3y = 24.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the co-ordinates of point B, given that ABCD is a rectangle and the equation of the line AB is 4x + 3y = 24.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Find the co-ordinates of the midpoint of AB.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Rearrange the equation 4x + 3y = 24 to make y the subject.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the equation of the line BC. Give your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(d)(i)",
+      "question_text": "Find the co-ordinates of point C.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(d)(ii)",
+      "question_text": "Find the co-ordinates of point D.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Calculate the number of fish in the lake in January 2019, given that the number of fish decreases by 4% each year and in January 2018 there are 30000 fish.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Calculate the number of fish in the lake in January 2029.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "Calculate the number of fish in the lake in January 2017.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the last year in which there were at least 50000 fish in the lake.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Philip runs a fishing business and he works 50 weeks every year. In 2018, he catches 800kg of fish in each of these weeks. He sells all the fish he catches at a price of $3.50 for each kilogram. Calculate the total amount he receives in 2018.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "For each of the 50 weeks, Philip’s business costs $2240 to run. Calculate his profit as a percentage of $2240.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "In 2019, Philip’s business costs 8% more to run than in 2018. The selling price of fish decreases by 10%. Find the amount of fish, in kilograms, Philip will need to catch each week to keep the percentage profit found in part (c)(ii) the same.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Reflect triangle A in the line x = -2. Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Rotate triangle A through 180° about (-2, -1). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Enlarge triangle A with centre of enlargement (1, 2) and scale factor 2. Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Find an expression for the nth term for the sequence: 80, 77, 74, 71, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find an expression for the nth term for the sequence: 128, 64, 32, 16, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "The nth term of a sequence is n^2 - 1. Find the first four terms of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "The nth term of a sequence is |n - 3|. Find the first four terms of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(d)(i)",
+      "question_text": "The nth term of a sequence is n^2 + n + 41. Find the first three terms of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(d)(ii)",
+      "question_text": "Show that when n = 41 the number in this sequence is not prime.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Complete the statement. Angle OAT = ... because ...",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "DT = OC. Find angle ABC.",
+      "marks_available": "[4]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) where f(x) = x^3 - 3x^2 - 4x + 1 for -3 \\leqslant x \\leqslant 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Write down the co-ordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Find the range of values of k so that f(x) = k has only one solution.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "g(x) = 3x^2 - 6x - 4 for -3 \\leqslant x \\leqslant 5. The graph of y = f(x) intersects the graph of y = g(x) twice. Solve f(x) > g(x).",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Find an expression, in terms of a and/or c, for \\vec{AC}.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find an expression, in terms of a and/or c, for \\vec{BC}.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Find an expression, in terms of a and/or c, for \\vec{BD}, giving your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Use your answer to part (a)(iii) to explain why \\vec{OA} and \\vec{BD} are parallel.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Explain why triangle OAX and triangle BDX are similar.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "10(d)(i)",
+      "question_text": "Find an expression, in terms of a and c, for \\vec{AD}.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(d)(ii)",
+      "question_text": "Find an expression, in terms of a and c, for \\vec{XD}, giving your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(e)",
+      "question_text": "Find the ratio area AXO : area BXD.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Show that angle BAC = 36.0°, correct to 1 decimal place, given that triangle ABC has sides 8.6 cm and 9.3 cm and area = 23.5 cm^2.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Use the cosine rule to find BC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "All the angles in triangle ABC are acute. Use the sine rule to find the largest angle in the triangle ABC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    }
+  ]
+}

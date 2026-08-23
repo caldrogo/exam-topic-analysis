@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out (0.2)^3.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Solve the equation. 2x - 7 = -3",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Work out 5/6 / 15/16. Give your answer as a fraction in its lowest terms.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Find the integer values of x when -1 <= x < 3.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Solve the simultaneous equations. 2p - 3q = 7, p + 3q = 2",
+      "marks_available": "[2]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Find the area of the sector. Give your answer, in terms of \\pi, in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Find, as a fraction, the value of \\sin y.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Find the value of (1/2)^{-3}",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the value of \\log_5 125.",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Simplify 4x^{-4} \\times 5x^5.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "J = m(k^2 + h^2) Rearrange the formula to make h the subject.",
+      "marks_available": "[3]",
+      "topic": "algebra"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Find the value of x^2.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12",
+      "question_text": "In the diagram, A, B and C are points on parallel lines. AC = BC. Work out the value of y.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "13",
+      "question_text": "(2\\sqrt{3} - 3\\sqrt{2})^2 = p + q\\sqrt{6} Find the value of p and the value of q.",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14",
+      "question_text": "y varies inversely as (x - 3)^2. When x = 1, y = 4. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "15",
+      "question_text": "\\log x = 2 \\log 3 - 5 \\log 2 Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "16(a)",
+      "question_text": "\\alpha is acute and \\tan \\alpha = x. Find, in terms of x, \\tan(180 - \\alpha),",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "16(b)",
+      "question_text": "\\alpha is acute and \\tan \\alpha = x. Find, in terms of x, \\tan(90 - \\alpha).",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "17",
+      "question_text": "Simplify \\frac{3x - 6y - ax + 2ay}{x^3 - 2x^2y}.",
+      "marks_available": "[4]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

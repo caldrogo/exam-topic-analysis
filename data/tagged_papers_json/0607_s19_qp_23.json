@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out. (-2)^3",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2",
+      "question_text": "f(x) = 1 - 3x. Find the value of f(-1).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Expand the brackets and simplify. 2(3x - 1) + 3(1 - 2x)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5",
+      "question_text": "A quadrilateral has two pairs of parallel sides, all sides the same length, no right angles. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6",
+      "question_text": "16 10 11 15 10 12 14 13 17 10 15. Find the median of these eleven numbers.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Work out. 2 2/5 * 1 2/3",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Work out the following. Give each answer in standard form. (1 * 10^1) + (2 * 10^-2)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Work out the following. Give each answer in standard form. (1 * 10^1) / (2 * 10^-2)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9",
+      "question_text": "A bag contains 2 blue balls, 3 red balls and 5 green balls only. John takes a ball out of the bag at random. He records the colour and puts the ball back in the bag. Flavia takes a ball out of the bag at random and records the colour. Find the probability that both balls are red.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "a = (6, 8), b = (2, -8). Find a - 3b.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "a = (6, 8), b = (2, -8). Work out |a|.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "A travel agent has the following exchange rates. £1 = $1.25, £1 = €1.20. Change £200 into dollars ($).",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "A travel agent has the following exchange rates. £1 = $1.25, £1 = €1.20. Change $100 into euros (€).",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "12",
+      "question_text": "The point A has co-ordinates (1, 3) and the point B has co-ordinates (4, 1). B is the midpoint of the line AC. Find the co-ordinates of the point C.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Make a the subject of s = ut + (1/2)at^2.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Factorise completely. 6ac - 9bc - 8ad + 12bd",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Erica walks 13 km in 2 hours. She then runs at a speed of 12 km/h for 45 minutes. Find her average speed in km/h for the whole journey.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "16",
+      "question_text": "The diagram shows a circle, centre O. AOB is a straight line. BCD is a tangent to the circle at C. Find y in terms of x.",
+      "marks_available": "[3]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "17",
+      "question_text": "The table shows the heights, x cm, of some students at a school. On the grid below, draw a histogram to show this information.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    }
+  ]
+}

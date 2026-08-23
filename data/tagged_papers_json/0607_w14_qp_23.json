@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write down the next term.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the nth term of the sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Solve these equations. x/5 + 7 = 3",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Solve these equations. 7(x + 3) – 2(x + 4) = 10",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Estimate the value of this calculation (8.89 * 61.3) / (8.3 + 11.86). Show clearly the values you use.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Simplify 25^(-3/2), giving your answer as a fraction.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Simplify. (x^3)^4",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Simplify. (x^10) / (sqrt(x^4))",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "5",
+      "question_text": "In the Venn diagram, show the sets A, B and C so that A union B = A, B intersection C = empty set and A intersection C is not equal to empty set.",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "AB = 5 cm, BC = 12 cm and angle ABC = 90 deg. BCD is a straight line. Find tan x deg.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "AB = 5 cm, BC = 12 cm and angle ABC = 90 deg. BCD is a straight line. Find cos y deg.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Factorise completely. 3x^2 – 75y^2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Factorise completely. 15ap + 10bp – 9a – 6b",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "i = (1, 0), j = (0, 1), a = (4, -6). a = pi + qj. Find the values of p and q.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Calculate |a|, giving your answer in the form m*sqrt(n) where m and n are prime numbers.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "9",
+      "question_text": "B, D and P are points on the circumference of a circle, centre O. TBA and TDC are tangents to the circle. DP is a diameter and angle BTD = 40 deg. Find the size of angle ABP.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "f(x) = 2x + 3, g(x) = 5 – 3x. Find g(x) when f(x) = 11.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find and simplify an expression for f(g(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find g^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    }
+  ]
+}

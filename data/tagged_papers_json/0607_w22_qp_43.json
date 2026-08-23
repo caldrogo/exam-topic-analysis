@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Rotate triangle T through 90° clockwise about the point (9, 6).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Enlarge triangle T with scale factor 1/2, centre (0, 0).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle P.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle Q.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -5 and 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find f(-2).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Solve the equation f(x) = 0.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Find the maximum value of f(x).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "Write down the equation of each asymptote.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(f)(i)",
+      "question_text": "Solve the equation 1/x - 1/x^2 = x^2 - 2.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "2(f)(ii)",
+      "question_text": "The equation 1/x - 1/x^2 = x^2 - 2 can be rearranged to the form x^4 + ax^2 + bx + c = 0. Find the values of a, b and c.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Amira buys a magazine that costs $n and a book that costs $(2n + 5). She pays with a $20 note and receives $1.62 change. Find the cost of a magazine.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "The cost of a bar of chocolate is $x and the cost of a bag of sweets is $y. Bruce buys 2 bars of chocolate and 1 bag of sweets for a total of $3.60. Charlie buys 3 bars of chocolate and 2 bags of sweets for a total of $6.05. Find the total cost of 1 bar of chocolate and 3 bags of sweets. You must show all your working.",
+      "marks_available": "[5]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Complete the table for the 5th term and the nth term of each sequence.",
+      "marks_available": "[11]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Show that Kris receives $80.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Kris spends 30.8% of his $80 on a book. Calculate the cost of the book.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "Laila invests her $120 at a rate of 1.16% per year simple interest. Calculate the total amount Laila has at the end of 5 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "Calculate the amount Sangita invested on 1 January 2020.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Calculate the value of the investment on 1 January 2025.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Tomas invests an amount of money at a rate of 1.4% per year compound interest. Find the number of complete years it takes for the value of his investment to increase by 50%.",
+      "marks_available": "[4]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Find 2p.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Find (1/4)p - r.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Find the magnitude of p.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "The vector from K to L is (-1/1). Find the coordinates of L.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "The vector from J to K is (5/-2). Find the coordinates of J.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "A is the point (-1, 3) and B is the point (5, 7). The perpendicular bisector of the line AB meets the x-axis at C. Find the coordinates of C.",
+      "marks_available": "[7]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Calculate the sector angle for the number of students who spend more than 30 hours watching television.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Write down the type of correlation shown in the table.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Find the equation of the regression line, giving n in terms of t.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)(iii)",
+      "question_text": "Use your answer to part(b)(ii) to find the number of ice creams expected to be sold when the midday temperature is 22°C.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)(iv)",
+      "question_text": "During this week, the shopkeeper sells 700 ice creams. She estimates that she will sell a total of 9800 ice creams during the next 14 weeks. Give a reason why this may not be a good estimate.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(c)(i)",
+      "question_text": "Complete the tree diagram.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(c)(ii)",
+      "question_text": "Find the probability that Lance goes cycling.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Calculate angle BCD.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Calculate BC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Calculate angle EBD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Calculate the area of the pentagon ABCDE.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Calculate the shortest distance from C to AE.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Find f(-2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Find f^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(iii)",
+      "question_text": "Find x when g(x) = 2f(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(iv)",
+      "question_text": "Find g(f(x)), giving your answer in the form ax^2 + bx + c.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(v)",
+      "question_text": "Find the amplitude and period of h(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(vi)",
+      "question_text": "Solve the equation h(x) = √3 for 0° ≤ x ≤ 180°.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Find the value of j(^3√(a)).",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find j^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "A machine lays a pipe of length 2.5 km in 18 hours. The machine always works at the same rate. Calculate the time it takes to lay a pipe of length 4 km.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "t varies inversely as the square root of x. x varies directly as the square of y. When x = 4, t = 3. When y = 4, x = 81. ty = h. Find the value of h.",
+      "marks_available": "[5]",
+      "topic": "variation and proportion"
+    }
+  ]
+}

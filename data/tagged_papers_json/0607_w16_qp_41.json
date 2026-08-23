@@ -1,0 +1,322 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "He changes 2500 rand into Swiss francs (CHF). 1 Swiss franc = 12.43 rand. Calculate the amount Toby receives in Swiss francs. Give your answer correct to the nearest Swiss franc.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Toby leaves Johannesburg at 1930 and arrives in Zurich at 0610 the next morning. Local time in Zurich is the same as local time in Johannesburg. The distance from Johannesburg to Zurich is 8350 km. Calculate the average speed of the journey.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "After arriving at 0610, Toby takes a further 1 hour 55 minutes to reach his office. Work out the time he arrives at his office.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(iii)",
+      "question_text": "Later, Toby takes a taxi from his office to a hotel. The taxi fare is made up of a fixed charge of 20 CHF plus 2.40 CHF per kilometre. Toby paid 36.80 CHF altogether. Work out the distance of Toby's taxi journey.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Find u + v.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Draw the image of triangle T under the translation by the vector u + v.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Calculate |u + v|.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle P.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle Q.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle R.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for -360° <= x <= 360°.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the range of f(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Find the value of f(x) when x = 3780°.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Find the value of f(x) when x = 4050°.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(d)(i)",
+      "question_text": "Find the four values of x from -360° to 1080° for which f(x) = 0.5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(d)(ii)",
+      "question_text": "The values in the answer to part (d)(i) form the first four terms of a sequence. Find the nth term of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "3(e)(i)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for 0° <= x <= 360°.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(e)(ii)",
+      "question_text": "Solve the equation f(x) = g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Show that the perpendicular height of the cone is 18 cm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Calculate the total surface area of the hemisphere.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Calculate the curved surface area of the cone.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "The hemisphere is made from metal. The metal is melted down and made into spheres of radius 2 cm. Calculate the number of spheres that are made.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Show that n(P intersect Q) = 8.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "An element is chosen at random from U. Find the probability that the element is a member of P union Q.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "An element is chosen at random from U. Find the probability that the element is a member of (P union Q)'.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "An element is chosen at random from P. Find the probability that this element is also a member of Q.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "The probability of a single event is 2/3. Describe this event in terms of P and Q.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Find the equation of the perpendicular bisector of AB.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "The line y = 2x + 3 cuts the y-axis at C. The perpendicular bisector of AB cuts the y-axis at D. Find the length CD.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Calculate angle QBC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate angle BAQ and show that it rounds to 33.9°, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "AX = 22 cm. Calculate the length of BX.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -4 and 4.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the zeros of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Solve the inequality f(x) < 0.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "The asymptotes of the graph are x = a and y = x + b, where a and b are integers. Find the value of a and the value of b.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Describe fully the single transformation that maps the graph of y = f(x) onto the graph of y = g(x).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Complete the frequency table.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Calculate an estimate of the mean mass.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Two parcels are chosen at random. Find the probability that they both have a mass greater than 1 kg. Give your answer as a decimal, correct to 3 significant figures.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Solve 7x + 2 = 11.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Write as a single fraction, in its simplest form: (x + 1)/2 + (x - 1)/3.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "Simplify the following: (8x^4 y^2) / (4x^3 y^4).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "Simplify the following: (x^2 - 9) / (x^2 - 2x - 3).",
+      "marks_available": "[4]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Find the value of g(f(33)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the value of x when g(x) = f(-1).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Find f^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Find g^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(a)(i)",
+      "question_text": "Calculate the percentage increase in Ahmed's monthly salary.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "12(a)(ii)",
+      "question_text": "Work out $1375 as a percentage of $1540.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "12(a)(iii)",
+      "question_text": "In 2015, Ahmed's monthly salary of $1375 was 10% more than his monthly salary in 2014. Calculate Ahmed's monthly salary in 2014.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "12(b)(i)",
+      "question_text": "Calculate the difference between the value of Scheme A and the value of Scheme B after 5 years. Show all your working.",
+      "marks_available": "[5]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "12(b)(ii)",
+      "question_text": "Find the number of complete years it will take for the value of Scheme B to be greater than the value of Scheme A.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    }
+  ]
+}

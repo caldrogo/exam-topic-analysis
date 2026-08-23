@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "B is the point (1, 2) and BC = (4, -3). Plot the point C on the grid.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "p = (2, 3), q = (4, -1). Write 2p - q as a column vector.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Shade one small square so that this shape has exactly 1 line of symmetry.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Shade three small squares so that this shape has exactly 2 lines of symmetry.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Shade two small squares so that this shape has rotational symmetry of order 4.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3",
+      "question_text": "In a year group of a school, students study one subject from art, music or dance. The table shows the choices of the 180 students: Art 85, Music 50, Dance 45. Use the circle to draw a pie chart to show this information.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Write each set of numbers in order starting with the smallest: 1/3, 0.3, sqrt(0.3), 0.29, 33%",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Write each set of numbers in order starting with the smallest: 2*sqrt(5), sqrt(5)/2, (sqrt(5))^3, 5/sqrt(5)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Expand the brackets and simplify: 2x^2(3x + 5xy)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Expand the brackets and simplify: (2a - 3b)(a - 2b)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "a = 3^4 * 5^2, b = 2^2 * 3^3 * 5^2, c = 3^2 * 5^3 * 7. Find sqrt(a)",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "a = 3^4 * 5^2, b = 2^2 * 3^3 * 5^2, c = 3^2 * 5^3 * 7. Find b / a",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Leaving your answer as the product of prime factors, find the highest common factor (HCF) of a, b and c.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Leaving your answer as the product of prime factors, find the lowest common multiple (LCM) of a, b and c.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Ann, Babar, Chan and Demi each throw the same biased die. Ann: 200 throws, 60 sixes. Babar: 20 throws, 5 sixes. Chan: 100 throws, 30 sixes. Demi: 500 throws, 200 sixes. Complete the table below to show the relative frequencies of their results. Write your answers as decimals.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Give a reason why Demi's result gives the best estimate of the probability of throwing a six with the biased die.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Estimate the number of times that Demi could expect to get a six if he throws the die 1600 times.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "y is proportional to the square root of x. When x = 16, y = 10. Find an equation connecting x and y.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the value of x when y = 1.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Work out the following, giving your answers in standard form: (4.6 * 10^-5) + (3 * 10^-6)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Work out the following, giving your answers in standard form: (4.6 * 10^-5) * (3 * 10^-6)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Write 3 / (x + 2) - 5 / (2x + 3) as a single fraction in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

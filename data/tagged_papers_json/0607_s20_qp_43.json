@@ -1,0 +1,322 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "For each sequence, write down the next two terms and find an expression for the nth term. (a) 15, 11, 7, 3, -1, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "For each sequence, write down the next two terms and find an expression for the nth term. (b) 1, 2, 4, 8, 16, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "For each sequence, write down the next two terms and find an expression for the nth term. (c) 4, 10, 18, 28, 40, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Complete the scatter diagram to show these results. The first five points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "What type of correlation is shown in your scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "Calculate the equation of the regression line in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "Use this equation to estimate a mark in the writing test for a student who scored 48 in the speaking test.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Riaz invests $5000 at a rate of 2.5% per year simple interest. Calculate the value of the investment at the end of 4 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Riaz invests $5000 at a rate of 2.5% per year simple interest. Calculate the number of complete years it will take for the value of the investment to be $6500.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Yasmin invests $5000 at a rate of 2% per year compound interest. Calculate the value of Yasmin's investment at the end of 4 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Yasmin invests $5000 at a rate of 2% per year compound interest. Calculate the number of complete years it will take for the value of Yasmin's investment to first be worth more than $6500.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "f(x) = x^3 - 4x^2 - 3x + 18. On the diagram, sketch the graph of y = f(x) for -3 <= x <= 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Solve the equation f(x) = 10.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Write down the coordinates of the local maximum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "Write down the coordinates of the local minimum.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "f(x) = k has only 1 solution. Find the ranges of values of k.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "A reflection in the line y = 3 maps triangle A onto triangle B. Describe fully the single transformation that maps triangle B onto triangle A.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "A translation using the vector (5 / -4) maps triangle C onto triangle D. Describe fully the single transformation that maps triangle D onto triangle C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "An enlargement, centre (2, -1), scale factor 3, maps triangle G onto triangle H. Describe fully the single transformation that maps triangle H onto triangle G.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "Rotate triangle A through 90 degrees anticlockwise, centre (-1, 0). Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Enlarge triangle A with scale factor -1/2, centre (1, 3). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle D.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Use the graph to estimate the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Use the graph to estimate the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Use the graph to estimate the number of plants over 80 cm in height.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "On the grid opposite, draw the cumulative frequency curve for the heights of the plants in location B.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Use the curves to estimate how many more plants had heights of over 70 cm in location A than in location B.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(b)(iii)",
+      "question_text": "The heights of the plants in location A are more consistent than the heights of the plants in location B. By comparing the shapes of the curves, explain how you know this is true.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "ABC is an equilateral triangle. The circles have their centres at A, B and C and each has a radius of 5 cm. DE, FG and HI are tangents to the circles. Show that AB = 8.66 cm, correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate the area of the base of the radio.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "The height of the radio is 12 cm. Calculate the volume of the radio.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Two of the houses are selected at random. Find the probability that both had exactly one person living in them.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Two of the houses are selected at random. Find the probability that one had exactly 2 people living in it and the other had exactly 3 people living in it.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(b)(iii)",
+      "question_text": "Two of the houses are selected at random. Find the probability that at least one house had fewer than 5 people living in it.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "A is the point (-2, 6), B is the point (3, 2) and C is the point (3, -4). Write down the equation of BC.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find the coordinates of the point M, the mid-point of AC.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "The quadrilateral ABCD has rotational symmetry of order 2 about the point M. Find the coordinates of the point D.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Find the equation of the perpendicular bisector of AC.",
+      "marks_available": "[4]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "In this question, all lengths are in centimetres. The areas of the two triangles are equal. Show that 8x^2 + 18x - 5 = 0.",
+      "marks_available": "[5]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Solve 8x^2 + 18x - 5 = 0. You must show all your working.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find the area of each of the triangles.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "The diagram shows the positions of three ports, A, B and C. Calculate BC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Use the sine rule to calculate angle ABC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "The bearing of C from A is 130 degrees. Find the bearing of B from C.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "A ship leaves B at 13 50 and sails in a straight line towards C. Its constant speed is 37 km/h. Find the time when it is at its closest point to A. Give your answer correct to the nearest minute.",
+      "marks_available": "[5]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "f(x) = 2x + 3, g(x) = 5 - 3x. Find f(4).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Solve f(x) - g(x) = 5.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Find g^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(d)",
+      "question_text": "Find and simplify f(g(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(e)",
+      "question_text": "Simplify 2 / f(x) + 3 / g(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    }
+  ]
+}

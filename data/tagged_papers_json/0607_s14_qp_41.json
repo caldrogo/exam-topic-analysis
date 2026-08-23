@@ -1,0 +1,376 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Find the co-ordinates of the image of the point (4, 1) under the transformation P.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the co-ordinates of the image of the point (4, 1) under the transformation Q.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Find the co-ordinates of the image of the point (x, y) under the transformation P followed by the transformation Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Describe fully the single transformation equivalent to P followed by Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write AB as a column vector.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the gradient of the line AB.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Find the equation of the line AB. Give your answer in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "C is the midpoint of AM. Find the co-ordinates of M.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "The point N is such that ABNM is a parallelogram. Find the co-ordinates of N.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(f)",
+      "question_text": "Find the length BM.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Complete the statement. Triangle DEC is similar to triangle",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Calculate the length AC.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "The area of triangle ABC is 7 cm^2. Calculate the area of triangle CDE.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find the bearing of D from A,",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the bearing of A from D.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Calculate angle ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Calculate CD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Angle ACD is obtuse. Find the bearing of D from C.",
+      "marks_available": "[4]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Solve the equation. 3log2 - 2log3 + logx = 3log4",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Solve the simultaneous equations. 5x - 4y = 1, 4x - 5y = 8",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x), where f(x) = |4x^2 - 9| between x = -2 and x = 2.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Write down the x co-ordinates where the curve meets the x-axis.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "The line y = 3x - 2 intersects the curve y = |4x^2 - 9| twice. Find the y co-ordinates of the points of intersection.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(d)(i)",
+      "question_text": "Find the value of k when the line y = k meets the curve y = |4x^2 - 9| three times.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(d)(ii)",
+      "question_text": "Find the range of values of k when the line y = k meets the curve y = |4x^2 - 9| four times.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Write down the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Work out the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(e)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(f)",
+      "question_text": "Two members are chosen at random. Find the probability that they both have at least seven books on loan.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "List the elements of set A.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Write all the elements of U in the correct parts of the Venn diagram above.",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "List the elements of (A union C)'.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Find n((A union C) intersection B').",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Find the next term and the nth term in the sequence: 1, 8, 27, 64, 125, .....",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Find the next term and the nth term in the sequence: 4, 10, 18, 28, 40, .....",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Use your results to part (a), to find the next term and the nth term in the following sequence: 6, 19, 46, 93, 166, .....",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find how much Paulo paid for the car.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "The value of the car reduces by 15% every year from 2012. Find the year in which the value of the car will first be below 25% of the price Paulo paid in 2010.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(a)(i)",
+      "question_text": "The top of each of the 16 pieces of cake has the same area. Find the area of one of the pieces in square centimetres.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(a)(ii)",
+      "question_text": "Write your answer to part (a)(i) in square metres.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(a)(iii)",
+      "question_text": "Show that the radius of the inner circle is 7.5 cm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Calculate the perimeter of the top of this piece of cake.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "The depth of the cake is 8 cm. Calculate the total surface area of this piece of cake.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Find and simplify an expression for y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(b)(i)",
+      "question_text": "Write down a quadratic equation, in terms of x, and show that it simplifies to 4x^2 - 90x + 225 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "12(b)(ii)",
+      "question_text": "Solve the equation 4x^2 - 90x + 225 = 0. Give your answers correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "12(b)(iii)",
+      "question_text": "Write down the width of the rectangle, giving a reason for your choice of values of x.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "12(b)(iv)",
+      "question_text": "Calculate the total area of the flower beds.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13(a)(i)",
+      "question_text": "Complete the scatter diagram. The first four points have been plotted for you.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "13(a)(ii)",
+      "question_text": "Describe the type of correlation shown by the scatter diagram.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "13(b)(i)",
+      "question_text": "Find the mean temperature,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "13(b)(ii)",
+      "question_text": "Find the mean time.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "13(c)(i)",
+      "question_text": "Find the equation of the regression line in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "13(c)(ii)",
+      "question_text": "The value for m represents a connection between time and temperature. Describe this connection.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "13(c)(iii)",
+      "question_text": "Use your answer to part (c)(i) to estimate the time taken for a pellet to dissolve when the temperature is 25°C.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "14(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x), where f(x) = x^2 / (x^2 - 2x - 3) between x = -5 and x = 5.",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "14(a)(ii)",
+      "question_text": "Write down the equations of the three asymptotes of the graph.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "14(a)(iii)",
+      "question_text": "Write down the co-ordinates of the local maximum point of the graph.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "14(a)(iv)",
+      "question_text": "Write down the co-ordinates of the local minimum point of the graph.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Solve the inequality x^2 / (x^2 - 2x - 3) > 3.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    }
+  ]
+}

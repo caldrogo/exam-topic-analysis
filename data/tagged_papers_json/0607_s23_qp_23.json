@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "From this list, write down all the numbers that are prime numbers: 29, 31, 41, 49, 51, 59",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Find the value of x.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Work out 0.04 x 0.06",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Work out 0.02 / 0.8",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "A bag contains 3 blue balls and 7 green balls. One ball is chosen at random. Find the probability the ball chosen is white",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "A bag contains 3 blue balls and 7 green balls. One ball is chosen at random. Find the probability the ball chosen is not blue.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Change 12 millimetres into metres.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Expand 3x(2x^4 - 5)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Write 0.00308 in standard form.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Work out (7 x 10^6) x (3 x 10^-8). Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Find the next term and the nth term for this sequence: 1, 7, 17, 31, 49, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The total cost of 5 pens and 7 pencils is $6.75. Each pencil costs $0.45. Find the cost of one pen.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Write 48 as a product of its prime factors.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "The range of ten numbers is 30. The range of eight other numbers is 13. Find the smallest possible value of the range of all eighteen numbers.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "The mean of twelve numbers is 25. The mean of ten of these numbers is 16. Find the mean of the other two numbers.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Factorise fully: (3y)^2 - 16",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Factorise fully: 15ab - 1 - 3a + 5b",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Shade the given region on the Venn diagram: A' intersect B'",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Shade the given region on the Venn diagram: (A union B)'",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "14",
+      "question_text": "An archer shoots three arrows at a target. The probability that she hits the target with each arrow is 7/10. Find the probability she hits the target exactly twice.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Rearrange the equation to make x the subject: A + 4y = A(2 - 3x)",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "16",
+      "question_text": "The point A has coordinates (2, 3) and the point B has coordinates (6, 5). The point C lies on the line AB. The point D has coordinates (2, 5.5). CD is perpendicular to AB. Find the coordinates of C.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    }
+  ]
+}

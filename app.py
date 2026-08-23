@@ -28,7 +28,7 @@ df = pd.read_csv("data/dataset_full.csv")
 
 st.title("IGCSE International Mathematics — Exam Topic Explorer")
 
-tab1, tab2, tab3 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic", "LLM-accuracy Statistics"])
+tab1, tab2, tab3, tab4 = st.tabs(["📊 Topic Heatmap", "🔍 Find Questions by Topic", "LLM-accuracy Statistics", "Prompt Optimizer"])
 
 # ---------------------------------------------------------------- TAB 1 ----
 with tab1:
@@ -114,3 +114,11 @@ with tab3:
     st.write(f"Cohen's Kappa: {results['kappa']:.4f}")
     st.write(f"Number of questions compared: {results['n_compared']}")
     st.write(f"Agreement rate: {results['agreement_rate']:.2%}")
+
+# ---------------------------------------------------------------- TAB 4 ----
+with tab4:
+    st.subheader("See the best prompts")
+
+    prompts = pd.read_json('data/prompts.json')
+
+    st.dataframe(prompts)

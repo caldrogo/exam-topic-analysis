@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out. 2 - 5 \\times 3 + 7",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "From the list write down the square number",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "From the list write down the prime number",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "From the list write down the triangle number.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Simplify. 2x - 3y - x - 2y",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4",
+      "question_text": "A regular polygon has 20 sides. Work out the size of one interior angle of the polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Ganpreet and Rahul share $240 in the ratio 7 : 5. Show that the value of Rahul's share is $100.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Ganpreet spends $x of her share. Rahul spends $x of his share. The ratio of their remaining money is Ganpreet : Rahul = 2 : 1. Find the value of x.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "6",
+      "question_text": "The cost of a bar of chocolate is $c. The cost of a packet of sweets is $p. The total cost of 5 bars of chocolate and 2 packets of sweets is $13. The total cost of 7 bars of chocolate and 4 packets of sweets is $20. By forming a pair of simultaneous equations, find the cost of one bar of chocolate and the cost of one packet of sweets.",
+      "marks_available": "[5]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Work out 5(1/3) \\div 1(3/5). Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Translate triangle T by the vector \\begin{pmatrix} 1 \\\\ -4 \\end{pmatrix}.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle P.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Find the value of 16^(-3/2).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "A, B, C, D and E lie on the circle. TU is a tangent to the circle at C. Find the values of x, y and z.",
+      "marks_available": "[4]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Simplify. \\sqrt{27} - 2\\sqrt{75}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Rationalise the denominator and simplify. \\frac{6}{\\sqrt{5} - \\sqrt{2}}",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "The diagram shows a sector of a circle with radius 8cm. The area of the sector is 8\\pi cm^2. The perimeter of the sector is (a + b\\pi) cm. Find the value of a and the value of b.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Work out. 4.9 \\times 10^{199} + 4.9 \\times 10^{197}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14(a)(i)",
+      "question_text": "Write down the exact value of f(0) where f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(a)(ii)",
+      "question_text": "Write down the exact value of f(30^\\circ) where f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for 0^\\circ \\le x \\le 360^\\circ.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "14(c)",
+      "question_text": "Write down the amplitude of f(x).",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "15",
+      "question_text": "y^{2k} \\times x \\times y^3 = \\frac{1}{y}. Find the value of k.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "16",
+      "question_text": "Rearrange 4y - 3x = 1 - py to write y in terms of p and x.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "17",
+      "question_text": "The diagram shows a sketch of the graph of y = x^2 + ax + b. The point (1, -2) is a minimum. Find the value of a and the value of b.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "18",
+      "question_text": "Solve. 3(2x + 1) > 5 - 4x",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "19(a)",
+      "question_text": "Solve. Give each answer as an exact value. 2^x = 5",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "19(b)",
+      "question_text": "Solve. Give each answer as an exact value. 2 \\log y = 1",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "20(a)",
+      "question_text": "These are the first 5 terms of a sequence. 3, 6, 12, 24, 48. Find the next term of the sequence.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "20(b)",
+      "question_text": "Find the nth term of the sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "21(a)",
+      "question_text": "The diagram shows a triangular prism. The cross-section is a right-angled triangle EAB. AE = 3cm, AB = 4cm and BC = 12cm. Work out the length of BF.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "21(b)",
+      "question_text": "Find the sine of the angle between BF and the base ABCD.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "22",
+      "question_text": "Write as a single fraction in its simplest form. 2 - \\frac{3}{x - 2}",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "23(a)",
+      "question_text": "Bag A contains 4 white balls and 3 black balls. Bag B contains 5 white balls and 4 black balls. Ranjit picks a ball at random from Bag A and replaces it. Ranjit also picks a ball at random from Bag B and replaces it. Find the probability that the two balls are the same colour.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "23(b)",
+      "question_text": "Leyla picks a ball at random from Bag A. She places it into Bag B. She then picks a ball at random from Bag B. Find the probability that the ball she picks from Bag B is black.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write down the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write down the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(e)",
+      "question_text": "Calculate the mean.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Solve the simultaneous equations. You must show all your working. 5x - 2y = 11.5, 4x + 3y = 0",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Change 72 km/h into m/s.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the time it will take for the car to pass completely through the tunnel. Give your answer in seconds.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Rotate triangle B through 90° clockwise, centre (-1, 6). Draw this triangle and label it C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Find the value of y when x = 25.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Find the value of x when y = 25.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "Find x in terms of y.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the equation of this quadratic curve.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "List the elements of sets A and B.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Write all the elements of U in the correct regions of the Venn diagram above.",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(c)(i)",
+      "question_text": "List the elements of A ∩ B",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(c)(ii)",
+      "question_text": "List the elements of A' ∩ C",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(c)(iii)",
+      "question_text": "List the elements of B ∪ C'",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(d)(i)",
+      "question_text": "Find n(A ∪ B ∪ C)'",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(d)(ii)",
+      "question_text": "Find n(A' ∩ B' ∩ C')",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Show that the maximum number of balls in a box is 20.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate the volume of one ball.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate the total volume of 20 balls.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Write your answer to part (c) in standard form.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(e)",
+      "question_text": "Calculate the percentage of the volume of the box that the 20 balls fill.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Find the size of angle ABP",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Find the size of angle OBA",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Find the size of angle ACB",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Write down the mathematical name of quadrilateral AOBP.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "8(c)(i)",
+      "question_text": "Triangle OBP is congruent to triangle",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(c)(ii)",
+      "question_text": "Triangle OBP is similar, but not congruent to, triangle",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "Complete the scatter diagram. The first four points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Find the mean family size",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find the mean amount spent in one week.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(c)(i)",
+      "question_text": "Find the equation of the regression line in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(c)(ii)",
+      "question_text": "Use your answer to part (c)(i) to estimate the amount spent in one week by a family of 4.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find AC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Calculate angle CAD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Calculate the area of the quadrilateral ABCD.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(a)(i)",
+      "question_text": "Find the total amount that Paula has in Bank A at the end of 3 years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(a)(ii)",
+      "question_text": "After how many complete years is the total amount that Paula has in Bank A greater than $4000?",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Find the total amount that Paula has in Bank B at the end of 3 years.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "After how many complete years is the total amount that Paula has in Bank B greater than $4000?",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "After how many complete years will the total amount that Paula has in Bank A be greater than the total amount that Paula has in Bank B?",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Complete the tree diagram.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(b)(i)",
+      "question_text": "Find the probability that the two balls chosen are both blue",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(b)(ii)",
+      "question_text": "Find the probability that the two balls chosen are one red and one blue.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Find the probability that, after Marco chooses the two balls, there are exactly 6 blue balls in Bag 1.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Write down a quadratic equation, in terms of x, and show that it simplifies to 7x^2 - 24x - 16 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Factorise 7x^2 - 24x - 16.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "13(c)",
+      "question_text": "Show that the area of the triangle is 84 cm^2.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13(d)",
+      "question_text": "The area of this rectangle is equal to the area of the triangle. Find the value of y.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Write down an expression, in terms of p and q, for the area for flowers.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Show that x = 3/4 p.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "14(c)",
+      "question_text": "Find an expression, in terms of p and q, for the area for grass. Give your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "14(d)",
+      "question_text": "Find the ratio area for vegetables : area for grass.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "15(a)(i)",
+      "question_text": "Find the equations of the three asymptotes.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15(a)(ii)",
+      "question_text": "Find the co-ordinates of the local maximum point.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15(a)(iii)",
+      "question_text": "Find the co-ordinates of the local minimum point.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15(b)(i)",
+      "question_text": "Find the values of k, when f(x) = k has no solutions",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15(b)(ii)",
+      "question_text": "Find the values of k, when f(x) = k has one solution.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15(c)",
+      "question_text": "Solve the inequality f(x) > 0.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    }
+  ]
+}

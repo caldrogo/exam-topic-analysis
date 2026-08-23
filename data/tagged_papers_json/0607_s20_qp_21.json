@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "A cuboid has a square base of side 10cm and a volume of 1200 cm3. Work out the height of the cuboid.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "p = (3, -1), q = (1, -2). Find p + q.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "A is the point (2, 7). The point A is translated to the point B by the vector p + q. Find the coordinates of B.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Work out 3/4 \\div 2 1/2. Give your answer as a fraction in its lowest terms.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "A truck of length 10m passes a gate of length 2m. The speed of the truck is 8m/s. Find the time the truck takes to completely pass the gate.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Find the volume of a cone with radius 3cm and perpendicular height 8cm. Give your answer in terms of \\pi.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6",
+      "question_text": "A right-angled triangle has an adjacent side of length 14cm and an angle of 30\\degree, with the opposite side being x cm. Work out the value of x.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Simplify. 15w^{15} / (3w^3)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Simplify. (125y^6)^{2/3}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8",
+      "question_text": "A = 2\\pi rh + 3\\pi r^2. Rearrange the formula to write h in terms of \\pi, r and A.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "A, B and C are points on a circle. TA is a tangent to the circle at A. CA = CB and angle BAT = 70\\degree. Work out the value of x.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10",
+      "question_text": "When Jack sells a computer for $264 he makes a profit of 20%. Work out the price Jack paid for the computer.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "11",
+      "question_text": "y is inversely proportional to \\sqrt{x}. When x = 9, y = 2. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "12",
+      "question_text": "3 \\log y = 2 \\log x - \\log w. Find y in terms of x and w.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Rationalise the denominator. 9 / (\\sqrt{7} - 2)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14",
+      "question_text": "In the diagram, the graph passes through the point (4, 2). Write down the equation of the graph.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Simplify. (3 - a) / (3p - 6t - ap + 2at)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "16",
+      "question_text": "Write as a single fraction in its simplest form. 1 / (x - 3) - 2 / x",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

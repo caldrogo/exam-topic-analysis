@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out 5 - 7 x 2 + 8.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find \\u22ef\\u221a(0.001). [Note: cube root of 0.001]",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Find, by measuring, the size of this reflex angle.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Work out the value of x.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Find the size of one exterior angle of a regular 18-sided polygon.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Solve these simultaneous equations. x - 3y = 7, x - 2y = 5",
+      "marks_available": "[2]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Write 0.68 as a fraction in its lowest terms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Work out 3/7 \\u00f7 8/9.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5",
+      "question_text": "These are the first five terms of a sequence. 1, 0, 1, 4, 9. Find the nth term of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Expand and simplify. (2p - 7q)(p + q)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Factorise. 2 - t - 2a + at",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7",
+      "question_text": "O is the centre of the circle. Find the value of x and the value of y.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8",
+      "question_text": "y varies inversely as x^2. When x = 3, y = 4. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find the value of 27^(2/3).",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Simplify 18h^18 \\u00f7 3h^3.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "v^2 = u^2 - 2as. Find s in terms of a, u and v.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11",
+      "question_text": "In each Venn diagram, shade the region indicated.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Simplify fully. \\u221a700",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Rationalise the denominator. 1 / (7 - \\u221a2)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Simplify fully. (3t - t^2) / (9 - t^2)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Write down the value of log_3(9).",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "2 log 2 + log 11 = log x. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "15",
+      "question_text": "The length of the arc AB = (4\\u03c0)/3 cm. The area of the sector OAB is k\\u03c0 cm^2. Find the value of k.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    }
+  ]
+}

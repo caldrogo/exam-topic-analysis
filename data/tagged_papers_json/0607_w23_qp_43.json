@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "In 1911 the men's world record for the triple jump was 15.52m. In 2021 the record was 18.29m. Find 15.52m as a percentage of 18.29m.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "In 2021 the women's world record for running 800m was 1 minute 53 seconds. Find the average speed for this run in m/s.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "In 2021 the men's world record speed for running 100m was 37.58 km/h. Find the time taken, in seconds, for this run.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Find the mode of Sunni's last 12 scores.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Find the median of Sunni's last 12 scores.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Find the mean of Sunni's last 12 scores.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(iv)",
+      "question_text": "Find the range of Sunni's last 12 scores.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(v)",
+      "question_text": "Find the upper quartile of Sunni's last 12 scores.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Explain why the mode is not the best measure of average to represent Sunni's scores.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Translate triangle A by the vector (-5, 2). Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Triangle D is the image of triangle A after a reflection in the line y = -1 followed by a rotation, 90 degrees clockwise, about the point (1, -1). Draw and label triangle D.",
+      "marks_available": "[4]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Sketch the graph of y = f(x) where f(x) = 2x^3 - 3x^2 - 12x + 7 for -3 <= x <= 4.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Solve f(x) = 0.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the values of k for which f(x) = k has exactly two solutions.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Find the range of values of x for which the gradient of f(x) is negative.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Calculate the value recorded in 2015, given that the picture increases in value by 60% every 5 years and the value recorded in 2020 was $20000.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Show that the value recorded in 2040 will be $131 072.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Calculate the year in which the value recorded will first be over $1 000 000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Calculate the volume of the pyramid VABCD, given that it is a square-based pyramid, V is vertically above the centre of the base O, AD = 10cm and VO = 12cm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "M is the mid-point of CD. Show that VM = 13 cm.",
+      "marks_available": "[2]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "A pyramid VPQRS is cut from the larger pyramid so that the face PQRS is parallel to the face ABCD. QR = 8cm. Calculate the volume of the remaining solid, ABCDPQRS.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Calculate the total surface area of the remaining solid.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Use the cumulative frequency curve to estimate the median time.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Use the cumulative frequency curve to estimate the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "The fastest 20% of the runners are awarded a medal. Use the curve to estimate the longest time taken by a runner who received a medal.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Use the curve to complete the frequency table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Use the table in part (c) to calculate an estimate of the mean time.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Find v when v = u + at, u = 60, a = -32 and t = 3.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Solve 6x + 2 = 9 - 4x.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Solve |2x - 3| = 7.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Solve by factorisation: 3x^2 - 11x + 6 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Rearrange y = (ax + 3b) / (5x) to make x the subject.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Simplify: (ax - 2bx + 3ay - 6by) / (x^2 - 9y^2).",
+      "marks_available": "[4]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "For each Venn diagram, shade the given set: A intersect B, and P' union Q'.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "There are 120 students in a year group. The Venn diagram shows the number of students who study History, Geography, and Economics. Find the value of x.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "One of the 120 students is chosen at random. Find the probability that this student studies both History and Geography.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)(iii)",
+      "question_text": "Two of the students who study Economics are chosen at random. Find the probability that one of these students also studies Geography but not History and the other student also studies History but not Geography.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)(iv)",
+      "question_text": "Three of the 120 students are chosen at random. Find the probability that two students study exactly two of the subjects and the other student studies all three subjects.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Given f(x) = 4x - 1, g(x) = 3 - 2x, h(x) = 4(2 - x), find g(-3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find f(h(4)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Find g(f(x)). Give your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(iv)",
+      "question_text": "Find h^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "Sketch the graph of y = f(x) / g(x) for values of x between -2 and 4.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Write down the equation of the asymptote which is parallel to the y-axis.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(b)(iii)",
+      "question_text": "Use the graph to solve h(x) = f(x) / g(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(b)(iv)",
+      "question_text": "h(x) = f(x) / g(x) can be rearranged to the form ax^2 + bx + c = 0. Find the value of a, the value of b and the value of c.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Calculate the value of p from the right-angled triangle with opposite 12 cm and adjacent 18 cm.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Show that angle ABC = 67.0 degrees correct to 1 decimal place, given a quadrilateral ABCD with sides AB = 190m, BC = 230m, CD = 150m, AD = 180m and angle ADC = 90 degrees.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Calculate the shortest distance from A to the side BC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12(a)(i)",
+      "question_text": "Find the coordinates of the point where the line y = 3x + 7 crosses the y-axis.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "12(a)(ii)",
+      "question_text": "Find the coordinates of the point where the line y = 3x + 7 crosses the line y = 2.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "A is the point (-5, 8) and B is the point (1, -2). Find the equation of the perpendicular bisector of AB.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    }
+  ]
+}

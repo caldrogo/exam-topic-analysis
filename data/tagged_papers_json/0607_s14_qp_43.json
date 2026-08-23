@@ -1,0 +1,310 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Calculate the value of the house, in 10 years time, on January 1st 2024. Give your answer correct to the nearest hundred dollars.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Calculate the whole number of years, from January 1st 2014, it takes for the value of the house to exceed one million dollars.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Calculate the percentage change in the value of the house when it increases from $230 000 to $1 000 000.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "At what time does the family arrive at the mountain resort?",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Calculate the average speed of the journey.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Calculate the cost of the fuel used during the journey.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Calculate the total cost of the cable car tickets and the lunches for the family.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Calculate the average cost per person of the whole day trip.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Write down the inequality shown by the number line.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Solve the inequality f(x) > 0.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Solve the equation x^2 + 4x + 2 = 0. Give your answers correct to 2 decimal places.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find, in terms of p and q, BD.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find, in terms of p and q, AE.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Find the co-ordinates of E.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Find the equation of the straight line which passes through A and E. Give your answer in the form ax + by = d where a, b and d are integers.",
+      "marks_available": "[4]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Find the median and the quartiles of the geography test marks.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the mean mark for each subject.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Find the equation of the linear regression line, giving s in terms of g.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(d)(i)",
+      "question_text": "Use the equation in part (c) to predict the science mark when the geography mark is 54.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(d)(ii)",
+      "question_text": "Explain briefly why the answer to part (d)(i) may not be reliable.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Find the zeros of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Find the co-ordinates of the local maximum point.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Find the range of f(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(e)",
+      "question_text": "The equation f(x) = k, where k is an integer, has one solution. Write down a possible value of k.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Five angles of an octagon are each 129°. The other three angles are equal. Calculate one of these three angles.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "A, B and C lie on a circle, centre O. The obtuse angle AOB = (6x + 2)° and angle ACB = (2x + 19)°. Find the value of x.",
+      "marks_available": "[3]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "AB and CD are parallel. AX = 6 cm, BX = 5 cm and CX = 3 cm. The area of triangle CXD = 5.1 cm^2. Calculate the area of triangle AXB.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Calculate the volume of the prism.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Calculate the total surface area of the prism.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "The piece of cake has a mass of 160 g. It is cut from a circular cake. Calculate the mass of the circular cake. Give your answer in kilograms.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Use graphical methods to solve these equations. Use -2 <= x <= 4 in each part and sketch your graphs. x^3 = 3 - x",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Use graphical methods to solve these equations. Use -2 <= x <= 4 in each part and sketch your graphs. x^2 - 2x - 3 = log(x + 2)",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Calculate angle BCV. Show that it rounds to 63.06° correct to 4 significant figures.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Calculate the distance LV.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "Calculate the shortest distance from V to BC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "Calculate the area of triangle BCV.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(d)(i)",
+      "question_text": "The bearing of B from C is 084°. Find the bearing of V from C.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "10(d)(ii)",
+      "question_text": "The bearing of B from C is 084°. Find the bearing of C from V.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Write as a single fraction: 1 / (2x - 1) + 3 / (x - 2)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Simplify fully, giving your answer as a single fraction: (x^3 - x) / (x^3 + 2x^2 - 3x)",
+      "marks_available": "[5]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Calculate an estimate of the mean reaction time.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "On the grid, draw a histogram to show the information in the table.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "13(a)(i)",
+      "question_text": "X is rolled. Write down the probability that the number on the top face is odd.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(a)(ii)",
+      "question_text": "X is rolled. Write down the probability that the number on the top face is not 1.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(b)(i)",
+      "question_text": "The two dice are rolled and the numbers on the top faces are noted. Find the probability that both numbers are 1.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(b)(ii)",
+      "question_text": "The two dice are rolled and the numbers on the top faces are noted. Find the probability that at least one of the numbers is 1.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(b)(iii)",
+      "question_text": "The two dice are rolled and the numbers on the top faces are noted. Find the probability that the product of the two numbers is even.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Calculate the angle between the planes ABTU and ABCD.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Calculate AT.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "14(c)",
+      "question_text": "Calculate the angle of elevation of T from A.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    }
+  ]
+}

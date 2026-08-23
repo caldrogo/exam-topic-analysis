@@ -1,5 +1,7 @@
 import json
 import os
+import queue
+import threading
 from pathlib import Path
 from typing import List
 from google import genai
@@ -33,6 +35,46 @@ class QuestionItem(BaseModel):
 class QuestionExtractionResult(BaseModel):
     questions: List[QuestionItem]
 
+def _generate_with_timeout(client, model_name, contents, config, timeout_seconds: float):
+    """
+    Run client.models.generate_content in a background thread and enforce a
+    hard wall-clock timeout, since the SDK call itself can hang indefinitely
+    (e.g. on a stalled connection) with no way to interrupt it directly.
+
+    The worker thread is a daemon thread, so if it's still stuck when we give
+    up on it, it won't prevent the main script from moving on to the next PDF
+    or from exiting once the whole run is done.
+    """
+    result_q: "queue.Queue" = queue.Queue(maxsize=1)
+
+    def _worker():
+        try:
+            resp = client.models.generate_content(
+                model=model_name,
+                contents=contents,
+                config=config,
+            )
+            result_q.put(("ok", resp))
+        except Exception as exc:  # noqa: BLE001
+            result_q.put(("error", exc))
+
+    thread = threading.Thread(target=_worker, daemon=True)
+    thread.start()
+    thread.join(timeout=timeout_seconds)
+
+    if thread.is_alive():
+        # The call is still running - abandon it and let the caller retry
+        # this file on the next run instead of blocking forever.
+        raise TimeoutError(
+            f"Gemini call for model '{model_name}' exceeded {timeout_seconds:.0f}s"
+        )
+
+    status, payload = result_q.get()
+    if status == "error":
+        raise payload
+    return payload
+
+
 def has_second_last_digit_six(file_path: Path) -> bool:
     stem = file_path.stem  # Filename without extension
     # Check if stem has at least 2 characters and the 2nd to last char is '6'
@@ -44,7 +86,8 @@ def process_pdf_folder_with_resumption(
     output_dir: str = "data/tagged_papers_latest_json",
     model_name: str = "gemini-3.5-flash-lite",
     overwrite_existing: bool = False,
-    prompt: str = ''
+    prompt: str = '',
+    timeout_seconds: float = 60.0,
 ):
     input_path = Path(input_dir)
     output_path = Path(output_dir)
@@ -105,17 +148,19 @@ def process_pdf_folder_with_resumption(
                 mime_type="application/pdf",
             )
 
-            # API Call with Structured Output
-            response = client.models.generate_content(
-                model=model_name,
-                contents=[
+            # API Call with Structured Output, aborted if it hangs past timeout_seconds
+            response = _generate_with_timeout(
+                client,
+                model_name,
+                [
                     pdf_part,
                     (prompt),
                 ],
-                config=types.GenerateContentConfig(
+                types.GenerateContentConfig(
                     response_mime_type="application/json",
                     response_schema=QuestionExtractionResult,
                 ),
+                timeout_seconds=timeout_seconds,
             )
 
             # Parse and save JSON immediately to guarantee state persistence
@@ -127,6 +172,10 @@ def process_pdf_folder_with_resumption(
             question_count = len(extracted_data.get("questions", []))
             print(f"  └─ Saved {question_count} questions -> {individual_json_path}")
 
+        except TimeoutError as e:
+            print(f"  └─ TIMEOUT processing {pdf_file.name}: {e} - moving on, will retry next run")
+            # No JSON was written for this file, so it stays "pending" and will
+            # be picked up again automatically on the next run.
         except Exception as e:
             print(f"  └─ ERROR processing {pdf_file.name}: {e}")
             # The script continues to the next file; this failed file will be retried next run

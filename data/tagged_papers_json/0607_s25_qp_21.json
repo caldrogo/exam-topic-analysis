@@ -1,0 +1,232 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "This is a list of numbers. 3.142, \\sqrt{125}, 125, 81, 7\\frac{2}{3}. From this list write down a cube number",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "This is a list of numbers. 3.142, \\sqrt{125}, 125, 81, 7\\frac{2}{3}. From this list write down an irrational number.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write 0.0030948 correct to 3 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Write 579644358 correct to the nearest million.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "In the diagram AC = BC = AD. BCD is a straight line. Find angle BAC.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Draw all the lines of symmetry of this regular pentagon.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "A quadrilateral has rotational symmetry of order 2 and no lines of symmetry. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Work out 1\\frac{3}{7} \\times 4\\frac{2}{3}. Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Rotate triangle A through 90° anticlockwise about (-1, 1).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "The ratio a : b = 7 : 12. The ratio b : c = 8 : 5. Find the ratio a : b : c in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8",
+      "question_text": "The mean of 9 numbers is 8. When an extra number is included, the mean is 7.7. Find the extra number.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Factorise 4x^2y^3 - 6xy^4",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Factorise 18p^2 - 2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Work out 4 \\times 10^{18} + 3.2 \\times 10^{17}. Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Solve 7 - 3x > 2x - 8",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "12",
+      "question_text": "P = 2^3 \\times 3^a \\times 5^b \\times 7, Q = 2 \\times 3^5 \\times 7^c. The highest common factor (HCF) of P and Q is 2 \\times 3^4 \\times 7. The lowest common multiple (LCM) of P and Q is 2^3 \\times 3^5 \\times 5^2 \\times 7. Find the values of a, b and c.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "A, B, C, D, E and F are points on a circle, centre O. Find angle BFE.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "A, B, C, D, E and F are points on a circle, centre O. Find angle BED.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "13(c)",
+      "question_text": "A, B, C, D, E and F are points on a circle, centre O. Find reflex angle BOE. Give geometrical reasons for your answer.",
+      "marks_available": "[3]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "These are the first 5 terms of a sequence. 1, 7, 17, 31, 49. Find the next term of the sequence.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "These are the first 5 terms of a sequence. 1, 7, 17, 31, 49. Find an expression for the nth term of the sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Solve 2x^2 - 5x - 3 = 0",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "16",
+      "question_text": "A is the point (-3, 2) and B is the point (5, -8). Find the equation of the perpendicular bisector of AB.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "17(a)",
+      "question_text": "The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the interquartile range",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "17(b)",
+      "question_text": "The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the number of plants greater than 20cm in height.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "18(a)(i)",
+      "question_text": "f(x) = 3x - 2, g(x) = 5 - x. Find f(-4).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "18(a)(ii)",
+      "question_text": "f(x) = 3x - 2, g(x) = 5 - x. Find g^{-1}(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "18(a)(iii)",
+      "question_text": "f(x) = 3x - 2, g(x) = 5 - x. Solve gf(x) = 1.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "18(b)",
+      "question_text": "h(x) is a function with an inverse function h^{-1}(x). Find hh^{-1}(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "19",
+      "question_text": "Expand and simplify (x - 4)(2x + 1)(x + 2)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "20(a)",
+      "question_text": "Solve \\tan x = \\sqrt{3} for values of x between 0° and 360°.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "20(b)",
+      "question_text": "Solve 4 \\sin x + 3 = 1 for values of x between 0° and 360°.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "21(a)",
+      "question_text": "y is inversely proportional to x^3. y = 1 when x = 2. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "21(b)",
+      "question_text": "y is inversely proportional to x^3. y = 1 when x = 2. Find x when y = 27.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "22(a)",
+      "question_text": "Simplify \\sqrt{120} \\times \\sqrt{27}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "22(b)",
+      "question_text": "Simplify \\frac{1}{5 - 2\\sqrt{3}}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    }
+  ]
+}

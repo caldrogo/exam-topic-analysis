@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Reflect shape T in the y-axis.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Translate shape T by the vector \\begin{pmatrix} -5 \\\\ 3 \\end{pmatrix}.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(a)(iii)",
+      "question_text": "Enlarge shape T by scale factor 2, centre (2, 0).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Describe fully the single transformation that maps shape T onto shape P,",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Describe fully the single transformation that maps shape T onto shape Q.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Find the range, for Tom's ten homework marks: 8, 7, 10, 8, 9, 5, 8, 10, 6, 8.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Find the mean, for Tom's ten homework marks: 8, 7, 10, 8, 9, 5, 8, 10, 6, 8.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Find the median, for Tom's ten homework marks: 8, 7, 10, 8, 9, 5, 8, 10, 6, 8.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)(iv)",
+      "question_text": "Find the upper quartile, for Tom's ten homework marks: 8, 7, 10, 8, 9, 5, 8, 10, 6, 8.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Find the median from the cumulative frequency curve.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "Find the lower quartile from the cumulative frequency curve.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)(iii)",
+      "question_text": "Find the interquartile range from the cumulative frequency curve.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)(iv)",
+      "question_text": "Find the number of parcels with a mass of more than 3kg.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)(v)(a)",
+      "question_text": "Use the cumulative frequency curve to complete the frequency table.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)(v)(b)",
+      "question_text": "Use the frequency table to calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "ABCD is a parallelogram. A is the point (3, 1), B is the point (10, 2) and D is the point (2, 3). Find the coordinates of C.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Calculate the length of AB. Give your answer as a surd in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "The diagonals of the parallelogram meet at X. Find the coordinates of X.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "The straight line BA is extended to meet the y-axis at P and the x-axis at Q. Find the coordinates of P and the coordinates of Q.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Find the nth term of the sequence: 16, 25, 36, 49, 64, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Find the nth term of the sequence: 3, 10, 29, 66, 127, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the nth term of the sequence: 64, 32, 16, 8, 4, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Expand the brackets and simplify: 5(2 - p) - 3(3 + 2p)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Expand the brackets and simplify: (7g - 2h)(3g + 11h)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "Factorise completely: 2x^2 y^3 - 4x^3 y^2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Factorise completely: 49t^2 - 9u^2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "Factorise completely: 6d^2 + d - 2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = |log x| for 0 < x <= 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(a)(ii)(a)",
+      "question_text": "Solve the equation: |log x| = 0.2",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "6(a)(ii)(b)",
+      "question_text": "Solve the equation: |log x| = 1 - x / 4",
+      "marks_available": "[4]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "On the diagram, sketch the graph of y = |log |x|| for values of x between -5 and 5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Solve the equation: |log |x|| = 0.2",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Write down the range of values of x for which the graph of y = |log x| is the same as the graph of y = log |x|.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Louis invests $500 at a rate of 2.5% per year simple interest. Calculate the total amount of interest at the end of 8 years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Martha invests $500 at a rate of 2.4% per year compound interest. Calculate the total amount of interest at the end of 8 years.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Naomi invests an amount of money at a rate of 2.1% per year compound interest. Find the number of complete years it takes for the value of Naomi's investment to double.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Oscar invests an amount of money at a rate of r% per year compound interest. At the end of 31 years the value of Oscar's investment is 2.5 times greater than the original amount of money. Find the value of r.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Complete the tree diagram.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Find the probability that, on any day, Sara goes to the park.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Find n(M U E')",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Two students are chosen at random. Find the probability that they both like Mathematics but not English.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) where f(x) = x^3 - 6x^2 + 8x for -0.5 <= x <= 4.5.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Solve the inequality f(x) < 0.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Find the positive value of k when f(x) = k has two different solutions.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find f(g(3)) where f(x) = 2x + 3 and g(x) = 5^x.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find f^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find x when g(x) = 1 / (25 * sqrt(5)).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find g^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Calculate the shortest distance from B to AC.",
+      "marks_available": "[7]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Show that h = 7 for the given pyramid.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Calculate the length of VR.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "11(b)(iii)",
+      "question_text": "K is the mid-point of PS and L is the mid-point of QR. Calculate angle KVL.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Enlarge triangle T with centre (5, 0) and scale factor 2.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Stretch triangle T with the y-axis invariant and factor 2.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Show that Eli receives $3200.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Conrad buys a toy for $65. He sells it for $55. Calculate the percentage loss.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Delia invests $2500 at a rate of 2.5% per year simple interest. Calculate the interest Delia has at the end of 8 years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Eli invests $2400 at a rate of 2.4% per year compound interest. Calculate the interest Eli has at the end of 8 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "Conrad buys a coat in a sale. The sale price is $79.80 after a reduction of 5%. Calculate the original price of the coat.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Show that the point (3, -1) lies on the line y = 2x - 7.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Find the co-ordinates of the points where the line y = 8x + 4 crosses the x-axis,",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Find the co-ordinates of the points where the line y = 8x + 4 crosses the y-axis,",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find the equation of the straight line that passes through the points (1, 2) and (4, 11). Give your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Construct an ordered stem and leaf diagram to show this information, including the key.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the median and the lower quartile.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Find the angle on a pie chart that represents the number of days the temperature was less than 20°C.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Find the median,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Find the inter-quartile range,",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(iii)",
+      "question_text": "Find the number of students who estimated more than 3.5 litres.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "Complete the histogram to show the information in the table.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for 0 <= x <= 540.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Write down the range of f(x) for 0 <= x <= 540.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "On the same diagram, sketch the graph of y = g(x) for values of x between 0 and 540.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Give a reason why there are no values of g(x) for 180 <= x <= 360.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "Write down the co-ordinates of the minimum points on the graph of y = g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)(iv)",
+      "question_text": "Write down the equations of the four asymptotes to the graph of y = g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Find the value of k.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Solve the inequality f(x) > g(x) for values of x between 0 and 540.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "5(c)(iii)",
+      "question_text": "Write down a possible value of j.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(a)(i)(a)",
+      "question_text": "Show that the radius of this cylinder is 1.910 cm, correct to 3 decimal places.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)(i)(b)",
+      "question_text": "Calculate the volume of this cylinder.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Calculate the difference between the volumes of this cylinder and the cylinder in part (i). Give your answer correct to the nearest 10 cm^3.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Find the value of n.",
+      "marks_available": "[4]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "each coin has a value of less than 10 cents,",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "the total value of the two coins is 11 cents,",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "the total value of the two coins is more than 2 cents.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Calculate the value of the car 2 years ago.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Calculate the number of complete years it will take for the value to decrease from $12960 to less than $6480.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "the length of the perpendicular line from E to AB,",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "the length BD,",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "the length CD,",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "the area of the quadrilateral ACDE.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Calculate his average speed. Give your answer in km/h.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "Find her average speed in terms of x, y and z. Give your answer in km/h, in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "algebraic manipulation"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Find the distance Tami runs.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "Show that his average speed is (5t + 35)/(t + 5) km/h.",
+      "marks_available": "[3]",
+      "topic": "algebraic manipulation"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "When the average speed is 5 1/2 km/h, find the value of t.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Find the value of g(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the range of f(x) for the domain {-1, 0, 1, 2}.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Find x when g(x) = 12.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "Find h(x). Give your answer in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "11(e)",
+      "question_text": "Find f^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(f)",
+      "question_text": "Find the two values of x.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    }
+  ]
+}

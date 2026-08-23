@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "From this list write down the square number. 8, 27, 49, 51, 53, 55, 99",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Change 3.2 metres into millimetres.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Write each number in standard form: 28010",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Write each number in standard form: 0.100209",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Each interior angle of a regular polygon is 170°. Find the number of sides of this polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Xian walks 8 km in 1 1/2 hours. She then runs 10 km in 45 minutes. Find her average speed in km/h for the whole journey.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6",
+      "question_text": "AB = AC. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7",
+      "question_text": "The lengths of the sides of a right-angled triangle are 6 cm, 8 cm and 10 cm. Find the tangent of the smallest angle.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Magda buys 6 apples and 4 oranges for a total cost of $4.18. Oranges cost $0.52 each. Find the cost of one apple.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The mean of five numbers is 16. When two extra numbers are included the mean of the seven numbers is 20. Find the mean of the two extra numbers.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The point A has co-ordinates (1, -5) and the point B has co-ordinates (9, 1). Find the equation of the perpendicular bisector of AB in the form y = mx + c.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Factorise completely. 8x^2 - 18",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Simplify. \\sqrt{300} - \\sqrt{27}",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Rationalise the denominator and simplify your answer. \\frac{14}{3 - \\sqrt{2}}",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Solve the equation. 3 \\log x - \\log 4 = 4 \\log 2",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Rearrange the formula to make x the subject. y = 1 - \\frac{x}{3x - 5}",
+      "marks_available": "[4]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "15",
+      "question_text": "An archer fires three arrows at a target. The probability that the archer hits the target with each arrow is 3/5. Find the probability that the archer hits the target exactly twice.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    }
+  ]
+}

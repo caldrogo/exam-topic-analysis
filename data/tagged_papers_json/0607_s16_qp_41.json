@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Calculate the value of the car when it was new.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Calculate the value of the car after these 3 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the number of complete years it takes for the value of the car to fall below $11500.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Find a formula for f, in terms of L, writing any constants correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the frequency of Chat Radio.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Find the wavelength of Allsports Radio.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Draw the image of quadrilateral A after it has been reflected in the y-axis and then rotated through 90 degrees anti-clockwise about the origin.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Describe fully the single transformation equivalent to reflection in the y-axis followed by rotation 90 degrees anti-clockwise about the origin.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Draw the image of quadrilateral A after a stretch, factor 3 with the y-axis invariant. Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Describe fully the single transformation that maps the quadrilateral B back onto quadrilateral A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Calculate the volume of the trophy.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Calculate the total height of each model trophy.",
+      "marks_available": "[1]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Calculate the mass, in grams, of each model trophy.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Complete the scatter diagram. The first six points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Calculate the mean time.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Calculate the mean number of objects.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(d)(i)",
+      "question_text": "Find the equation of the regression line. Give your answer in the form n = mt + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(d)(ii)",
+      "question_text": "Use your equation to estimate the number of objects he remembers.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Write down an expression in terms of n for the nth term, s_n, of the sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Write down the first four terms of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Find an expression for u_n, in terms of n, giving your answer in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Is 501 a term of this fourth sequence? Give your reasons.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Calculate AD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Calculate AC and show that it rounds to 12.1 m, correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate the bearing of A from D.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Solve f(x) = 0.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Write down the equation of the asymptote to the graph of y = f(x).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "On this diagram, sketch the graph of y = 2 log(1 + x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Describe a similarity between the graphs in part (a)(i) and part (b)(i).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)(iii)",
+      "question_text": "Explain the differences between the graphs in part (a)(i) and part (b)(i).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find the time taken to travel from Perth to Edinburgh. Give your answer in hours and minutes.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find the average speed for the journey from Edinburgh to London.",
+      "marks_available": "[5]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Calculate the time taken for the train to pass completely through the tunnel. Give your answer in seconds.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Calculate AB.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Show that 2x + y = 5.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "If P is also on the line y = x, find the co-ordinates of P.",
+      "marks_available": "[2]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Use the cosine rule to show that 7x^2 - 4x - 80 = 0.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Solve the equation 7x^2 - 4x - 80 = 0. Show all your working.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Find the length of AB and the length of BC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Find the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Calculate an estimate of the mean mass.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "On the grid, complete the cumulative frequency curve for the information in the table.",
+      "marks_available": "[5]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12(c)(i)",
+      "question_text": "Use your graph to find the median mass,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12(c)(ii)",
+      "question_text": "Use your graph to find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12(d)(i)",
+      "question_text": "Estimate the probability that the egg is Small.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(d)(ii)",
+      "question_text": "Find the probability that both are Very Large.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(a)(i)",
+      "question_text": "Solve 1 / f(x) = 2.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(a)(ii)",
+      "question_text": "Find and simplify f(f(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(a)(iii)",
+      "question_text": "Find f^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Write down the value of g(g^-1(3)).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    }
+  ]
+}

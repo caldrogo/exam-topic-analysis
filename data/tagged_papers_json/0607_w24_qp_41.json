@@ -1,0 +1,322 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Solve the equation 6x + 5 = -19",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Solve the equation 8x - 13 = 11 - 4x",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(a)(iii)",
+      "question_text": "Solve the equation \\frac{8}{2x - 3} = -5",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Solve the equation 6x^2 - 2x - 1 = 0. Give your answers correct to 2 decimal places. You must show all your working.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "He finds an estimate for the answer by rounding each number correct to 1 significant figure. Find this estimate. You must show all your working.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Explain why his answer to part (i) is greater than the actual answer.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "Work out \\frac{78.8}{2.46^2} + \\frac{153 + 9.81^2}{\\sqrt{9.47}}.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Work out 3 \\frac{1}{4} \\times \\frac{8}{39}.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "Write 506 grams in kilograms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "Write 2000 m^2 in km^2.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "An athlete runs 20 km in 100 minutes and then walks at 8 km/h for 50 minutes. Find the athlete's average speed in km/h.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Complete the scatter diagram. The first six points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the mean fuel consumption.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Find the equation of the regression line for y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Use your regression line to estimate the fuel consumption when the average speed is 80 km/h.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(iii)",
+      "question_text": "Paulo drives his next journey at an average speed of 30 km/h. Give a reason why the regression line is unlikely to give a reliable estimate of the fuel consumption for this journey.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Find the amount Beth receives when x = 4 and they share $400 in total.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Find the amount that Alan receives when Beth receives $66.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Find the value of x when Alan receives 2.5 times the amount Imran receives.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Find the sale price of a chair that has an original price of $90.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Find the original price of a table that has a sale price of $440.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Kurt invests $X in a bank which pays simple interest at a rate of 4% each year. The total amount of money that Kurt has in the bank at the end of 6 years is $930. Show that X = 750.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Ivana invests $750 in a bank which pays compound interest at a rate of y% each year. The total amount of money that Ivana has in the bank at the end of 6 years is $921.94. Find the value of y.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Show that AC = 22.0 cm, correct to 1 decimal place.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find BC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Use the sine rule to find angle ABC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Find the length of the perpendicular line from A to the line BC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Draw the image of triangle A after a reflection in the line y = -x. Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Draw the image of triangle B after a reflection in the y-axis. Label the image C.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle A.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Describe the transformation that is the inverse of P.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Describe the transformation that is the inverse of Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Show this information on the Venn diagram.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find the number of students who study all 3 sciences.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(a)(iii)(a)",
+      "question_text": "Find the number of students who study chemistry only",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(a)(iii)(b)",
+      "question_text": "Find the number of students who study biology only.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "A bag contains 7 red balls and 3 blue balls. In an experiment, three balls are chosen at random without replacement. Find the probability that at least two of the balls chosen are red.",
+      "marks_available": "[4]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Find the next term and the nth term in each of the following sequences: 16, 9, 2, -5, -12, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the next term and the nth term in each of the following sequences: 2, 8, 18, 32, 50, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the next term and the nth term in each of the following sequences: 1, -3, 5, -7, 9, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Find the next term and the nth term in each of the following sequences: 6, 9, 10, 9, 6, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -2 and 4.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Write down the equations of the asymptotes parallel to the y-axis.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Write down the coordinates of the local maximum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "The line y = x - 2 intersects the curve y = f(x) three times. Find the x-coordinate of each point of intersection.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(e)",
+      "question_text": "Solve the inequality f(x) >= x - 2.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Show that h = r\\sqrt{3}.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "The cone is placed directly on top of the hemisphere. Show that the volume of this solid is \\frac{1}{3}\\pi r^3 (2 + \\sqrt{3}).",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "A larger solid is mathematically similar to the solid in part (b). The larger solid has volume 243\\pi r^3 (2 + \\sqrt{3}). Find, in terms of r, the radius of the hemisphere of the larger solid.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "The surface area of the larger solid is 5000 cm^2. Find the volume of this solid.",
+      "marks_available": "[4]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Solve the equation 2\\log 5 - 5\\log 2 = 3\\log 4 - 2\\log x. Give your answer in the form \\frac{a\\sqrt{b}}{c}, where a, b and c are integers.",
+      "marks_available": "[4]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Make x the subject of the formula y = \\sqrt{\\frac{x}{2x + 1}}.",
+      "marks_available": "[4]",
+      "topic": "solving linear equations"
+    }
+  ]
+}

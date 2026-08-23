@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "f(4)",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "gf(4)",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find g(g(5)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Solve f(h(x)) = 10.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Find g(h(f(x))) in terms of x.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "The total amount of money they earn is shared in the ratio of the time each person works. One day Alan works for 2 hours 40 minutes, Brendan works for 5.5 hours and Cieran works for 200 minutes. They earn, in total, $379.50. By changing all the times into minutes, find the amount of money each person earns.",
+      "marks_available": "[5]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Alan needs to buy some gardening tools. In shop A, the price of the tools is $70.20. In shop B, the price of the tools is 5% less than in shop A. Find the price of the tools in shop B.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "The price of $70.20 is 8% higher than it was last year. Find the price last year.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "Brendan invests $450 for 5 years at a rate of 3.5% per year simple interest. Show that the total value of this investment after 5 years is $528.75.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "Cieran invests $450 for 5 years at a rate of x % compound interest. The value of Cieran’s investment after 5 years is $530.60. Find the value of x.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Complete the scatter diagram. The first eight points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Find the mean number of hours of sunshine.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Find the mean rainfall.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Find the equation of the regression line for y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Estimate the rainfall when the number of hours of sunshine is 7.7.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Calculate an estimate of the mean mass of a peach. Give your answer correct to the nearest gram.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Two peaches are chosen at random. Find the probability that they both have a mass of more than 210 g. Give your answer as a fraction in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Complete the frequency density column in this table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "On the grid, draw an accurate histogram to show this information.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Find an expression, in terms of p and/or q, for BC",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Find an expression, in terms of p and/or q, for DE",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "Find an expression, in terms of p and/or q, for FC",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(a)(iv)",
+      "question_text": "Find an expression, in terms of p and/or q, for BE",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "The area of triangle ADE is 24 units^2. Find the area of triangle ABC.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "The area of triangle ADE is 24 units^2. Find the area of triangle EFC.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Find the volume of the pyramid. Give the units of your answer.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Find the length AC.",
+      "marks_available": "[2]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Find the length DV.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Find angle VDP.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "6(e)(i)",
+      "question_text": "X is the midpoint of the side CD. Find the length VX.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "6(e)(ii)",
+      "question_text": "X is the midpoint of the side CD. Find angle VXP.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "6(f)",
+      "question_text": "The pyramid is cut parallel to ABCD to form a smaller pyramid VEFGH. The volume of VEFGH is 24 cm^3. Find the vertical height of this pyramid.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Find the volume of metal used to make the hemisphere.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the total surface area of the hemisphere.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Find the image of the point (5, 1) under the transformation P.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the image of the point (5, 1) under the transformation Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Describe fully the single transformation equivalent to the transformation P followed by the transformation Q.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "Write down the co-ordinates of the points where the graph crosses the axes.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(a)(iii)",
+      "question_text": "Solve f(x) = 1.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "On the same diagram, sketch the graph of y = g(x), for 0 < x <= 4.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Write down the co-ordinates of the minimum point of g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)(iii)",
+      "question_text": "Solve the equation f(x) = g(x)",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "9(b)(iv)",
+      "question_text": "Solve the equation f(x - 1) = g(x - 1)",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Solve the equation 4x^2 = 12 - 3x. Give your answers correct to 2 decimal places. You must show all your working.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Solve the inequality 4x^2 > 12 - 3x.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Solve the inequality 4x^2 + 5 <= 12 - 3x.",
+      "marks_available": "[4]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. 3x - 2y = 11, 4x - 5y = 10",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Use your answers to part (a) to solve the simultaneous equations. 3a - 2b = 22, 4a - 5b = 20",
+      "marks_available": "[2]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Use your answers to part (a) to find the exact answers to these simultaneous equations. 3 * 10^p - 2 * 10^q = 11, 4 * 10^p - 5 * 10^q = 10",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Find the value of p + q.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    }
+  ]
+}

@@ -7,7 +7,7 @@ YEARS = range(14, 26)
 
 SESSIONS = ["s", "w", 'm']
 
-PAPERS = {"2": "noncalc", "4": "calc", "6": "investigation"}
+PAPERS = {"2": "noncalc", "4": "calc"}
 
 VARIANTS = ["1", "2", "3"]
 
@@ -20,7 +20,7 @@ BASE_URL = (
 
 
 
-OUT_DIR = Path("papers_raw")
+OUT_DIR = Path("data/papers_raw")
 OUT_DIR.mkdir(exist_ok=True)
 
 REQUEST_DELAY_SECONDS = 1.5 
