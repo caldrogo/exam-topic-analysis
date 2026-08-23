@@ -16,6 +16,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app.py /app/
 COPY data/dataset_full.csv /app/data/
 COPY data/dataset_sample.csv /app/data/
+COPY data/prompts.json /app/data/
+
 COPY src/config.py /app/src/
 COPY src/calculate_kappa.py /app/src/
 

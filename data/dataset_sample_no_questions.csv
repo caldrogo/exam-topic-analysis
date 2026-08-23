@@ -1,0 +1,116 @@
+,filename,syllabus,session_code,session_name,year,paper_number,paper_type,variant,question_number,marks,time_period,stratum,human_topic
+0,0607_m21_qp_42.json,607,m,Mar/May,2021,4,calculator,2,3(a)(i),1,late,calculator | late,straight lines
+1,0607_m22_qp_42.json,607,m,Mar/May,2022,4,calculator,2,2(e),3,late,calculator | late,topics in arithmetic
+2,0607_m24_qp_22.json,607,m,Mar/May,2024,2,non_calculator,2,9(a),1,late,non_calculator | late,topics in arithmetic
+3,0607_m24_qp_42.json,607,m,Mar/May,2024,4,calculator,2,7(b)(i),2,late,calculator | late,similarity
+4,0607_m25_qp_22.json,607,m,Mar/May,2025,2,non_calculator,2,12(b),2,late,non_calculator | late,transformations
+5,0607_m25_qp_42.json,607,m,Mar/May,2025,4,calculator,2,13(b),2,late,calculator | late,functions
+6,0607_m25_qp_42.json,607,m,Mar/May,2025,4,calculator,2,13(d),1,late,calculator | late,functions
+7,0607_s14_qp_21.json,607,s,May/Jun,2014,2,non_calculator,1,9(b),2,early,non_calculator | early,probability
+8,0607_s14_qp_43.json,607,s,May/Jun,2014,4,calculator,3,6(e),1,early,calculator | early,graphing functions
+9,0607_s14_qp_43.json,607,s,May/Jun,2014,4,calculator,3,10(b),3,early,calculator | early,trigonometry
+10,0607_s15_qp_21.json,607,s,May/Jun,2015,2,non_calculator,1,8(b),2,early,non_calculator | early,variation and proportion
+11,0607_s15_qp_22.json,607,s,May/Jun,2015,2,non_calculator,2,4(b),1,early,non_calculator | early,probability
+12,0607_s15_qp_41.json,607,s,May/Jun,2015,4,calculator,1,6(d)(ii),1,early,calculator | early,sets and Venn diagrams
+13,0607_s15_qp_41.json,607,s,May/Jun,2015,4,calculator,1,8(a)(ii),1,early,calculator | early,trigonometry
+14,0607_s15_qp_41.json,607,s,May/Jun,2015,4,calculator,1,9(c)(i),2,early,calculator | early,statistics
+15,0607_s15_qp_41.json,607,s,May/Jun,2015,4,calculator,1,10(a),2,early,calculator | early,Pythagoras
+16,0607_s15_qp_42.json,607,s,May/Jun,2015,4,calculator,2,13(b)(iii),2,early,calculator | early,trigonometry
+17,0607_s16_qp_21.json,607,s,May/Jun,2016,2,non_calculator,1,7(b)(i),1,early,non_calculator | early,sets and Venn diagrams
+18,0607_s16_qp_41.json,607,s,May/Jun,2016,4,calculator,1,10(a),3,early,calculator | early,Pythagoras
+19,0607_s16_qp_42.json,607,s,May/Jun,2016,4,calculator,2,5(c),3,early,calculator | early,trigonometry
+20,0607_s16_qp_43.json,607,s,May/Jun,2016,4,calculator,3,3(c),3,early,calculator | early,variation and proportion
+21,0607_s17_qp_41.json,607,s,May/Jun,2017,4,calculator,1,5(b)(i),2,early,calculator | early,trigonometry
+22,0607_s17_qp_43.json,607,s,May/Jun,2017,4,calculator,3,6(d),2,early,calculator | early,graphing functions
+23,0607_s18_qp_22.json,607,s,May/Jun,2018,2,non_calculator,2,3,1,early,non_calculator | early,probability
+24,0607_s18_qp_22.json,607,s,May/Jun,2018,2,non_calculator,2,14,3,early,non_calculator | early,straight lines
+25,0607_s18_qp_43.json,607,s,May/Jun,2018,4,calculator,3,9(b)(i),2,early,calculator | early,sequences
+26,0607_s19_qp_22.json,607,s,May/Jun,2019,2,non_calculator,2,10,1,early,non_calculator | early,exponents and surds
+27,0607_s19_qp_22.json,607,s,May/Jun,2019,2,non_calculator,2,12,2,early,non_calculator | early,expanding and factorising
+28,0607_s19_qp_23.json,607,s,May/Jun,2019,2,non_calculator,3,1,1,early,non_calculator | early,exponents and surds
+29,0607_s19_qp_41.json,607,s,May/Jun,2019,4,calculator,1,4(c)(i),1,early,calculator | early,statistics
+30,0607_s19_qp_42.json,607,s,May/Jun,2019,4,calculator,2,9(d)(i),1,early,calculator | early,probability
+31,0607_s19_qp_43.json,607,s,May/Jun,2019,4,calculator,3,9(d),3,early,calculator | early,logarithms
+32,0607_s19_qp_43.json,607,s,May/Jun,2019,4,calculator,3,12(b)(i),1,early,calculator | early,sequences
+33,0607_s20_qp_22.json,607,s,May/Jun,2020,2,non_calculator,2,4,2,early,non_calculator | early,probability
+34,0607_s20_qp_23.json,607,s,May/Jun,2020,2,non_calculator,3,11(b),1,early,non_calculator | early,trigonometry
+35,0607_s20_qp_41.json,607,s,May/Jun,2020,4,calculator,1,3(c),2,early,calculator | early,straight lines
+36,0607_s20_qp_41.json,607,s,May/Jun,2020,4,calculator,1,6(a)(ii)(b),4,early,calculator | early,logarithms
+37,0607_s20_qp_41.json,607,s,May/Jun,2020,4,calculator,1,7(b),4,early,calculator | early,topics in arithmetic
+38,0607_s20_qp_43.json,607,s,May/Jun,2020,4,calculator,3,8(b)(ii),3,early,calculator | early,probability
+39,0607_s21_qp_42.json,607,s,May/Jun,2021,4,calculator,2,9(b)(i),3,late,calculator | late,similarity
+40,0607_s21_qp_43.json,607,s,May/Jun,2021,4,calculator,3,11(b)(i),2,late,calculator | late,logarithms
+41,0607_s22_qp_23.json,607,s,May/Jun,2022,2,non_calculator,3,1(b),1,late,non_calculator | late,topics in arithmetic
+42,0607_s22_qp_23.json,607,s,May/Jun,2022,2,non_calculator,3,2(a),2,late,non_calculator | late,statistics
+43,0607_s22_qp_41.json,607,s,May/Jun,2022,4,calculator,1,3(d),4,late,calculator | late,graphing functions
+44,0607_s22_qp_42.json,607,s,May/Jun,2022,4,calculator,2,5(a)(ii),3,late,calculator | late,topics in arithmetic
+45,0607_s22_qp_42.json,607,s,May/Jun,2022,4,calculator,2,7(d),3,late,calculator | late,mensuration
+46,0607_s23_qp_22.json,607,s,May/Jun,2023,2,non_calculator,2,15(a),1,late,non_calculator | late,logarithms
+47,0607_s23_qp_22.json,607,s,May/Jun,2023,2,non_calculator,2,16(b),1,late,non_calculator | late,similarity
+48,0607_s23_qp_23.json,607,s,May/Jun,2023,2,non_calculator,3,11(b),2,late,non_calculator | late,statistics
+49,0607_s23_qp_23.json,607,s,May/Jun,2023,2,non_calculator,3,15,3,late,non_calculator | late,expanding and factorising
+50,0607_s23_qp_42.json,607,s,May/Jun,2023,4,calculator,2,7(d)(iii),2,late,calculator | late,transformations
+51,0607_s24_qp_41.json,607,s,May/Jun,2024,4,calculator,1,6(d),1,late,calculator | late,graphing functions
+52,0607_s24_qp_42.json,607,s,May/Jun,2024,4,calculator,2,2(b)(i),1,late,calculator | late,topics in arithmetic
+53,0607_s24_qp_42.json,607,s,May/Jun,2024,4,calculator,2,5(a),2,late,calculator | late,trigonometry
+54,0607_s24_qp_42.json,607,s,May/Jun,2024,4,calculator,2,7(b),3,late,calculator | late,simultaneous equations
+55,0607_s24_qp_43.json,607,s,May/Jun,2024,4,calculator,3,7(c),3,late,calculator | late,mensuration
+56,0607_s25_qp_21.json,607,s,May/Jun,2025,2,non_calculator,1,10,2,late,non_calculator | late,topics in arithmetic
+57,0607_s25_qp_22.json,607,s,May/Jun,2025,2,non_calculator,2,7(a),2,late,non_calculator | late,statistics
+58,0607_s25_qp_42.json,607,s,May/Jun,2025,4,calculator,2,16(b),4,late,calculator | late,mensuration
+59,0607_s25_qp_43.json,607,s,May/Jun,2025,4,calculator,3,15,4,late,calculator | late,variation and proportion
+60,0607_w14_qp_41.json,607,w,Oct/Nov,2014,4,calculator,1,3(c),2,early,calculator | early,graphing functions
+61,0607_w14_qp_41.json,607,w,Oct/Nov,2014,4,calculator,1,9(b),3,early,calculator | early,statistics
+62,0607_w14_qp_42.json,607,w,Oct/Nov,2014,4,calculator,2,6(b)(ii),2,early,calculator | early,statistics
+63,0607_w14_qp_42.json,607,w,Oct/Nov,2014,4,calculator,2,11(c)(ii)(a),1,early,calculator | early,graphing functions
+64,0607_w15_qp_23.json,607,w,Oct/Nov,2015,2,non_calculator,3,20,1,early,non_calculator | early,functions
+65,0607_w15_qp_43.json,607,w,Oct/Nov,2015,4,calculator,3,5(c),3,early,calculator | early,transformations
+66,0607_w15_qp_43.json,607,w,Oct/Nov,2015,4,calculator,3,10(c),3,early,calculator | early,probability
+67,0607_w15_qp_43.json,607,w,Oct/Nov,2015,4,calculator,3,12(b)(ii),1,early,calculator | early,graphing functions
+68,0607_w16_qp_22.json,607,w,Oct/Nov,2016,2,non_calculator,2,11,5,early,non_calculator | early,straight lines
+69,0607_w16_qp_23.json,607,w,Oct/Nov,2016,2,non_calculator,3,13(a),2,early,non_calculator | early,exponents and surds
+70,0607_w16_qp_42.json,607,w,Oct/Nov,2016,4,calculator,2,13(a),3,early,calculator | early,logarithms
+71,0607_w16_qp_43.json,607,w,Oct/Nov,2016,4,calculator,3,7(a)(iii),1,early,calculator | early,statistics
+72,0607_w16_qp_43.json,607,w,Oct/Nov,2016,4,calculator,3,11(a),2,early,calculator | early,statistics
+73,0607_w17_qp_23.json,607,w,Oct/Nov,2017,2,non_calculator,3,1,1,early,non_calculator | early,topics in arithmetic
+74,0607_w17_qp_41.json,607,w,Oct/Nov,2017,4,calculator,1,10(a),1,early,calculator | early,solving linear equations
+75,0607_w17_qp_42.json,607,w,Oct/Nov,2017,4,calculator,2,9(b)(i),3,early,calculator | early,solving quadratic equations
+76,0607_w17_qp_42.json,607,w,Oct/Nov,2017,4,calculator,2,11(e),1,early,calculator | early,functions
+77,0607_w17_qp_43.json,607,w,Oct/Nov,2017,4,calculator,3,1(d),2,early,calculator | early,functions
+78,0607_w17_qp_43.json,607,w,Oct/Nov,2017,4,calculator,3,9(a)(iii),1,early,calculator | early,functions
+79,0607_w17_qp_43.json,607,w,Oct/Nov,2017,4,calculator,3,9(b)(iii),2,early,calculator | early,graphing functions
+80,0607_w18_qp_21.json,607,w,Oct/Nov,2018,2,non_calculator,1,15,2,early,non_calculator | early,expanding and factorising
+81,0607_w18_qp_42.json,607,w,Oct/Nov,2018,4,calculator,2,7(b)(ii),2,early,calculator | early,topics in arithmetic
+82,0607_w18_qp_42.json,607,w,Oct/Nov,2018,4,calculator,2,13(b)(i),2,early,calculator | early,vectors
+83,0607_w18_qp_43.json,607,w,Oct/Nov,2018,4,calculator,3,2(a),3,early,calculator | early,transformations
+84,0607_w18_qp_43.json,607,w,Oct/Nov,2018,4,calculator,3,9(b)(i),1,early,calculator | early,probability
+85,0607_w19_qp_41.json,607,w,Oct/Nov,2019,4,calculator,1,2(a),2,early,calculator | early,topics in arithmetic
+86,0607_w19_qp_42.json,607,w,Oct/Nov,2019,4,calculator,2,3(a),1,early,calculator | early,topics in arithmetic
+87,0607_w19_qp_43.json,607,w,Oct/Nov,2019,4,calculator,3,9(b),1,early,calculator | early,angles
+88,0607_w20_qp_23.json,607,w,Oct/Nov,2020,2,non_calculator,3,1,1,early,non_calculator | early,exponents and surds
+89,0607_w20_qp_23.json,607,w,Oct/Nov,2020,2,non_calculator,3,15,2,early,non_calculator | early,logarithms
+90,0607_w20_qp_42.json,607,w,Oct/Nov,2020,4,calculator,2,6(c),2,early,calculator | early,Pythagoras
+91,0607_w20_qp_42.json,607,w,Oct/Nov,2020,4,calculator,2,11(a),2,early,calculator | early,graphing functions
+92,0607_w21_qp_42.json,607,w,Oct/Nov,2021,4,calculator,2,8(a)(iv),2,late,calculator | late,functions
+93,0607_w21_qp_43.json,607,w,Oct/Nov,2021,4,calculator,3,8(d)(i),2,late,calculator | late,transformations
+94,0607_w21_qp_43.json,607,w,Oct/Nov,2021,4,calculator,3,9(c),1,late,calculator | late,mensuration
+95,0607_w21_qp_43.json,607,w,Oct/Nov,2021,4,calculator,3,13(b)(iii),3,late,calculator | late,probability
+96,0607_w22_qp_23.json,607,w,Oct/Nov,2022,2,non_calculator,3,5(b),1,late,non_calculator | late,probability
+97,0607_w22_qp_41.json,607,w,Oct/Nov,2022,4,calculator,1,2(b),1,late,calculator | late,statistics
+98,0607_w22_qp_41.json,607,w,Oct/Nov,2022,4,calculator,1,12(a)(ii),1,late,calculator | late,variation and proportion
+99,0607_w23_qp_22.json,607,w,Oct/Nov,2023,2,non_calculator,2,12,3,late,non_calculator | late,solving quadratic equations
+100,0607_w23_qp_23.json,607,w,Oct/Nov,2023,2,non_calculator,3,6,3,late,non_calculator | late,similarity
+101,0607_w23_qp_41.json,607,w,Oct/Nov,2023,4,calculator,1,4(a)(ii),1,late,calculator | late,transformations
+102,0607_w23_qp_41.json,607,w,Oct/Nov,2023,4,calculator,1,4(c)(iii),1,late,calculator | late,transformations
+103,0607_w23_qp_41.json,607,w,Oct/Nov,2023,4,calculator,1,5(c),2,late,calculator | late,functions
+104,0607_w23_qp_41.json,607,w,Oct/Nov,2023,4,calculator,1,9(a),1,late,calculator | late,probability
+105,0607_w23_qp_41.json,607,w,Oct/Nov,2023,4,calculator,1,9(d),3,late,calculator | late,probability
+106,0607_w23_qp_42.json,607,w,Oct/Nov,2023,4,calculator,2,1(a),2,late,calculator | late,transformations
+107,0607_w23_qp_42.json,607,w,Oct/Nov,2023,4,calculator,2,10(c)(ii),4,late,calculator | late,mensuration
+108,0607_w23_qp_43.json,607,w,Oct/Nov,2023,4,calculator,3,2(a)(i),1,late,calculator | late,statistics
+109,0607_w23_qp_43.json,607,w,Oct/Nov,2023,4,calculator,3,12(b),5,late,calculator | late,straight lines
+110,0607_w24_qp_41.json,607,w,Oct/Nov,2024,4,calculator,1,9(d),3,late,calculator | late,graphing functions
+111,0607_w25_qp_21.json,607,w,Oct/Nov,2025,2,non_calculator,1,15(a),1,late,non_calculator | late,functions
+112,0607_w25_qp_22.json,607,w,Oct/Nov,2025,2,non_calculator,2,14(b),1,late,non_calculator | late,similarity
+113,0607_w25_qp_22.json,607,w,Oct/Nov,2025,2,non_calculator,2,20(a),2,late,non_calculator | late,expanding and factorising
+114,0607_w25_qp_23.json,607,w,Oct/Nov,2025,2,non_calculator,3,7(a),1,late,non_calculator | late,sets and Venn diagrams

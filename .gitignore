@@ -3,3 +3,9 @@
 __pycache__/
 
 data/papers_raw/
+data/tagged_papers_json/
+
+data/dataset_full.csv
+data/dataset_sample.csv
+
+script.py

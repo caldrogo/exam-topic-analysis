@@ -61,7 +61,6 @@ def build_dataset(papers_dir: str) -> pd.DataFrame:
             rows.append({
                 **meta,
                 "question_number": q["question_number"],
-                "question_text": q["question_text"],
                 "marks": marks,
                 'topic' : q['topic']
             })

@@ -24,7 +24,7 @@ SESSION_ORDER = {"m": 1, "s": 2, "w": 3}  # Mar/May, May/Jun, Oct/Nov — chrono
 SESSION_NAME = {"m": "Mar/May", "s": "May/Jun", "w": "Oct/Nov"}
 
 
-df = pd.read_csv("data/dataset_full.csv")
+df = pd.read_csv("data/dataset_full_no_questions.csv")
 
 st.title("IGCSE International Mathematics — Exam Topic Explorer")
 
@@ -96,14 +96,13 @@ with tab2:
                 f"{row['paper_type'].replace('_', ' ').title()} · "
                 f"Q{row['question_number']} · [{row['marks']} marks]**"
             )
-            st.write(row["question_text"])
             st.caption(row["filename"])
 
 # ---------------------------------------------------------------- TAB 3 ----
 with tab3:
     st.subheader("See the statistics on the LLM topic-matching")
 
-    hand_coded_df = pd.read_csv("data/dataset_sample.csv")
+    hand_coded_df = pd.read_csv("data/dataset_sample_no_questions.csv")
     results = compute_kappa(hand_coded_df, df)
 
     
