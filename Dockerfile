@@ -14,8 +14,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy everything needed into the container
 COPY app.py /app/
-COPY data/dataset_full.csv /app/data/
-COPY data/dataset_sample.csv /app/data/
+COPY data/dataset_full_no_questions.csv /app/data/
+COPY data/dataset_sample_no_questions.csv /app/data/
 COPY data/prompts.json /app/data/
 
 COPY src/config.py /app/src/
