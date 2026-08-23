@@ -24,7 +24,7 @@ SESSION_ORDER = {"m": 1, "s": 2, "w": 3}  # Mar/May, May/Jun, Oct/Nov — chrono
 SESSION_NAME = {"m": "Mar/May", "s": "May/Jun", "w": "Oct/Nov"}
 
 
-df = pd.read_csv("data/dataset_full_no_questions.csv")
+df = pd.read_csv("data/dataset_full.csv")
 
 st.title("IGCSE International Mathematics — Exam Topic Explorer")
 
