@@ -9,7 +9,7 @@ ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
 # Copy dependencies first to leverage Docker layer caching
-COPY requirements.txt .
+COPY requirements_app.txt .
 RUN pip install --no-cache-dir -r requirements_app.txt
 
 # Copy everything needed into the container
