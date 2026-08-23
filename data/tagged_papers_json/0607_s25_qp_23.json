@@ -8,19 +8,31 @@
     },
     {
       "question_number": "2(a)",
+<<<<<<< HEAD
       "question_text": "This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the square number",
+=======
+      "question_text": "From the list write down the square number",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },
     {
       "question_number": "2(b)",
+<<<<<<< HEAD
       "question_text": "This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the prime number",
+=======
+      "question_text": "From the list write down the prime number",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },
     {
       "question_number": "2(c)",
+<<<<<<< HEAD
       "question_text": "This is a list of numbers: 20, 21, 22, 23, 24, 25, 26, 27. From the list write down the triangle number.",
+=======
+      "question_text": "From the list write down the triangle number.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },
@@ -62,7 +74,11 @@
     },
     {
       "question_number": "8(a)",
+<<<<<<< HEAD
       "question_text": "Translate triangle T by the vector (1 \\ -4).",
+=======
+      "question_text": "Translate triangle T by the vector \\begin{pmatrix} 1 \\\\ -4 \\end{pmatrix}.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "transformations"
     },
@@ -92,13 +108,21 @@
     },
     {
       "question_number": "11(b)",
+<<<<<<< HEAD
       "question_text": "Rationalise the denominator and simplify. 6 / (\\sqrt{5} - \\sqrt{2})",
+=======
+      "question_text": "Rationalise the denominator and simplify. \\frac{6}{\\sqrt{5} - \\sqrt{2}}",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "exponents and surds"
     },
     {
       "question_number": "12",
+<<<<<<< HEAD
       "question_text": "The diagram shows a sector of a circle with radius 8 cm. The area of the sector is 8\\pi cm^2. The perimeter of the sector is (a + b\\pi) cm. Find the value of a and the value of b.",
+=======
+      "question_text": "The diagram shows a sector of a circle with radius 8cm. The area of the sector is 8\\pi cm^2. The perimeter of the sector is (a + b\\pi) cm. Find the value of a and the value of b.",
+>>>>>>> auto_run_analysis
       "marks_available": "[4]",
       "topic": "mensuration"
     },
@@ -110,13 +134,21 @@
     },
     {
       "question_number": "14(a)(i)",
+<<<<<<< HEAD
       "question_text": "f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ. Write down the exact value of f(0).",
+=======
+      "question_text": "Write down the exact value of f(0) where f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "trigonometry"
     },
     {
       "question_number": "14(a)(ii)",
+<<<<<<< HEAD
       "question_text": "f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ. Write down the exact value of f(30^\\circ).",
+=======
+      "question_text": "Write down the exact value of f(30^\\circ) where f(x) = \\cos x, 0^\\circ \\le x \\le 360^\\circ.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "trigonometry"
     },
@@ -124,17 +156,29 @@
       "question_number": "14(b)",
       "question_text": "On the diagram, sketch the graph of y = f(x) for 0^\\circ \\le x \\le 360^\\circ.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "14(c)",
       "question_text": "Write down the amplitude of f(x).",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "functions"
     },
     {
       "question_number": "15",
       "question_text": "y^{2k} \\times x \\times y^3 = 1/y. Find the value of k.",
+=======
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "15",
+      "question_text": "y^{2k} \\times x \\times y^3 = \\frac{1}{y}. Find the value of k.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "exponents and surds"
     },
@@ -148,7 +192,11 @@
       "question_number": "17",
       "question_text": "The diagram shows a sketch of the graph of y = x^2 + ax + b. The point (1, -2) is a minimum. Find the value of a and the value of b.",
       "marks_available": "[3]",
+<<<<<<< HEAD
       "topic": "solving quadratic equations"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "18",
@@ -170,7 +218,11 @@
     },
     {
       "question_number": "20(a)",
+<<<<<<< HEAD
       "question_text": "These are the first 5 terms of a sequence: 3, 6, 12, 24, 48. Find the next term of the sequence.",
+=======
+      "question_text": "These are the first 5 terms of a sequence. 3, 6, 12, 24, 48. Find the next term of the sequence.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "sequences"
     },
@@ -182,7 +234,11 @@
     },
     {
       "question_number": "21(a)",
+<<<<<<< HEAD
       "question_text": "The diagram shows a triangular prism. The cross-section is a right-angled triangle EAB. AE = 3 cm, AB = 4 cm and BC = 12 cm. Work out the length of BF.",
+=======
+      "question_text": "The diagram shows a triangular prism. The cross-section is a right-angled triangle EAB. AE = 3cm, AB = 4cm and BC = 12cm. Work out the length of BF.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "Pythagoras"
     },
@@ -194,7 +250,11 @@
     },
     {
       "question_number": "22",
+<<<<<<< HEAD
       "question_text": "Write as a single fraction in its simplest form. 2 - 3 / (x - 2)",
+=======
+      "question_text": "Write as a single fraction in its simplest form. 2 - \\frac{3}{x - 2}",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "expanding and factorising"
     },

@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "From this list, write down a prime number. 25, 26, 27, 28, 29, 30",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "$84 is divided in the ratio 3 : 4. Find the value of the largest share.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "In a sale, the price of all furniture is reduced by 30%. Before the sale the price of a chair was $40. Find the price of this chair in the sale.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "In a sale, the price of all furniture is reduced by 30%. In the sale, the price of a table is $140. Find the price of this table before the sale.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Work out the following, giving each answer in standard form. (6.4 x 10^-2) - (1.6 x 10^-3)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Work out the following, giving each answer in standard form. (6.4 x 10^-2) / (1.6 x 10^-3)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "One day there were 720 students at a school. The table shows the type of transport the students used to get to school (Walk: 117, Bus: 280, Car: 240, Bicycle: x). Find the value of x.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "One day there were 720 students at a school. The table shows the type of transport the students used to get to school. Find the relative frequency of students who went to school by car. Give your answer as a fraction in its lowest terms.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "A bag contains 10 discs. 5 discs are red, 4 are blue and 1 is green. A disc is chosen at random and not replaced. A second disc is then chosen at random. Find the probability that both discs are green,",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "A bag contains 10 discs. 5 discs are red, 4 are blue and 1 is green. A disc is chosen at random and not replaced. A second disc is then chosen at random. Find the probability that both discs are the same colour.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Expand the brackets and simplify. 3x(4 - 5x) - 5x(3x + 2)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Expand the brackets and simplify. (4x - y)(3x + 2y)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Find the value of 64^(1/3).",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Find the highest common factor (HCF) of 8x^3y^4 and 12x^4y.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "In each of the following, rationalise the denominator and simplify your answer. 6 / sqrt(3)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "In each of the following, rationalise the denominator and simplify your answer. sqrt(3) / (2 + sqrt(3))",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11",
+      "question_text": "The points A(3, 8) and B(9, 0) are shown on the diagram below. Find the equation of the perpendicular bisector of the line AB.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "y is proportional to the square of x. When x = 4, y = 8. Find an equation connecting y and x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "y is proportional to the square of x. When x = 4, y = 8. Find the values of x when y = 32.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "For each of these sequences, find the next term and an expression for the nth term. 17 14 11 8 5 …",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "For each of these sequences, find the next term and an expression for the nth term. 1/2 2/3 3/4 4/5 5/6 …",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "For each of these sequences, find the next term and an expression for the nth term. 4 8 16 32 64 …",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "For each of these sequences, find the next term and an expression for the nth term. -2 5 24 61 122 …",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "The population of a species of bird is estimated to be decreasing by 4% per year. At the end of 2020 the population was 4.32 million. Find the population at the end of 2019.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "The population of a species of bird is estimated to be decreasing by 4% per year. At the end of 2020 the population was 4.32 million. Calculate an estimate for the population at the end of 2025.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "The population of a species of bird is estimated to be decreasing by 4% per year. At the end of 2020 the population was 4.32 million. Find the year in which the population is first expected to be below 2 million.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Reflect triangle A in the line y = -1.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Translate triangle A by the vector (-5, 3).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Draw a cumulative frequency curve for these results.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Use your cumulative frequency curve to estimate the median",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "Use your cumulative frequency curve to estimate the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "The masses of 60% of the students lie in the range p kg < m kg <= 80 kg. Use your cumulative frequency curve to estimate the value of p.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "The diagram shows a regular pentagon with sides of 10 cm and centre O. Find angle AOB.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "The diagram shows a regular pentagon with sides of 10 cm and centre O. Show that OA = 8.51 cm correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(a)(iii)",
+      "question_text": "The diagram shows a regular pentagon with sides of 10 cm and centre O. Find the area of the pentagon.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "The regular pentagon in part (a) is the base of a pyramid. The sloping edges, VA, VB, VC, VD, and VE, are each of length 18 cm. Calculate the perpendicular height, VO, of the pyramid.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "The regular pentagon in part (a) is the base of a pyramid. The sloping edges, VA, VB, VC, VD, and VE, are each of length 18 cm. Calculate the volume of the pyramid.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(b)(iii)",
+      "question_text": "A geometrically similar pyramid has volume 1500 cm^3. Calculate the length of a side of the base of this pyramid.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "f(x) = (x^2 + 3x) / ((x - 2)(x + 1)). On the diagram sketch the graph of y = f(x) for values of x between -6 and 6.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "f(x) = (x^2 + 3x) / ((x - 2)(x + 1)). Write down the equations of the asymptotes parallel to the y-axis.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "f(x) = (x^2 + 3x) / ((x - 2)(x + 1)). Find the zeros of the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(d)(i)",
+      "question_text": "g(x) = x - 3. On the diagram sketch the graph of y = g(x) for -6 <= x <= 6.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(d)(ii)",
+      "question_text": "g(x) = x - 3. Use your graphs to solve f(x) = g(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(d)(iii)",
+      "question_text": "g(x) = x - 3. Solve g(x) > f(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "A is the point (-8, 2) and C is the point (8, 10). Find the equation of the line AC.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "N is the point (4, 8). Show that N lies on AC.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Find the equation of the line that is perpendicular to AC and passes through N.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(d)(i)",
+      "question_text": "A and C are two vertices of a quadrilateral ABCD. B is the point (2, 12). D is the reflection of B in the line AC. Find the coordinates of D.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(d)(ii)",
+      "question_text": "A and C are two vertices of a quadrilateral ABCD. B is the point (2, 12). D is the reflection of B in the line AC. Write down the name of the special quadrilateral ABCD.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(d)(iii)",
+      "question_text": "A and C are two vertices of a quadrilateral ABCD. B is the point (2, 12). D is the reflection of B in the line AC. Find the length AC.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(d)(iv)",
+      "question_text": "A and C are two vertices of a quadrilateral ABCD. B is the point (2, 12). D is the reflection of B in the line AC. Find the area of the quadrilateral ABCD.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "A ship sails from port A at a constant speed of 18 km/h on a bearing of 040°. A motorboat sails in a straight line at a constant speed from port B to intercept the ship. Port B is 30 km due south of port A. The ship leaves port A at 08 20 and the motorboat leaves port B at 08 30. The motorboat intercepts the ship at point C at 09 50. Find the speed of the motorboat.",
+      "marks_available": "[5]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the bearing on which the motorboat sails.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Asa and Bernice have these 10 letter cards: P E R C E N T I L E. Asa picks a card at random. Write down the probability that Asa's card shows the letter T.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Asa replaces his card. Bernice picks two cards at random without replacement. Calculate the probability that both of Bernice's cards are vowels.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Bernice replaces her cards. Asa picks 3 cards at random without replacement. Calculate the probability that Asa's cards can be arranged to spell the word PEN.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Asa replaces his cards. Bernice picks cards at random with replacement until she first gets a consonant. The probability that she first gets a consonant on her nth pick is 48/3125. Find the value of n.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Simplify. 3x - 5y + 4x - 6y",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Expand. x(x + 2)",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Factorise. 10ab + 8ac - 15b^2 - 12bc",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(d)(i)",
+      "question_text": "2 / (2x + 1) - 5 / (x - 3) = 3. Show that 6x^2 - 7x + 2 = 0.",
+      "marks_available": "[4]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(d)(ii)",
+      "question_text": "Solve 6x^2 - 7x + 2 = 0. You must show all your working.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "f(x) = 2x + 5, g(x) = 1 - 3x. Find f(-2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "f(x) = 2x + 5, g(x) = 1 - 3x. Solve f(g(x)) = 19.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "f(x) = 2x + 5, g(x) = 1 - 3x. Find g^-1(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "f(x) = 2x + 5, g(x) = 1 - 3x. y = g(x) / f(x). Find x in terms of y.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    }
+  ]
+}

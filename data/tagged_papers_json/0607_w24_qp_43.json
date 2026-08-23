@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Calculate an estimate for the mean height of the sunflower plants.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Complete the cumulative frequency table for the heights of the sunflower plants.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "On the grid, draw a cumulative frequency curve to show this information.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Use your cumulative frequency curve to estimate the number of sunflower plants that are more than 180 cm in height.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Work out 24% of $15.50.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "The price of a bookcase is $123. This price is increased by 7%. Calculate the new price.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "An amount of money is shared between Ali, Kat and Lena in the ratio 5 : 3 : 4. Lena's share is $76. Work out the total amount of money.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "A library has 32 800 books. Each year the number of books in the library increases by 300. Calculate the number of years it takes until there are 40 000 books in the library.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(e)(i)",
+      "question_text": "Calculate the number of books the library had at the end of 2023.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(e)(ii)",
+      "question_text": "Calculate the number of complete years from 2024 that it takes for the number of books to first be greater than 40 000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Find the length of AB.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Find the coordinates of C.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Find the equation of the perpendicular bisector of AC.",
+      "marks_available": "[4]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "PQR is a straight line. P is the point (-6, -1) and Q is the point (-3, 1). Q divides the line PR in the ratio PQ : QR = 1 : 2. Find the coordinates of R.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Find the solutions of f(x) = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Write down the equation of the asymptote of the graph of y = g(x).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "Solve f(x) <= g(x).",
+      "marks_available": "[4]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Describe fully the single transformation that is the inverse of an enlargement with scale factor 3 and centre (2, 2).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "Draw the image of shape A after a rotation of 90 degrees anticlockwise with centre (0, 0).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Draw the image of shape A after a translation with vector (-5, -4) followed by an enlargement with scale factor -2 and centre (0, 0).",
+      "marks_available": "[4]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Describe fully the single transformation that maps shape A onto shape B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Find f(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Find the range of f(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Find g(f(4)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Find h^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "6(e)",
+      "question_text": "Simplify fully 10h(x) / (f(x) - 4).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Find the next term and the nth term for the sequence: 19, 16, 11, 4",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find the next term and the nth term for the sequence: 20, 10, 5, 2.5",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "The nth term of a sequence is 2n^2 - 3n + 1. The kth term is 465. Work out the value of k.",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "The amount charged for electricity in one month is $E. $E is the sum of a fixed charge $f and a cost of $d for each unit of electricity used. Find a formula for the amount charged in one month when u units of electricity are used.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Write as a single fraction in its simplest form: x/2 - 2x/3 + 5x/18",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Solve 7n - 9 > 21 + 2n.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. 2x + 15y = -57, 20x + 3y = 18",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "y is proportional to the square of (x - 3). y = 5 when x = 7. Find the value of y when x = 27.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Show that AC = 13.5 cm correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Calculate the length AB.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Find the area of ABCD.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "A metal sphere has a volume of 9203 cm^3. The sphere is inside a cube and touches each face of the cube. Find the volume of the cube.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "The sphere is melted and poured into the cube. Find the depth of the metal.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "ABCDEFGH is a cuboid. Calculate the length DF.",
+      "marks_available": "[4]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "Calculate the angle that the diagonal DF makes with the base EFGH.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "One of these students is chosen at random. Complete the sentence. This student is most likely to belong in {students who like ...}.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Write down the number of students who like all three activities.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Find n((S U C)' \\cap W').",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "A student is chosen at random from the class. Find the probability that this student likes both walking and swimming.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(e)",
+      "question_text": "Two of the students who like swimming are chosen at random. Find the probability that one of these students likes walking but not cycling and the other student only likes swimming.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(f)",
+      "question_text": "Three of the 32 students are chosen at random. Find the probability that one student likes exactly one of the activities and the other two students like exactly two of the activities.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    }
+  ]
+}

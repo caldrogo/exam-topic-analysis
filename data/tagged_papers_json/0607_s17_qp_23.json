@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out \\sqrt{2\\frac{1}{4}}.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Change \\frac{7}{25} to a percentage.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "|x| = 5. Write down the two possible values of x.",
+      "marks_available": "[1]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "These are the first four terms of a sequence: 15, 11, 7, 3. Find the next term.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "These are the first four terms of a sequence: 15, 11, 7, 3. Find the nth term.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Expand x^3(x^2 + 3).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Work out \\frac{4 \\times 10^7}{8 \\times 10^{22}}. Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7",
+      "question_text": "v = u + at. Rearrange the formula to write t in terms of a, u and v.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Simplify 8y^8 \\div 2y^2.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Simplify (2w^2)^5.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9",
+      "question_text": "A, B, C, D and E lie on the circle. Angle BCE = 75°. Find the value of p and the value of q.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10",
+      "question_text": "y = x + 1 and y = 2 - x. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Each diagram shows the graph of y = f(x). On each diagram, sketch the function indicated: y = f(x) - 2 and y = -f(x).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Find the value of 16^{\\frac{3}{4}}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Simplify (4 - \\sqrt{3})(4 + \\sqrt{3}).",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Rationalise the denominator: \\frac{5}{\\sqrt{7}}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Factorise p^2 - p - 30.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Factorise x(u - v) - y(v - u).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "15",
+      "question_text": "y \\propto \\frac{1}{x^3}. When x = 2, y = 2. Find y when x = 10.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "16",
+      "question_text": "f(x) = 6cos(6x). Find the amplitude and the period of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "17",
+      "question_text": "In the triangle with sides 5 cm and 8 cm and included angle 60°, find AB.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "18",
+      "question_text": "f(x) = 10^x. Find f^{-1}(x).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    }
+  ]
+}

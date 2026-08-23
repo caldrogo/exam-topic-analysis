@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Calculate the length of BD.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Calculate the area of triangle ACD.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Use the cosine rule to find the length of AD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Jay buys a bicycle for $220. He later sells it for $160. Calculate his percentage loss.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "A television has a sale price of $216 after a reduction of 10%. Calculate the original price of the television.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "The population of a village is 2180. The population decreases by 3% each year. Calculate the population in 20 years time.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "Calculate the number of whole years it takes for the population to decrease from 2180 to less than 1000.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Write down the interval that contains the lower quartile.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)(iii)",
+      "question_text": "Complete the table of frequency densities.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the equation of the line of regression, giving t in terms of r.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Shade in one more square so that the diagram has one line of symmetry.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Shade in two more squares so that the diagram has rotational symmetry of order 2 and no lines of symmetry.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "CB = 10.5 cm. Calculate the length of RQ.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "The area of triangle ABC is 45 cm^2. Calculate the area of triangle PQR.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle U.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Describe fully the inverse of the transformation in part(a)(i).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(i)",
+      "question_text": "Draw the image of triangle T under a reflection in the line y = x.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)(ii)",
+      "question_text": "Draw the image of triangle T under a rotation of 90° anti-clockwise about the point (6, 8).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Describe fully the single transformation equivalent to a rotation 90° clockwise about (0, 0) followed by a reflection in the line y = -x.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Find the volume of the cylinder not occupied by the cone.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Calculate the volume of the part of the cone that is below the water level and show that it rounds to 2749 cm^3, correct to the nearest cubic centimetre.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Calculate the amount of water that has been poured into the cylinder. Give your answer in litres.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Kim walks 10 km at 4 km/h and then a further 6 km at 3 km/h. Calculate Kim's average speed.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Chung runs at x km/h for 45 minutes and then at (x - 2) km/h for 30 minutes. Find an expression, in terms of x, for Chung's average speed in km/h. Give your answer in its simplest form.",
+      "marks_available": "[4]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Solve the inequality: 2(x - 3) < 5(x + 3)",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Show your answer to part(a)(i) on the number line.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Solve the equation: (x + 3)^2 + (x + 1)^2 = 25. Give your answers correct to 2 decimal places.",
+      "marks_available": "[6]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "8(c)(i)",
+      "question_text": "Solve the equation: log x = 5 - x",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "8(c)(ii)",
+      "question_text": "Solve the equation: log x = |5 - x|",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Simplify, giving your answer as a single fraction: x / (x - 1) - 2 / (x + 1)",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "In the quadrilateral ABCD, DA = AB and DA is parallel to CB. Angle DAB = 124° and angle BDC = 25°. Calculate angle BCD.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Nine of the angles of a 10-sided polygon are each 142°. Calculate the other angle.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "9(c)(i)",
+      "question_text": "Calculate angle ADE",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(c)(ii)",
+      "question_text": "Calculate angle DAC",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(c)(iii)",
+      "question_text": "Calculate angle AXD",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Complete the tree diagram.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Show that the probability that Sara goes walking is 13/30.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Complete this tree diagram.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Find h(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the range of g(x) for the domain {0, 1}.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "f(x - 2) can be written as (x + a)(x + b). Find the value of a and the value of b.",
+      "marks_available": "[4]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)(i)",
+      "question_text": "Find the inverse of g(x)",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)(ii)",
+      "question_text": "Find the inverse of h(x)",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(e)",
+      "question_text": "Describe fully the single transformation that maps the graph of y = f(x) onto the graph of y = 2x^2 - 32.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "On the diagram, sketch the graphs of y = 12 / (x + 2) and y = 2^x - 5 for values of x between x = -6 and x = 4.",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(b)(i)",
+      "question_text": "Write down the equation of each asymptote of the graph of y = 12 / (x + 2)",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(b)(ii)",
+      "question_text": "Write down the equation of each asymptote of the graph of y = 2^x - 5",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Solve the inequality 2^x - 5 > 12 / (x + 2) for x > 0.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    }
+  ]
+}

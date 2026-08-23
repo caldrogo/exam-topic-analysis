@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out 1 + 2 - 3 x 4",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Work out 1 + 2 x 3 - 4",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write 2 1/4 as an improper fraction.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Work out 7/8 - 3/4",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Expand 3(x - 2y)",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Change 0.2 m^2 into cm^2.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Work out 4^(3/2)",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Work out (1.5 x 10^1) x (7 x 10^-3). Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Work out (6.5 x 10^-2) + (7.8 x 10^-3). Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "These are the scores of 10 students in a test: 15, 5, 20, 25, 7, 13, 15, 11, 17, 12. Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "These are the scores of 10 students in a test: 15, 5, 20, 25, 7, 13, 15, 11, 17, 12. Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Find an expression for the n^th term of each sequence: 1, 7, 13, 19, 25, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find an expression for the n^th term of each sequence: 1, -2, 3, -4, 5, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "BD is parallel to FAE. Find angle BAE.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "BD is parallel to FAE. Find angle FAC.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "10",
+      "question_text": "A is the point (1, 11) and B is the point (4, 5). Find the equation of the perpendicular bisector of AB. Give your answer in the form y = mx + c.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Solve 4x^2 - 5x - 6 = 0",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Solve |2x + 1| = 3",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Bag A contains balls numbered 2, 4, 4, 4. Bag B contains balls numbered 1, 1, 2, 3, 4, 4. Bag C contains balls numbered 1, 2, 3, 4. One of these three bags is chosen at random. A ball is chosen at random from this bag. Find the probability that the ball chosen is numbered 4. Give your answer as a fraction.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Solve log_2 x = 5",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14",
+      "question_text": "A sector of a circle with radius 6 cm has a sector angle of 150°. Find the exact value of the area of the shaded region. Give your answer in its simplest form.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    }
+  ]
+}

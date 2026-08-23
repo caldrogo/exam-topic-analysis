@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "From this list write down all the prime numbers. 31 37 39 49 51 53 77 87",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out 15% of 600.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Work out 0.06 x 0.12",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Work out 0.2^3",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Work out 0.4 / 0.08",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4",
+      "question_text": "A bag contains red balls, blue balls and green balls only. There are twice as many blue balls as green balls. There are twice as many red balls as blue balls. There are 16 blue balls in the bag. Find the total number of balls in the bag.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Dippi buys 5 burgers and 4 bags of chips for a total cost of $8.10. Burgers cost $1.10 each. Find the cost of one bag of chips.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "6",
+      "question_text": "AB is a straight line. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Work out the following, giving each answer in standard form. (4.3 x 10^4) x (3 x 10^-4)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Work out the following, giving each answer in standard form. (6 x 10^-2) + (3 x 10^-3)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Solve the simultaneous equations. 3x + 2y = -1, 7x - y = 26",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The interior angle of a regular polygon is 150°. Find the number of sides of this polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Rearrange the formula to make x the subject. y(x + 4) = 2",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "The pie chart shows the favourite sports of all the students at a school. 180 students chose running as their favourite sport. Work out the total number of students at the school,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "The pie chart shows the favourite sports of all the students at a school. 180 students chose running as their favourite sport. Work out the number of students that chose football as their favourite sport.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Factorise. 2x^2 - 3x - 5",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Solve. (x - 4)(x + 3) > 0",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "14",
+      "question_text": "A is the point (1, 7) and B is the point (4, 13). Find the equation of the perpendicular bisector of AB in the form y = mx + c.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "Pythagoras"
+    }
+  ]
+}

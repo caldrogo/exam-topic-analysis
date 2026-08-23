@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write 0.047 996 correct to 4 decimal places.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write 60 449 correct to 3 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out 4 1/4 - 1 5/6. Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Simplify. (a^2 * a^5) / a^3",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Write down the mathematical name of the quadrilateral that has rotational symmetry of order 2 but no lines of symmetry.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Write down the mathematical name of the quadrilateral that has exactly one line of symmetry.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Solve. 9 - 2x <= 5(x + 6)",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Write down the relative frequency of the spinner landing on 2.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Explain why it is reasonable to use your answer to part (a) as the probability of this spinner landing on 2.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "The spinner is spun 3000 times. Find the expected number of times that the spinner lands on 2.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Divide 96 cm in the ratio 5 : 3.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8",
+      "question_text": "A is the point (-2, 4) and B is the point (7, 1). Find the length of AB giving your answer in its simplest surd form.",
+      "marks_available": "[4]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find angle DCB, giving a reason for your answer.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Is PBQ a tangent to the circle? Give a reason for your answer.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Solve the simultaneous equations. 2x + 3y = 5, y = 3x + 9",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Use this information to find sin 110°.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Use this information to find tan 320°.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Factorise completely. 4x^2y - 6xy^2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Factorise completely. 9x^2 - 1",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Solve. log_x 9 = 2",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Solve. 2 log x - log 4 = log 9",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14",
+      "question_text": "y varies inversely as the square root of x. When x = 25, y = 6. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "15(a)",
+      "question_text": "On the Venn Diagram, shade the set A intersection B intersection C'.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "15(b)",
+      "question_text": "Use set notation to describe the shaded region.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    }
+  ]
+}

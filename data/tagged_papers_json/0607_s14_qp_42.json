@@ -1,0 +1,358 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write 8.5 million in standard form.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Calculate the population on 1st January 2010. Give your answer correct to 2 significant figures.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Calculate the population on 1st January 1980. Give your answer correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Calculate the percentage reduction in the population from 1st January 1980 to 1st January 2010.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(e)",
+      "question_text": "If the population of starlings continues to reduce at the same rate, find the year in which the population will first be below 3 500 000.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the co-ordinates of the local maximum and the local minimum points.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "On the same diagram, sketch the graph of y = g(x) where g(x) = | x + 2 | for –15 <= x <= 15.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Solve f(x) = g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Translate triangle A by the vector (-4, 2).",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Describe fully the single transformation that is equivalent to a translation by the vector (-4, 2) followed by a rotation of 90° clockwise about (-2, 6).",
+      "marks_available": "[5]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Find the total volume of the plumb bob.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Each cubic centimetre of brass weighs 8.4 grams. Calculate the total mass of the plumb bob.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "A mathematically similar plumb bob is also made of brass. Its mass is twice the mass of the plumb bob shown in the diagram opposite. Calculate the total height of the larger plumb bob.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Complete the scatter diagram. The first 10 points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "What type of correlation is shown by the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Calculate the mean of the mathematics marks.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Calculate the mean of the physics marks.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Find the equation of the regression line for the physics marks (y) and the mathematics marks (x). Write your answer in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(e)",
+      "question_text": "Find the value of y when x = 26.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(f)",
+      "question_text": "Draw accurately the line of regression on the scatter diagram.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(g)",
+      "question_text": "It was later decided that the physics test was too difficult. The physics teacher added 12 marks to each of the physics marks. Write down the equation of the regression line for the new physics marks (y) in terms of the mathematics marks (x).",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Find the gradient of the line L.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Find the co-ordinates of the point where the line L crosses the y-axis.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Find the equation of the line, perpendicular to L, which passes through the point (2, 3). Give your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Complete the Venn diagram.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Use set notation to show the number of students who study neither biology nor chemistry.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "One of the 40 students is chosen at random. What is the probability that this student studies both biology and chemistry?",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "Two of the 40 students are chosen at random. Find the probability that both students study biology but not chemistry.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(e)",
+      "question_text": "Two of the students who study biology are chosen at random. Find the probability that both students also study chemistry.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for x between -4 and 7.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Write down the equations of the three asymptotes of the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the range of values of x for which f(x) < 4.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "The graph of y = g(x) is the graph of y = f(x) translated by the vector (1, 0). Find g(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "When x is the number of children in a family, find the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "When x is the number of children in a family, find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)(iii)",
+      "question_text": "When x is the number of children in a family, find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)(iv)",
+      "question_text": "When x is the number of children in a family, find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)(v)",
+      "question_text": "When x is the number of children in a family, find the upper quartile.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "When x is the distance, to the nearest kilometre, that the children travel to school, explain why the range of the distances may not be the same as your answer to part (a)(ii).",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "When x is the distance, to the nearest kilometre, that the children travel to school, write down the modal interval.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Use this information to write down two equations in b and c.",
+      "marks_available": "[2]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Use these equations to show that y = x^2 + 4x - 3.",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "10(c)(i)",
+      "question_text": "Solve the equation x^2 + 4x - 3 = 0. Give your answers correct to 2 decimal places.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(c)(ii)",
+      "question_text": "Write down the equation of the line of symmetry of the graph of y = x^2 + 4x - 3.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(c)(iii)",
+      "question_text": "Find the minimum value of y.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(a)(i)",
+      "question_text": "Find angle DBC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(a)(ii)",
+      "question_text": "Find angle ECB.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(a)(iii)",
+      "question_text": "Find angle DOE.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Calculate PR.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Find angle RPS.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(b)(iii)",
+      "question_text": "Calculate the perimeter of the shaded region.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Calculate the length AD.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Calculate angle DBC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Calculate the total area of the quadrilateral ABCD.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Write down an expression, in terms of x, for the time in hours of the cycle journey.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "13(b)(i)",
+      "question_text": "Write down an equation in x and show that it simplifies to 17x - 12 = 396.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "13(b)(ii)",
+      "question_text": "Solve the equation to find the time taken for the car journey.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "13(c)",
+      "question_text": "Find the average speed, in kilometres per hour, for the whole journey.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    }
+  ]
+}

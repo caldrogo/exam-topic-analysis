@@ -1,0 +1,346 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Aisha invests $12000 at a compound interest rate of 3.5% per year. Calculate the value of her investment at the end of 4 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "2 years ago, Byron invested $P at a compound interest rate of 3% per year. The value of his investment is now $10078.55. Calculate the value of P.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "5 years ago Cheng invested $Q at a simple interest rate of 4% per year. The value of his investment is now $20400. Calculate the value of Q.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "The table shows the number of goals scored in 100 matches. Find the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "The table shows the number of goals scored in 100 matches. Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "The table shows the number of goals scored in 100 matches. Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "The table shows the number of goals scored in 100 matches. Find the inter-quartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "The table shows the number of goals scored in 100 matches. Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for f(x) = 2x^3 - 5x^2 + 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the zeros of f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find the co-ordinates of the local maximum.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "Find the co-ordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(e)",
+      "question_text": "The equation 2x^3 - 5x^2 + 3 = k has three solutions. Find the range of values of k.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Complete the scatter diagram. The first five points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Write down the type of correlation shown by the scatter diagram.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the equation of the regression line. Write the answer in the form p = am + b.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "A student was absent for the physics examination but gained 56 marks in the mathematics examination. Use your answer to part (c) to estimate a physics mark for this student.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "The school decided that the physics examination was too difficult and added 5 marks to each of the physics marks. Write down the new equation of the regression line.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Reflect triangle A in the line y = 1.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Rotate triangle B through 90° clockwise about (1, 0).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Describe fully the single transformation that maps triangle B onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "P is the point (3, 5) and Q is the point (7, -2). Q is the midpoint of PR. Find the co-ordinates of the point R.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "OA = a and OB = b. C divides AB in the ratio 4 : 3. Find AB.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "OA = a and OB = b. C divides AB in the ratio 4 : 3. Find OC.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "The diagram shows a child's toy made of a cone joined to a hemisphere. The cone and the hemisphere each have a radius of 4 cm. The perpendicular height of the cone is 6 cm. Find the volume of the hemisphere.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find the volume of the cone.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(a)(iii)",
+      "question_text": "Each cubic centimetre of the hemisphere has a mass of 7.85 g. Each cubic centimetre of the cone has a mass of 0.65 g. Find the total mass of the toy.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Find the total surface area of the toy.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "The height of the cone on a similar toy is 9 cm. Find the total surface area of this toy.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "A dance club has 90 members. Complete the Venn diagram.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Write down the number of members who do not like any of these three types of dancing.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Two of the 90 members are chosen at random. Find the probability that they both like Ballroom and Latin but not Modern.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Two of the members who like Ballroom are chosen. Find the probability that one of these members likes Latin but not Modern and the other likes Modern but not Latin.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "A, B and C are points on the circle, centre O. ON is perpendicular to BC. AB = 14 cm, AC = 12 cm and angle BAC = 58°. Show that BC = 12.73 cm, correct to 2 decimal places.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Explain why angle BON = 58°.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Calculate OB, the radius of the circle.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Calculate the area of the shaded segment.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "The length of this rectangle is (2x + 3) and the area is 840. Write down an expression, in terms of x, for the width of the rectangle.",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "The perimeter of the rectangle is 118. Show that 2x^2 - 53x + 336 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Solve the equation 2x^2 - 53x + 336 = 0. Show all your working.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find the length and the width of the rectangle.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "11(a)(i)",
+      "question_text": "Simplify (a^5 * a^4) / a^3.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(a)(ii)",
+      "question_text": "Simplify log_5(5^x).",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(a)(iii)",
+      "question_text": "Simplify log_9(3^x).",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Solve 3 log 10 - 2 log 5 = log x.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for f(x) = (3x + 2) / ((x + 2)(x - 3)) for values of x between -8 and 8.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Write down the equations of the asymptotes.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(c)(i)",
+      "question_text": "g(x) = x - 2. On the diagram, sketch the graph of y = g(x) for -6 <= x <= 8.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(c)(ii)",
+      "question_text": "Solve f(x) = g(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(c)(iii)",
+      "question_text": "Solve f(x) > g(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "f(x) = 2x + 5, g(x) = 1 - 2x. Find g(-4).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "Find f^{-1}(-7).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(c)",
+      "question_text": "Find g(f(3)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(d)",
+      "question_text": "Find and simplify f(g(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(e)",
+      "question_text": "Find and simplify g^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(f)",
+      "question_text": "Write as a single fraction, simplifying your answer: 2 + 3 / f(x)",
+      "marks_available": "[2]",
+      "topic": "functions"
+    }
+  ]
+}

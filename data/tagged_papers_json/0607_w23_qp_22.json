@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out -45 ÷ -15.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Write 4049 correct to 2 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Solve 7x - 5 = 37.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Find 2% of $400.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Find the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Work out 3/4 - 1/5.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Work out 2(3/4) × 2(2/3). Give your answer as a mixed number in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Write down an irrational number between 3 and 4.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Work out the highest common factor (HCF) of 60 and 42.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Expand 3p^2(4 - 3p).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "P is the point (-5, 3) and Q is the point (2, -1). Find the coordinates of the mid-point of PQ.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Line L is perpendicular to the line y = 3x - 2. The point (6, 1) is on line L. Find the equation of line L. Give your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "On the Venn diagram, shade (A ∪ B)'.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Use set notation to describe the shaded region.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "There are 35 students in a class. The students are asked if like athletics (A) or cricket (C). n(A) = 15, n(C) = 14, n(A ∪ C)' = 5. Complete the Venn diagram below by writing the number of elements in each subset.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Solve x^2 - 2x - 6 = 0. Give your answer in the form a ± ∙b where a and b are integers.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Find the magnitude of the vector (-6 over 8).",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Solve (x + 1)/(x - 1) - 1/3 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "15(a)",
+      "question_text": "Find the value of a and the value of b.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "15(b)",
+      "question_text": "Write down the period of f(x).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "16(a)",
+      "question_text": "log_a 64 = 2. Write down the value of a.",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "16(b)",
+      "question_text": "Simplify log 3 + 3 log 2 - log 12.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    }
+  ]
+}

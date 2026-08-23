@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Write down a cube number between 10 and 100.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out (0.1)^4.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Alex goes to sleep at 2040 and wakes up the next morning at 0610. Work out the length of time, in hours and minutes, that Alex is asleep.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Work out \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix} - \\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "F is the point (5, 7). The vector that maps F onto the point G is \\begin{pmatrix} -1 \\\\ 3 \\end{pmatrix}. Find the coordinates of G.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Work out \\frac{3}{4} - \\frac{1}{6}, giving your answer as a fraction in its lowest terms.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Divide $140 in the ratio 2 : 1 : 4.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7",
+      "question_text": "The volume of a hemisphere with radius 3cm is k\\pi\\text{ cm}^3. Find the value of k.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Write 4^{-2} as a fraction.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9",
+      "question_text": "A train is travelling at a speed of 30\\text{ m/s}. The length of the train is 70\\text{ m}. The train passes through a station of length 170\\text{ m}. Find the time the train takes to pass completely through the station.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Triangle PQR is similar to triangle ABC. Work out the length of PR.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Two mathematically similar containers have capacities of 27 litres and 8 litres. The surface area of the smaller container is 1600\\text{ cm}^2. Work out the surface area of the larger container.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Factorise 1 + x - y - xy.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Describe fully the single transformation that maps triangle P onto triangle Q.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Stretch triangle T by a factor of 2 with invariant line x = 1.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Rationalise the denominator \\frac{2}{\\sqrt{3}}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "In this calculation, the three numbers are written in standard form: (4 \\times 10^p) \\times (n \\times 10^{p+2}) = 3.2 \\times 10^t. n, p and t are integers. Find the value of n.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Find t in terms of p.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Simplify \\frac{x-4}{x^2-16}.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "16",
+      "question_text": "The solutions to the equation x^2 + gx + h = 0 are \\frac{1-\\sqrt{17}}{2} and \\frac{1+\\sqrt{17}}{2}. Find the value of g and the value of h.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "17",
+      "question_text": "Write as a single fraction, giving your answer in its simplest form: 2 - \\frac{3}{1+x}.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "18",
+      "question_text": "Find the value of \\log 5 + \\log 8 - 2\\log 2.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    }
+  ]
+}

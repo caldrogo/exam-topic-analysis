@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for -180 <= x <= 180.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write down the amplitude and period of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "1(c)(i)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for -180 <= x <= 180.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "1(c)(ii)",
+      "question_text": "Solve g(x) = f(x) for -180 <= x <= 180.",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "1(c)(iii)",
+      "question_text": "Solve g(x) < f(x) for -180 <= x <= 180.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "The selling price of a basket increases by 8%. The new selling price is $4.86. Find the original selling price of a basket.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Asif earns $4.70 per hour plus $1.21 for each basket he makes. Each week he works 8 hours a day for 5 days. Each day Asif makes 18 baskets. Calculate the total amount Asif earns in one week.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "Write down an expression in terms of x for the number of baskets Chelsea makes.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "Write down an equation in terms of x and show that it simplifies to 3x^2 - 98x + 240 = 0.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "2(c)(iii)",
+      "question_text": "Solve the equation 3x^2 - 98x + 240 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "2(c)(iv)",
+      "question_text": "Find the number of baskets Chelsea makes.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Rotate triangle A through 90° clockwise about (-1, -1). Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Reflect triangle D in the line x = -1. Label the image E.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle E.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Complete the scatter diagram. The first 6 points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "What type of correlation is shown on the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Find the equation of the regression line. Give your answer in the form y = mx + c.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Anna trained for 10.8 hours. Use your equation to estimate the time Anna took for the test.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "Ben trained for 20.5 hours. Explain why you should not use your equation to estimate the time Ben took for the test.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Calculate the bearing of D from C.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Show that angle ABC = 81.9° correct to one decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Find the total area of the field ABCD.",
+      "marks_available": "[5]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Complete the Venn diagram.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Write down the elements of P \\u2229 Q.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Find n((P' \\u2229 Q) \\u222a (P \\u2229 Q')).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Amy picks a ball at random from bag A. She notes the colour of the ball and replaces it in bag A. Find the probability that Amy's ball is black.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Basma picks two balls at random from bag B. She notes the colour of each ball and replaces them in bag B. Find the probability that both balls are white.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)(iii)",
+      "question_text": "Basma chooses one bag at random. She picks one ball at random from this bag. Find the probability that the ball is white.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Find angle FCD",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find angle FBC",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(a)(iii)",
+      "question_text": "Find angle BGE.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Show that triangles AXB and DXC are similar. Give a reason for each statement you make.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "AX = 5 cm, XC = 2 cm and XD = 4 cm. Find the length of BD.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "On the grid, draw a cumulative frequency curve to show this information.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Use your curve to estimate the median",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Use your curve to estimate the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Use your curve to estimate the percentage of these 120 days where the shop received more than $1800.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find the coordinates of the mid-point of AB.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find the equation of AB.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Show that the equation of the perpendicular bisector of AB is y = 3x - 2.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "The point C has coordinates (3, 7). Show that C lies on the perpendicular bisector of AB.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "9(e)",
+      "question_text": "Find the area of triangle ABC.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Find g(-2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find h(g(x)). Write your answer in the form ax^2 + bx + c.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Find g^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) / g(x) for values of x between -2 and 6.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(b)(ii)",
+      "question_text": "An asymptote to the graph of y = f(x) / g(x) is parallel to the y-axis. Find the equation of this asymptote.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "10(b)(iii)",
+      "question_text": "Solve f(x) / g(x) = 5 - 2^x.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Solve. 3x + 2 > 7x - 8",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Factorise fully. 75x^2 - 3",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Simplify. (2 / 3x) + (1 / 6x) - (1 / 5x)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Simplify. (2x^2 + 3x - 2bx - 3b) / (2x^2 - 7x - 15)",
+      "marks_available": "[4]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

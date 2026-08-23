@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)(i)",
+      "question_text": "Rotate triangle A through 90° anticlockwise about (0, 0). Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(a)(ii)",
+      "question_text": "Reflect triangle A in the y-axis. Label the image C.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(a)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle B onto triangle C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Describe fully the single transformation that maps trapezium D onto trapezium E.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write 260512 correct to 3 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Write 0.000000576 in standard form.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Calculate \\sqrt{27^2 - 6 \\times 31^{0.3}}. Give your answer correct to 1 decimal place.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(d)(i)",
+      "question_text": "Work out 37% of $820.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(d)(ii)",
+      "question_text": "Work out $36 as a percentage of $150.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(e)(i)",
+      "question_text": "An amount of money is shared between Alan, Bjorn and Carlo in the ratio 3 : 7 : 5. Carlo receives $695. Find the total amount of money shared.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(e)(ii)",
+      "question_text": "Carlo invests 40% of his $695 at a rate of 1.2% per year compound interest. Calculate the value of his investment at the end of 5 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(f)",
+      "question_text": "Dana invests $2100 for 12 years at a rate of x% per year compound interest. At the end of the 12 years, the value of her investment is $2663.31. Calculate the value of x.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "Write down the coordinates of the point where the line y = -2x + 3 crosses the y-axis.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "Write down the gradient of the line y = -2x + 3.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "The line x + y = 6 crosses the line x = -2 at point A. Find the y-coordinate of A.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find the equation of the straight line that passes through the points (3, -1) and (12, 5).",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "The line L passes through the point (3, 4). Line L is perpendicular to the line 2y = 5x + 6. Find the equation of line L.",
+      "marks_available": "[4]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(e)(i)",
+      "question_text": "On the grid, draw the lines y = 4, x + y = 3 and y = x - 1.",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "3(e)(ii)",
+      "question_text": "By shading the unwanted regions, find and label the region R that satisfies these three inequalities: y \\le 4, x + y \\ge 3, y \\ge x - 1.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Write down the modal class for the mass of 50 apples.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Calculate an estimate of the mean mass of the 50 apples.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(i)",
+      "question_text": "Complete the cumulative frequency column in Table 2.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(ii)",
+      "question_text": "On the grid, draw the cumulative frequency curve to show the results in Table 2.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(iii)(a)",
+      "question_text": "Use your cumulative frequency curve to estimate the median mass.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)(iii)(b)",
+      "question_text": "Use your cumulative frequency curve to estimate the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Calculate the length of AC given AB = 49 mm, BC = 91 mm, and angle B = 90°.",
+      "marks_available": "[2]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "The diagram shows a circle with centre O and radius 16 cm. Calculate the length of the major arc AB corresponding to an angle of 305°.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "The diagram shows a prism with length 12 cm. The cross-section of the prism is a quarter of a circle of radius 6 cm. Calculate the volume of the prism.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(d)(i)",
+      "question_text": "Shape ABCDE is made by joining rectangle ABDE and triangle BCD. The perpendicular height of triangle BCD is (2x + 4) cm, AB = (x + 1) cm, AE = (x - 3) cm. The total area of ABCDE is 11 cm^2. Show that 2x^2 - 3x - 20 = 0.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(d)(ii)",
+      "question_text": "Factorise 2x^2 - 3x - 20.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(d)(iii)",
+      "question_text": "Use your answer to part (ii) to solve the equation 2x^2 - 3x - 20 = 0.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "5(d)(iv)",
+      "question_text": "Find the perpendicular height of triangle BCD.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "y is inversely proportional to the square of x. When x = 2, y = 8. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Find the value of y when x = 4.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Find the value of x when y = 128.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "r is directly proportional to the cube of (p + 1). When p = 1, r = 16. Find the value of r when p = 4.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) where g(x) = 1 / (x - 2) for values of x between -4 and 3.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Write down the equations of the asymptotes of the graph of y = g(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Given h(x) = (x + 1)^2 - 3, solve the inequality g(x) > h(x).",
+      "marks_available": "[4]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Rani sails in a boat race around a triangular course from A to B to C and back to A. B is due north of C. The angle at C is 142°, BC = 17 km, AC = 4 km. Find the bearing Rani sails on from C to A.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Show that AB = 20.3 km, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Calculate the bearing of B from A.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Rani starts the race at 08 57 and returns to A at 12 33. Calculate the average speed of her boat in km/h.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(a)(i)",
+      "question_text": "The Venn diagram shows information about 115 people who play musical instruments (flute F and drums D). F \\cup D regions have frequencies 3x, x + 2, 4x + 1, and 8 outside. Calculate the number of people who play both the flute and the drums.",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(a)(ii)",
+      "question_text": "On the Venn diagram, shade F' \\cap D.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(a)(iii)",
+      "question_text": "Briony plays both the flute and the drums. Use set notation to complete the statement: Briony ... (F \\cap D).",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Briony has 6 red socks, 4 green socks and 8 white socks. She picks a sock at random. Find the probability that the sock is green.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Briony replaces the sock, then picks two socks at random, without replacement. Calculate the probability that the two socks are different colours.",
+      "marks_available": "[4]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Cone A has radius r and perpendicular height h. Cone B is mathematically similar to cone A. Solid C is formed by removing cone A from cone B. The ratio height of cone A : height of cone B = 2 : 3. Find the ratio volume of cone A : volume of solid C.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Cone A has radius 4 cm and height 10 cm. Calculate the total surface area of solid C.",
+      "marks_available": "[8]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Given f(x) = 3x + 1, g(x) = x^2 - 5, h(x) = 3^x, find g(3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find f(h(2)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Find the value of r when f(r) = r.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)",
+      "question_text": "Solve g(f(x)) = 20.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(e)",
+      "question_text": "Find h^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    }
+  ]
+}

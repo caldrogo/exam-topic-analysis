@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out (0.01)^2",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Write 24/60 in its lowest terms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Work out 5/7 - 1/14.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "This is a list of ten numbers: 19 24 16 17 22 14 28 34 20 18. Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "This is a list of ten numbers: 19 24 16 17 22 14 28 34 20 18. Find the median.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Expand x^3(8x - x^2).",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Simplify (9x^9 y^4)^0.5.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6",
+      "question_text": "A regular polygon has 12 sides. Find the size of an exterior angle of this polygon.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "7",
+      "question_text": "y varies as the square of (x + 1). When y = 18, x = 2. Find y when x = 3.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Factorise 6ax - 8by - 3ay + 16bx",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Factorise 5x^2 - 7x - 6",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Write in standard form: 760 900",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Write in standard form: 0.08007",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "A, B, C, and D lie on a circle, centre O, with angle ADC = 124°. Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "A, B, C, and D lie on a circle, centre O, with angle ADC = 124°. Find obtuse angle AOC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "A, B, C, and D lie on a circle, centre O, with angle ADC = 124°. Find angle OCA.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Simplify \\sqrt{2}(5\\sqrt{8} - 7\\sqrt{2})",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Rationalise the denominator: 21 / (3 - \\sqrt{2})",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Vlad has two unbiased dice, each numbered 1, 2, 3, 4, 5, 6. Vlad rolls the two dice and records the total score. Find the probability that the total score is 13.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Vlad has two unbiased dice, each numbered 1, 2, 3, 4, 5, 6. Vlad rolls the two dice and records the total score. Find the probability that the total score is 11.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13",
+      "question_text": "The point A has coordinates (4, -1) and the point B has coordinates (8, -3). Find the equation of the perpendicular bisector of the line AB. Give your answer in the form y = mx + c.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Write as a single fraction in its simplest form: 8 / (4x - 1) - 3 / (2x + 1)",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Calculate the sale price of a television originally costing $630.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "The price of a fridge in the sale is $952. Calculate the original price.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "After one week the shop reduces the price of the television in part (a) by a further 5% each week until it is sold. Calculate the number of weeks from the start of the sale until the television reaches half the original price.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Translate triangle A by the vector \\begin{pmatrix} 6 \\\\ -3 \\end{pmatrix}.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)(i)",
+      "question_text": "Use trigonometry to calculate the angle of rotation.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)(ii)",
+      "question_text": "The scale factor of the enlargement is \\sqrt{a} where a is an integer. Find the value of a.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "24 = 2^3 \\times 3^1. By listing all the factors of 24, show that the method works for 24.",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Use the method to find how many factors 360 has.",
+      "marks_available": "[4]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Calculate an estimate of the mean height.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Draw a cumulative frequency curve for this information.",
+      "marks_available": "[5]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)(i)",
+      "question_text": "Use your cumulative frequency curve to estimate the median height,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)(ii)",
+      "question_text": "Use your cumulative frequency curve to estimate the interquartile range,",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)(iii)",
+      "question_text": "Use your cumulative frequency curve to estimate the number of plants with a height of more than 37 cm.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)(i)",
+      "question_text": "Complete this table of frequency densities for the 120 plants.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)(ii)",
+      "question_text": "Draw a histogram to show this information.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Jian draws a pie chart to show these results. Calculate the sector angle for Drama.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Jian chooses one of the 60 people at random. Write down the probability that the person says Factual.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(c)(i)",
+      "question_text": "Jian chooses two of the 60 people at random. Find the probability that one of them says Drama and the other says Game Show.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(c)(ii)",
+      "question_text": "Jian chooses two of the 60 people at random. Find the probability that at least one person says Sport.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "y is inversely proportional to \\sqrt{x}. When x = 9, y = 6. Find an equation connecting x and y.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Calculate y when x = 30.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(a)(iii)",
+      "question_text": "Calculate x when y = 15.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "For the three variables x, y and z, z is also proportional to (y + 5). When x = 9, z = 33. Find an equation connecting x and z.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "On the grid below, draw and label the following three vectors: 2b, 2a + b, a - 2b.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Vectors p, q, and r are drawn on this grid. Write each of the vectors in terms of a and/or b.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "ABCD is a quadrilateral. Show that BD = 9.22 cm, correct to 3 significant figures.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Calculate angle ABD.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Calculate the total area of the quadrilateral ABCD.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Calculate the length of the diagonal AC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Show that 4x^2 + 85x - 654 = 0.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Solve the equation 4x^2 + 85x - 654 = 0. You must show all your working.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Find the dimensions of the picture frame.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "f(x) = 5 - 2x, g(x) = 3x + 2. Find f(-3).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find f(g(4)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Solve \\frac{f(x)}{g(x)} = 2.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(iv)",
+      "question_text": "Find f^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(v)",
+      "question_text": "Find and simplify g(f(x)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(vi)",
+      "question_text": "Write as a single fraction in its simplest form: \\frac{3}{f(x)} + \\frac{2}{g(x)}",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "The function h(x) has an inverse function j(x). Write down, in its simplest form, j(h(x)).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -2 and 7.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Write down the co-ordinates of the local maximum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Write down the equation of each of the three asymptotes.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(d)(i)",
+      "question_text": "g(x) = x - 5. Solve the equation f(x) = g(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(d)(ii)",
+      "question_text": "Solve the inequality f(x) > g(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Complete the table for Pattern 5 and Pattern 6.",
+      "marks_available": "[5]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "The nth term of the sequence for the total number of hexagons is 3n^2 + pn + q. Find the value of p and the value of q.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    }
+  ]
+}

@@ -50,7 +50,11 @@
     },
     {
       "question_number": "2(b)",
+<<<<<<< HEAD
       "question_text": "The heights, h cm, of 50 different plants are shown in the table, where k is an integer. An estimate of the mean height of these plants is 27cm. Find the value of k.",
+=======
+      "question_text": "The heights, h cm, of 50 different plants are shown in the table, where k is an integer. An estimate of the mean height of these plants is 27 cm. Find the value of k.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "statistics"
     },
@@ -98,13 +102,21 @@
     },
     {
       "question_number": "4(c)(i)",
+<<<<<<< HEAD
       "question_text": "Samir invests $600 in a bank that pays compound interest at a rate of 5.1% each year. Find the value of Samir’s investment after 4 complete years.",
+=======
+      "question_text": "Samir invests $600 in a bank that pays compound interest at a rate of 5.1% each year. Find the value of Samir's investment after 4 complete years.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "topics in arithmetic"
     },
     {
       "question_number": "4(c)(ii)",
+<<<<<<< HEAD
       "question_text": "Find the number of complete years for the value of Samir’s investment to be first worth more than $1000.",
+=======
+      "question_text": "Find the number of complete years for the value of Samir's investment to be first worth more than $1000.",
+>>>>>>> auto_run_analysis
       "marks_available": "[4]",
       "topic": "topics in arithmetic"
     },
@@ -116,7 +128,11 @@
     },
     {
       "question_number": "4(d)(ii)",
+<<<<<<< HEAD
       "question_text": "They decide to change the ratio for all further earnings. Amir’s share of the earnings is increased by 20% of his original share. Bob’s share of the earnings is decreased by 20% of his original share. Show that the ratio of their earnings is now 9:10.",
+=======
+      "question_text": "They decide to change the ratio for all further earnings. Amir's share of the earnings is increased by 20% of his original share. Bob's share of the earnings is decreased by 20% of his original share. Show that the ratio of their earnings is now 9:10.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "topics in arithmetic"
     },
@@ -158,37 +174,63 @@
     },
     {
       "question_number": "6(a)",
+<<<<<<< HEAD
       "question_text": "On the diagram, sketch the graph of y = f(x), for values of x between -3 and 3.",
       "marks_available": "[3]",
       "topic": "functions"
+=======
+      "question_text": "On the diagram, sketch the graph of y = f(x), for values of x between -3 and 3, where f(x) = 2 - |1 - 0.5x²|.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "6(b)",
       "question_text": "The graph cuts the x-axis at points A and B. Work out the length AB.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "6(c)",
       "question_text": "Solve f(x) = 0.5.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "6(d)",
       "question_text": "Write down the coordinates of the minimum point of the graph.",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "6(e)",
       "question_text": "The equation f(x) = k has two solutions. Find the range of values of k.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
     },
     {
       "question_number": "7(a)(i)",
       "question_text": "Find the probability that the number on spinner A is 6.",
+=======
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Spinner A and spinner B are each fair 5-sided spinners. Spinner A is numbered 1, 2, 2, 3, 4. Spinner B is numbered 1, 2, 3, 4, 4. Find the probability that the number on spinner A is 6.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "probability"
     },
@@ -212,7 +254,11 @@
     },
     {
       "question_number": "7(b)(i)",
+<<<<<<< HEAD
       "question_text": "On the Venn diagram, shade A ∪ B.",
+=======
+      "question_text": "On the Venn diagram, shade A U B.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "sets and Venn diagrams"
     },
@@ -224,7 +270,11 @@
     },
     {
       "question_number": "7(b)(iii)",
+<<<<<<< HEAD
       "question_text": "The Venn diagram below shows the number of elements in each subset. Find n((A ∩ B) ∩ C').",
+=======
+      "question_text": "The Venn diagram shows the number of elements in each subset. Find n((A ∩ B) ∩ C').",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "sets and Venn diagrams"
     },
@@ -260,7 +310,11 @@
     },
     {
       "question_number": "9(a)",
+<<<<<<< HEAD
       "question_text": "Find the volume of the cone.",
+=======
+      "question_text": "The diagram shows a solid cone with base radius 40 cm and slant height 60 cm. Find the volume of the cone.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "mensuration"
     },
@@ -296,7 +350,11 @@
     },
     {
       "question_number": "10(b)",
+<<<<<<< HEAD
       "question_text": "w varies directly as the square root of (x + 1). w = 18 when x = 3. Find the value of √wy.",
+=======
+      "question_text": "w varies directly as the square root of (x + 1). w = 18 when x = 3. Find the value of w√y.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "variation and proportion"
     },

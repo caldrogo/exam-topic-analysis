@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Round these numbers to 3 significant figures. 0.00060483",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Round these numbers to 3 significant figures. 6998800",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "By rounding each number to 1 significant figure, estimate the value of (0.583 * 311.6) / (1.82 + 10.43). Show your working.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(i)",
+      "question_text": "a = 2^3 * 3 * 5^2, b = 2^2 * 3^2 * 7^6. Find, giving each answer as the product of prime factors, the highest common factor (HCF) of a and b,",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)(ii)",
+      "question_text": "a = 2^3 * 3 * 5^2, b = 2^2 * 3^2 * 7^6. Find, giving each answer as the product of prime factors, \\sqrt{b}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "ap is a cube number. Find the smallest integer value of p.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "The diagram shows a rectangle, two semicircles and two right-angled triangles. Find the total area of the shape. Give your answer in the form a + b\\pi.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Describe fully the symmetry of the shape.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Solve 5(x + 2) < 2(4x - 7)",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "François and George each ask a sample of students at their college how they travel to college. Explain why George’s results will give the better estimates of the probabilities of the different types of travel.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "A student is selected at random. Use George’s results to estimate the probability that the student cycles to college.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "There are 3000 students at the college. Use George’s results to estimate the number of students who cycle to college.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "The diagram shows the lines x = -2, y = (1/2)x + 1 and 3x + 4y = 20. Use simultaneous equations to find the co-ordinates of the point A.",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "P is a point in the region such that x < -2, y > (1/2)x + 1 and 3x + 4y < 20. On the diagram, mark and label a possible position of P.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Q is a point in the region such that x > -2, y = (1/2)x + 1 and 3x + 4y < 20. On the diagram, mark and label a possible position of Q.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "In the diagram, A, B, C, D and E are points on the circle. AD is a diameter and angle CAD = 35°. Find angle ACD,",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "In the diagram, A, B, C, D and E are points on the circle. AD is a diameter and angle CAD = 35°. Find angle CBD,",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "In the diagram, A, B, C, D and E are points on the circle. AD is a diameter and angle CAD = 35°. Find angle AEC.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "9",
+      "question_text": "The sets P, Q and R are subsets of the universal set U. P \\cap R \\neq \\emptyset, Q is a subset of R, Q \\cap P = \\emptyset. Complete the Venn diagram to show the sets P, Q, and R.",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Factorise x^2 - 3x - 10.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Make x the subject of y = \\sqrt[3]{x} / a.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Find \\log_5 (1/25).",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "Find x when \\log x - \\log 2 = \\log 6,",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Find x when \\log_x 4 = 1/2.",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "12",
+      "question_text": "The diagram shows a sketch of the graph of y = ax^2 + bx + c. The graph goes through the points (-3, 0), (0, -12) and (2, 0). Find the values a, b and c.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    }
+  ]
+}

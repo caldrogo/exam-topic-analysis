@@ -1,0 +1,340 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "What type of correlation is shown by the data?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the mean of the 10 ticket prices.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)(i)",
+      "question_text": "Find the equation of the regression line for y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)(ii)",
+      "question_text": "The stadium decides to sell some tickets at a price of $45. Use your answer to part (i) to estimate the number of tickets it will sell at this price.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Translate triangle A with vector \\begin{pmatrix} -3 \\\\ -5 \\end{pmatrix}. Label the image B.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Describe fully the single transformation that maps triangle B onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Rotate triangle A through 90° clockwise about (0, 0). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Reflect triangle A in the line y = x. Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Find the next term and the nth term in the sequence: 13, 18, 23, 28, 33, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Find the next term and the nth term in the sequence: -9, -6, -1, 6, 15, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find the next term and the nth term in the sequence: 1089, 2178, 3267, 4356, 5445, ...",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "Find the next term and the nth term in the sequence: 2, -4, 8, -16, 32, ...",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Calculate an estimate of the mean mark.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Complete the cumulative frequency table.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "On the grid, draw a cumulative frequency curve.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)(i)",
+      "question_text": "Use your curve in part (c) to find an estimate for the median mark.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(d)(ii)",
+      "question_text": "Use your curve in part (c) to find an estimate for the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "35% of the students pass the test. Use your curve in part (c) to find an estimate of the minimum mark needed to pass.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Find f(-2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Find h(g(-2)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Solve f(x) = 7.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Find f(g(x)).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Solve f(x) \\times g(x) + 2h(x) = 0.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(e)",
+      "question_text": "Find g^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "5(f)(i)",
+      "question_text": "On the diagram, sketch the graph of y = h(x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(f)(ii)",
+      "question_text": "Write down the equation of the line of symmetry of the graph of y = h(x).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(f)(iii)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(f)(iv)",
+      "question_text": "Solve g(x) > h(x).",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Find the total amount Piero has in Bank A at the end of 4 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Find the number of complete years it takes for the total amount that Piero has in Bank A to be greater than $10000.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Find the total amount Piero has in Bank B at the end of 4 years.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Find the number of complete years it takes for the total amount that Piero has in Bank B to be greater than $10000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "By sketching suitable graphs, find the number of complete years it takes for the total amount that Piero has in Bank B to be greater than the total amount in Bank A.",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Solve the simultaneous equations. You must show all your working. 7x + 2y = 8, 2x - 3y = 13",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Solve 3x - 4 = -19.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Solve 15 - 5x = 7 - 3x.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7(b)(iii)",
+      "question_text": "Solve \\frac{28}{x + 1} = -4.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "3 \\log p - \\log q - \\log 8 = 2 \\log x. Find x in terms of p and q.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Find the probability that spinner A stops on a number less than 4.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the probability that spinner B stops on 6.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Find the probability that spinner A and spinner B both stop on the same number.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Find the probability that one number is prime and one number is not prime.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "Find the probability that the sum of the numbers is a multiple of 3.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Find the perimeter of the quadrilateral CDFE.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Find the area of the quadrilateral CDFE.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Quadrilateral Q is similar to quadrilateral CDFE. The area of quadrilateral Q is 158 cm². Find the length of the shortest side of quadrilateral Q.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Calculate angle AFE.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Find the value of angle ABD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find the value of angle ACB.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(a)(iii)",
+      "question_text": "Find the value of angle ADB.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(a)(iv)",
+      "question_text": "Find the value of angle BAD.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(a)(v)",
+      "question_text": "Find the value of angle APB.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "The radius of the circle is 11 cm. Find the area of triangle ABD.",
+      "marks_available": "[5]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Using a suitable sketch, solve 5^x = 10.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Solve 6x - 1 = \\frac{5 + x}{2x + 3}. You must show all your working.",
+      "marks_available": "[5]",
+      "topic": "solving quadratic equations"
+    }
+  ]
+}

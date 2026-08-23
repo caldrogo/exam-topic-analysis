@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "She changes 8500 euros (€) to USA dollars ($). She receives $9520. Calculate the exchange rate.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "The aircraft leaves at 1035 local time and the flight takes 9 hours 30 minutes. The time in Atlanta is 6 hours behind the time in Paris. Find the local time in Atlanta when the aircraft lands.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "On the return flight the aircraft leaves Atlanta at 2308 local time and arrives in Paris the next day at 13 25 local time. The distance from Atlanta to Paris is 7072 km. Find the average speed for the flight from Atlanta to Paris.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Complete the scatter diagram. The first seven points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "What type of correlation is shown on the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Find the equation of the regression line. Give your answer in the form t = ax + b.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(d)",
+      "question_text": "Use your regression equation to estimate the time it would take a person aged 48 to do the task.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(e)",
+      "question_text": "Give a reason why you should not use the regression equation to estimate the time it would take a person aged 12 to do the task.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Sachin earns $63000 per year before paying tax. He pays tax on his earnings at a rate of 16%. Calculate the amount Sachin has after paying tax.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Britte has $60480 per year after paying tax at a rate of 16%. Calculate the amount that Britte earns before paying tax.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(c)(i)",
+      "question_text": "Sachin opens a savings account with $1500 on 1 January. The account pays 1.8% per year simple interest. Show that the amount in Sachin's account at the end of 3 years is $1581.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(c)(ii)",
+      "question_text": "Britte also opens a savings account on 1 January. The account pays 2% per year compound interest. Britte pays $500 into her account on 1 January every year. Find who has the greater amount in their account at the end of 3 years. Give the difference correct to the nearest cent.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Find the length of AB.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Find the equation of the perpendicular bisector of AB.",
+      "marks_available": "[5]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "C is a point on AB. C divides AB in the ratio 2 : 1. Find the coordinates of C.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "5(a)(i)",
+      "question_text": "Use the curve to estimate the median,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)(ii)",
+      "question_text": "Use the curve to estimate the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Use the curve to complete the frequency table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Write down the modal class.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Calculate an estimate for the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)(i)",
+      "question_text": "Simplify 5(2a + 3) - 3(a - 7)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(a)(ii)",
+      "question_text": "Simplify \\frac{2x}{3} - \\frac{x - 1}{2}",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Rearrange the formula \\( x = \\frac{ab + 3}{b - 2} \\) to make a the subject,",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Rearrange the formula \\( x = \\frac{ab + 3}{b - 2} \\) to make b the subject.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "6(c)(i)",
+      "question_text": "Solve \\( x^{12} = 1200 \\)",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(c)(ii)",
+      "question_text": "Solve \\( 1.2^x = 12 \\)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(c)(iii)",
+      "question_text": "Solve \\( |x + 3| = 7 \\)",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Solve by factorising \\( 6x^2 - 11x - 10 = 0 \\)",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "The diagram shows a sector of a circle with sector angle 60° and radius 10 cm. Calculate the area of the shaded segment.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "The diagram shows a circle with radius 10 cm and centre O. A and B are at opposite ends of a diameter. COD is an arc of a circle centre A. EOF is an arc of a circle centre B. Calculate the area of the shaded region.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Calculate the perimeter of the shaded region.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Use set notation to describe the shaded regions.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "U = {Integers 3 <= x <= 15}, A = {Multiples of 3}, B = {Integers 6 <= x <= 12}, C = {Factors of 24}. Write all the elements of U in the correct parts of the Venn diagram.",
+      "marks_available": "[3]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "List the members of the set A \\cap B \\cap C'.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(iii)",
+      "question_text": "List the members of the set (A \\cup C)' \\cap B.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "8(b)(iv)",
+      "question_text": "Find n((B \\cup C) \\cap A').",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Complete the table.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Find the probability that one of these people chosen at random has blue eyes.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Two of these people are chosen at random. Find the probability that they are both left-handed.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(d)",
+      "question_text": "Two of the left-handed people are chosen at random. Find the probability that they both have brown eyes.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(e)",
+      "question_text": "Two of the people with blue eyes are chosen at random. Find the probability that one is right-handed and the other is left-handed.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Triangle ABC is the cross-section of a prism of length 15 cm. AB = 5 cm, AC = 8 cm and BC = 11 cm. Show that the area of triangle ABC = 18.33 cm^2 correct to 2 decimal places.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find the volume of the prism.",
+      "marks_available": "[1]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find the total surface area of the prism.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "A mathematically similar prism has a volume of 500 cm^3. Calculate the total surface area of this similar prism. Give your answer correct to 2 significant figures.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Sketch the graph of y = f(x) for values of x between -5 and 5, where f(x) = x + \\frac{5}{(x - 2)(x + 3)}.",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Write down the equations of the asymptotes parallel to the y-axis.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Find the coordinates of the local maximum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Find the coordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(c)(iii)",
+      "question_text": "Write down the range of values of k for which f(x) = k has exactly one solution.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(d)(i)",
+      "question_text": "g(x) = -4 - x. Solve the equation f(x) = g(x).",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(d)(ii)",
+      "question_text": "Find the solutions to the inequality f(x) > g(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "P = 2n + 1 where n is a positive integer. Show that P^2 is always an odd number.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(b)(i)",
+      "question_text": "P and Q are consecutive odd numbers where Q > P. Write down an expression for Q, in terms of n.",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(b)(ii)",
+      "question_text": "Show that Q^2 - P^2 is always a multiple of 8.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    }
+  ]
+}

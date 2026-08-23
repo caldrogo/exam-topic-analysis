@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out -7 × -5",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Find the value of x.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "3",
+      "question_text": "A bag contains 8 blue balls, 3 red balls and 4 green balls only. One ball is chosen at random. Find the probability that this ball is red. Give your answer as a fraction in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Write 3^{-2} as a fraction.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Solve 6x - 5 = 19",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Find the lowest common multiple (LCM) of 12 and 15.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Find the size of one exterior angle of a regular octagon.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "8",
+      "question_text": "The point A has co-ordinates (1, 9). The point B has co-ordinates (4, 5). Find the length of AB.",
+      "marks_available": "[2]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Simplify (5x^4y^3)^2",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "10",
+      "question_text": "List the integer values of x for which -4 ≤ 2x < 6.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Simplify √32 - √72 + √50",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Find the next term and an expression for the nth term of the following sequence. -9, -3, 7, 21, 39, …",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "13",
+      "question_text": "The bearing of point B from point A is 234°. Work out the bearing of point A from point B.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "14",
+      "question_text": "Solve the simultaneous equations. 3x + 2y = 4, 2x - 3y = 7",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Factorise 4x^2 - 7x - 2",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "16",
+      "question_text": "A bag contains 4 red balls and 5 blue balls only. Two balls are chosen at random without replacement. Find the probability that the two balls chosen are different colours.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "17",
+      "question_text": "Rationalise the denominator, giving your answer in its simplest form. \\frac{5 + \\sqrt{3}}{5 - \\sqrt{3}}",
+      "marks_available": "[3]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "18",
+      "question_text": "The surface area of a sphere with radius r is equal to the curved surface area of a cone with radius r and height h. Show that h = r\\sqrt{k}, where k is a constant.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    }
+  ]
+}

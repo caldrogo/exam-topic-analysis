@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Write 84% as a fraction in its lowest terms.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out (1 - 0.8)^2.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Find the value of x^2 - x when x = -3.",
+      "marks_available": "[1]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4",
+      "question_text": "A quadrilateral has all sides equal and exactly two lines of symmetry. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Find the value of x.",
+      "marks_available": "[1]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "6",
+      "question_text": "On the Venn diagram, shade A U B.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Find the size of one interior angle of a regular polygon with 20 sides.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Find the value of |-4| + 4.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9",
+      "question_text": "A van has length 9 m. It takes 1 second for the van to completely pass a gate of length 1 m. Find the speed of the van. Give your answer in km/h.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The faces of a die are numbered 1, 1, 2, 3, 3 and 4. When it is rolled it is equally likely to show any face. The die is rolled twice. Find the probability that it shows an odd number both times.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Here are the first five terms of a sequence. 1/4, 1, 4, 16, 64. Find the next term.",
+      "marks_available": "[1]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Here are the first five terms of a sequence. 1/4, 1, 4, 16, 64. Find the nth term.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Factorise. 1 + a - c - ac",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "The diagram shows two similar triangles, ABC and PQR. Find the length of PR.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "The triangles are the cross-sections of mathematically similar prisms. The volume of the larger prism is 500 cm^3. Find the volume of the smaller prism.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "14",
+      "question_text": "A = P(1 + x)^3. Rearrange the formula to write x in terms of A and P.",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "15",
+      "question_text": "Points Q, R, S and T lie on the circle. AB is a tangent to the circle at T. Angle RTB = 70 degrees. Find angle RQT.",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "16",
+      "question_text": "p varies inversely as the square root of q. When q = 9, p = 12. Find p when q = 16.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "17",
+      "question_text": "Simplify by rationalising the denominator. 3 / (2\\sqrt{2} - 1)",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "18",
+      "question_text": "The diagram shows the graph of y = |ax + b|, where a > 0. Find the value of a and the value of b.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "19",
+      "question_text": "Write as a single fraction in its simplest form. 3 / (x - 2) - 2",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "20",
+      "question_text": "2 log p = 3 log x - log y. Find p in terms of x and y.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out (0.3)^2.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find n when 5/6 = n/24.",
+      "marks_available": "[1]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "Find the value of 25^0",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "Find the value of 100^{3/2}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Write as a single power of 5: 5^{12} / (5^3 \\times 5^2)",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Find the magnitude of \\begin{pmatrix} -6 \\\\ 4 \\end{pmatrix}. Write your answer in surd form as simply as possible.",
+      "marks_available": "[3]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Complete the table below to show the relative frequencies of their results. Write your answers as decimals.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Whose result gives the best estimate of the probability of throwing a six with the biased die? Give a reason for your answer.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "The probability of throwing a six with a different biased die is 0.41. Find the expected number of sixes when this die is thrown 600 times.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "A is the point (2, 8) and B is the point (6, 0). Find the co-ordinates of the midpoint of AB.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "A is the point (2, 8) and B is the point (6, 0). Find the gradient of AB.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Simplify (5 + \\sqrt{3})^2.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Solve: 2x + 3 \\leqslant 4(x - 2)",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "8",
+      "question_text": "The diagram shows a shape made from a cylinder and a cone. The cylinder and cone have a common radius of 6 m. The height of the cylinder is 10 m and the height of the cone is 3 m. Calculate the total volume of the shape. Leave your answer as a multiple of \\pi.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Solve these simultaneous equations: 5x + 2y = 11, 4x - 3y = 18",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Solve the following equation: \\log x + \\log 3 = \\log 12",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Solve the following equation: \\log x = 3",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Solve the following equation: 2\\log x - \\log 5 = \\log 20",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "A, B, C and D are points on the circle, centre O. PQ is a tangent to the circle at the point C. Angle PCD = 55° and angle ADO = 40°. Find angle COD,",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "A, B, C and D are points on the circle, centre O. PQ is a tangent to the circle at the point C. Angle PCD = 55° and angle ADO = 40°. Find angle DAC,",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "A, B, C and D are points on the circle, centre O. PQ is a tangent to the circle at the point C. Angle PCD = 55° and angle ADO = 40°. Find angle ABC.",
+      "marks_available": "[1]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "12",
+      "question_text": "These are sketches of the graphs of six functions. Write the correct letter in the table to match each function with its graph: f(x) = 2x - 3, f(x) = (x - 2)^2, f(x) = 4x - x^3, f(x) = 5 - 2x",
+      "marks_available": "[4]",
+      "topic": "graphing functions"
+    }
+  ]
+}

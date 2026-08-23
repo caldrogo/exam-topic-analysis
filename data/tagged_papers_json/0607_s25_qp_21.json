@@ -4,13 +4,21 @@
       "question_number": "1(a)",
       "question_text": "This is a list of numbers. 3.142, \\sqrt{125}, 125, 81, 7\\frac{2}{3}. From this list write down a cube number",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "exponents and surds"
+=======
+      "topic": "topics in arithmetic"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "1(b)",
       "question_text": "This is a list of numbers. 3.142, \\sqrt{125}, 125, 81, 7\\frac{2}{3}. From this list write down an irrational number.",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "exponents and surds"
+=======
+      "topic": "topics in arithmetic"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "2(a)",
@@ -80,13 +88,21 @@
     },
     {
       "question_number": "9(a)",
+<<<<<<< HEAD
       "question_text": "Factorise. 4x^2y^3 - 6xy^4",
+=======
+      "question_text": "Factorise 4x^2y^3 - 6xy^4",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "expanding and factorising"
     },
     {
       "question_number": "9(b)",
+<<<<<<< HEAD
       "question_text": "Factorise. 18p^2 - 2",
+=======
+      "question_text": "Factorise 18p^2 - 2",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "expanding and factorising"
     },
@@ -98,7 +114,11 @@
     },
     {
       "question_number": "11",
+<<<<<<< HEAD
       "question_text": "Solve. 7 - 3x > 2x - 8",
+=======
+      "question_text": "Solve 7 - 3x > 2x - 8",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "inequalities"
     },
@@ -140,7 +160,11 @@
     },
     {
       "question_number": "15",
+<<<<<<< HEAD
       "question_text": "Solve. 2x^2 - 5x - 3 = 0",
+=======
+      "question_text": "Solve 2x^2 - 5x - 3 = 0",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "solving quadratic equations"
     },
@@ -158,7 +182,11 @@
     },
     {
       "question_number": "17(b)",
+<<<<<<< HEAD
       "question_text": "The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the number of plants greater than 20 cm in height.",
+=======
+      "question_text": "The cumulative frequency diagram shows the heights of 120 plants. Use the cumulative frequency diagram to estimate the number of plants greater than 20cm in height.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "statistics"
     },
@@ -188,7 +216,11 @@
     },
     {
       "question_number": "19",
+<<<<<<< HEAD
       "question_text": "Expand and simplify. (x - 4)(2x + 1)(x + 2)",
+=======
+      "question_text": "Expand and simplify (x - 4)(2x + 1)(x + 2)",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "expanding and factorising"
     },
@@ -218,13 +250,21 @@
     },
     {
       "question_number": "22(a)",
+<<<<<<< HEAD
       "question_text": "Simplify. \\sqrt{120} \\times \\sqrt{27}",
+=======
+      "question_text": "Simplify \\sqrt{120} \\times \\sqrt{27}",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "exponents and surds"
     },
     {
       "question_number": "22(b)",
+<<<<<<< HEAD
       "question_text": "Simplify. \\frac{1}{5 - 2\\sqrt{3}}",
+=======
+      "question_text": "Simplify \\frac{1}{5 - 2\\sqrt{3}}",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "exponents and surds"
     }

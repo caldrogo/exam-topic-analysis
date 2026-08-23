@@ -44,7 +44,11 @@
     },
     {
       "question_number": "6",
+<<<<<<< HEAD
       "question_text": "Find the value of p when 2^6 \\div 4^p = 2^7.",
+=======
+      "question_text": "Find the value of p when 2^6 / 4^p = 2^7.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "exponents and surds"
     },
@@ -92,27 +96,45 @@
     },
     {
       "question_number": "11",
+<<<<<<< HEAD
       "question_text": "Find the next term and an expression for the nth term of this sequence: 35, 29, 19, 5, ...",
+=======
+      "question_text": "Find the next term and an expression for the nth term of this sequence: 35, 29, 19, 5, …",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "sequences"
     },
     {
       "question_number": "12",
+<<<<<<< HEAD
       "question_text": "Rearrange this formula to make x the subject: y = (a - x) / (3x).",
+=======
+      "question_text": "Rearrange this formula to make x the subject: y = (a - x) / 3x",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "solving linear equations"
     },
     {
       "question_number": "13",
+<<<<<<< HEAD
       "question_text": "Rationalise the denominator and simplify: 2 / (\\sqrt{5} + 1).",
+=======
+      "question_text": "Rationalise the denominator and simplify: 2 / (\\sqrt{5} + 1)",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "exponents and surds"
     },
     {
       "question_number": "14",
+<<<<<<< HEAD
       "question_text": "Write as a single fraction in its simplest form: (3a) / (a + 4) - (a - 1) / (2a).",
       "marks_available": "[3]",
       "topic": "expanding and factorising"
+=======
+      "question_text": "Write as a single fraction in its simplest form: 3a / (a + 4) - (a - 1) / 2a",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+>>>>>>> auto_run_analysis
     }
   ]
 }

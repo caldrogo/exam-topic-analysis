@@ -1,0 +1,352 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Find the range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Find the mode.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(d)",
+      "question_text": "Find the upper quartile.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(e)",
+      "question_text": "Find the inter-quartile range.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(f)",
+      "question_text": "Find the mean.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "Increase 4.5 kg by 16%.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the percentage profit when the cost price of a book is $8.50 and the selling price is $11.05.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "The price of a loaf of bread increases by $0.06. This is a 5% increase. Find the original price of this loaf of bread.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "Write down the range of f(x) for -3 <= x <= 0.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "On the same diagram, sketch the graph of y = x^2 for -2 <= x <= 2.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(d)(i)",
+      "question_text": "Solve the equation 1 / (1 - x^3) = x^2.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(d)(ii)",
+      "question_text": "The equation 1 / (1 - x^3) = x^2 can be written in the form x^u - x^w + 1 = 0. Find the value of u and the value of w.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "Describe fully the single transformation that maps triangle T onto triangle C.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Stretch triangle T by a factor of 2 with the y-axis invariant.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Find the value at the end of 4 years. Give your answer correct to the nearest dollar.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the value at the start of 2017.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Find the number of complete years it takes for the value of $2025 to decrease to a value less than $500.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Abi rolls the die. Write down the probability that it shows the number 3 on the top.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "Beatrice rolls the die and spins the coin. Find the probability that the die shows the number 2 on the top and the coin shows heads.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "Find the probability that the die shows the number 2 on the top or the coin shows heads or both.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Carl spins the coin 3 times. Find the probability that the coin shows heads at least once.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(d)",
+      "question_text": "Drew rolls the die 3 times and records the numbers on the top. Find the probability that the die shows each of the numbers, 1, 2 and 3, once.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(e)",
+      "question_text": "Eva spins the coin n times. The probability that the coin shows tails each time is 1/64. Find the value of n.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6(f)",
+      "question_text": "Frank rolls the die twice and records the two numbers. The probability of these two numbers occurring is 1/3. Find these two numbers.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Calculate the distance AC and show that your answer rounds to 19.08 km, correct to 2 decimal places.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Using the sine rule, calculate angle ACB and show that your answer rounds to 27.0°, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "Calculate the bearing of D from C.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(d)",
+      "question_text": "A straight path, BP, connects B to the closest point, P, on AC. Calculate the length of this path.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "7(e)",
+      "question_text": "The area within triangle ABC is grassland. Calculate the area of this grassland.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "Complete the cumulative frequency curve.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Use your curve to find the inter-quartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Use your curve to estimate the number of people who walked further than 3500 m.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Complete the frequency table.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Calculate an estimate of the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Lionel runs 10.6 km in 94 minutes. Calculate his average speed in km/h.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Monika walks 2 km at a speed of 4 km/h and then 3 km at a speed of 3 km/h. Calculate Monika's overall average speed.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "A train is travelling at v metres per second. Find an expression, in terms of v, for the speed of the train in kilometres per hour. Give your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(d)(i)",
+      "question_text": "A car travels 50 km at x km/h and then 80 km at (x + 10) km/h. Find an expression, in terms of x, for the total time taken, T hours. Give your answer as a single fraction, in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "9(d)(ii)",
+      "question_text": "When T = 2, show that x^2 - 55x - 250 = 0.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "9(d)(iii)",
+      "question_text": "When T = 2, find the value of x.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "10(a)(i)",
+      "question_text": "Find f(-2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(a)(ii)",
+      "question_text": "Find g(1/2).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find g(f(1)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find x when h(x) = 1/8.",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Find j(81).",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "10(e)",
+      "question_text": "Find f(f(x)) in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(f)",
+      "question_text": "Find f(x) * f(x) + f(x) + 1 in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(g)",
+      "question_text": "Find j^(-1)(x).",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for 0 <= x <= 180.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Write down the amplitude and the period of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "Solve the inequality f(x) < -1.5 for 0 <= x <= 180.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "11(d)(i)",
+      "question_text": "On the same diagram, sketch the graph of y = g(x) for 0 <= x <= 180.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(d)(ii)",
+      "question_text": "On the diagram, shade the regions where f(x) >= g(x).",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "11(d)(iii)",
+      "question_text": "Describe fully the single transformation that maps the graph of y = g(x) onto the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    }
+  ]
+}

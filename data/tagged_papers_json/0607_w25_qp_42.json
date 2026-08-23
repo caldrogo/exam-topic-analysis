@@ -1,0 +1,190 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "By writing each number correct to 1 significant figure, find an estimate for \\frac{44.9}{\\sqrt{140}} - \\frac{2.09^2}{3.7 - 1.85}. You must show your working.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Calculate \\frac{44.9}{\\sqrt{140}} - \\frac{2.09^2}{3.7 - 1.85}.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "One of these students is chosen at random. Find the probability that this student scored more than 90 marks.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Write down the group that contains the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "Calculate an estimate for the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Simplify 3x - 4y + x - 5y.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4",
+      "question_text": "The interior angles of a quadrilateral are 67°, 112°, x° and (x - 7)°. Find the value of x.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Calculate the area of a circle which has a diameter of 6.4 cm.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Share 630 in the ratio 5 : 7.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Factorise 3ax + 4by - 3ay - 4bx.",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "8(a)(i)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -4 and 4, where f(x) = \\frac{1}{(2x - 1)(x + 1)} - 1.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(a)(ii)",
+      "question_text": "Write down the x-intercepts.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(a)(iii)",
+      "question_text": "Write down the equations of the asymptotes parallel to the y-axis.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "On the diagram, sketch the graph of y = g(x) for values of x between -4 and 4, where g(x) = 0.5(x + 1).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Solve the inequality f(x) \\ge g(x).",
+      "marks_available": "[3]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "9",
+      "question_text": "A bag contains 5 black balls and 7 white balls. One ball is chosen at random and not replaced. A second ball is then chosen at random. Find the probability that both balls are black.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find the equation of the regression line for y in terms of x using the given table of French and Spanish marks.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Use your equation to estimate the Spanish mark when the French mark is 5.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Is your answer to part (b) likely to be a reliable estimate of the Spanish mark? Give a reason for your answer.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Angle ABC = 90° and angle BAC = 65°. Given AB = 8 cm, calculate BC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12",
+      "question_text": "Solve \\frac{2x - 5}{3} - \\frac{5}{6} = \\frac{1 - 4x}{2}.",
+      "marks_available": "[4]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Factorise 3x(2x - y)^2 + 4(2x - y)^3.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "ABC and ADC are triangles. AD = 12.3 cm and CD = 9.8 cm. Angle ABC = 47°, angle ADC = 82° and angle BAD = 12°. Find AC.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Show that angle DAC = 41.6°, correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "14(c)",
+      "question_text": "Given BC = 16.1 cm, find the area of the shaded quadrilateral ABCD.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "15(a)(i)",
+      "question_text": "At the end of 5 years, the value of Erik's investment at 7.5% compound interest each year is $11 485. Show that x = 8000 correct to the nearest dollar.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "15(a)(ii)",
+      "question_text": "Find the number of complete years it takes for the total value of his investment of $8000 to be first greater than $16 000.",
+      "marks_available": "[4]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "15(b)",
+      "question_text": "The compound interest rate of 7.5% each year is equivalent to a compound interest rate of y% each month. Find the value of y.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "16",
+      "question_text": "A spinner has 24 equal sections. Each section is coloured red or blue. There are x red sections and all other sections are blue. The spinner is spun twice and the probability that the spinner lands on blue exactly once is \\frac{4}{9}. Find the possible values of x.",
+      "marks_available": "[5]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "17(a)",
+      "question_text": "A solid cone has base radius r and vertical height 3r. The total surface area of the cone is 209.22 cm². Find r.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "17(b)",
+      "question_text": "A mathematically similar cone has a total surface area of 1882.98 cm². Find the radius of this cone.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    }
+  ]
+}

@@ -14,13 +14,21 @@
     },
     {
       "question_number": "3(a)",
+<<<<<<< HEAD
       "question_text": "Write each number in standard form. (a) 28010",
+=======
+      "question_text": "Write each number in standard form: 28010",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },
     {
       "question_number": "3(b)",
+<<<<<<< HEAD
       "question_text": "Write each number in standard form. (b) 0.100209",
+=======
+      "question_text": "Write each number in standard form: 0.100209",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },

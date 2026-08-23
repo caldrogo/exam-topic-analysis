@@ -32,7 +32,11 @@
     },
     {
       "question_number": "1(b)",
+<<<<<<< HEAD
       "question_text": "This table shows the numbers of letters delivered to the houses in another street one day. Number of letters 0 1 2 3 4 5 6 Frequency 18 31 27 18 n 12 5 The mean number of letters delivered in this street is 2.28. Find the value of n.",
+=======
+      "question_text": "This table shows the numbers of letters delivered to the houses in another street one day. Number of letters: 0, 1, 2, 3, 4, 5, 6. Frequency: 18, 31, 27, 18, n, 12, 5. The mean number of letters delivered in this street is 2.28. Find the value of n.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "statistics"
     },
@@ -62,31 +66,51 @@
     },
     {
       "question_number": "3(a)(i)",
+<<<<<<< HEAD
       "question_text": "Write down the probability that the die shows a number less than 5",
+=======
+      "question_text": "Noora throws a fair 6-sided die numbered from 1 to 6. Write down the probability that the die shows a number less than 5",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "probability"
     },
     {
       "question_number": "3(a)(ii)",
+<<<<<<< HEAD
       "question_text": "Write down the probability that the die shows an even number.",
+=======
+      "question_text": "Noora throws a fair 6-sided die numbered from 1 to 6. Write down the probability that the die shows an even number.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "probability"
     },
     {
       "question_number": "3(b)(i)",
+<<<<<<< HEAD
       "question_text": "Find the probability that both dice show a 6",
+=======
+      "question_text": "Dilshan has two fair 6-sided dice each numbered from 1 to 6. He throws both dice. Find the probability that both dice show a 6",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "probability"
     },
     {
       "question_number": "3(b)(ii)",
+<<<<<<< HEAD
       "question_text": "Find the probability that at least one die does not show a 6.",
+=======
+      "question_text": "Dilshan has two fair 6-sided dice each numbered from 1 to 6. He throws both dice. Find the probability that at least one die does not show a 6.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "probability"
     },
     {
       "question_number": "3(c)(i)",
+<<<<<<< HEAD
       "question_text": "Complete this tree diagram.",
+=======
+      "question_text": "The probability that it rains on Wednesday is 0.48. If it rains, the probability that Hannah cycles to work is 0.28. If it does not rain, the probability that Hannah cycles to work is 0.84. Complete this tree diagram.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "probability"
     },
@@ -98,7 +122,11 @@
     },
     {
       "question_number": "4(a)",
+<<<<<<< HEAD
       "question_text": "Find the gradient and the y-intercept of line L.",
+=======
+      "question_text": "Line L has equation 3y + 2x = 8. Find the gradient and the y-intercept of line L.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "straight lines"
     },
@@ -116,33 +144,55 @@
     },
     {
       "question_number": "5(a)",
+<<<<<<< HEAD
       "question_text": "On the diagram, sketch the graph of y = f(x).",
       "marks_available": "[2]",
       "topic": "functions"
+=======
+      "question_text": "f(x) = 5 + 2x - 4x^2 - x^3 for -5 <= x <= 2. On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "5(b)",
       "question_text": "Find the zeros of f(x).",
       "marks_available": "[3]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "5(c)",
       "question_text": "Write down the coordinates of the local minimum.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "5(d)",
       "question_text": "The point (a, b) lies on the graph of y = f(x) where the gradient is positive. Find the range of values for a.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "5(e)",
       "question_text": "The equation 5 + 2x - 4x^2 - x^3 = k has exactly one solution. Write down a possible value of the integer k.",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "6(a)(i)",
@@ -176,7 +226,11 @@
     },
     {
       "question_number": "7(a)",
+<<<<<<< HEAD
       "question_text": "Show that the diameter of each semicircle is 4.14 cm, correct to 3 significant figures.",
+=======
+      "question_text": "The diagram shows a logo made from an isosceles triangle and two semicircles. The perimeter of the logo is 37 cm. Show that the diameter of each semicircle is 4.14 cm, correct to 3 significant figures.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "mensuration"
     },
@@ -200,7 +254,11 @@
     },
     {
       "question_number": "8(a)",
+<<<<<<< HEAD
       "question_text": "Show that the perpendicular height of the pyramid is 0.628 cm, correct to 3 significant figures.",
+=======
+      "question_text": "The diagram shows a square-based pyramid. The side of the base of the pyramid is 0.7 cm. The length of each sloping edge is 0.8 cm. Show that the perpendicular height of the pyramid is 0.628 cm, correct to 3 significant figures.",
+>>>>>>> auto_run_analysis
       "marks_available": "[4]",
       "topic": "Pythagoras"
     },
@@ -224,7 +282,11 @@
     },
     {
       "question_number": "9(b)",
+<<<<<<< HEAD
       "question_text": "Factorise completely. 6x^3 y^2 - 3x^2 y^3",
+=======
+      "question_text": "Factorise completely. 6x^3y^2 - 3x^2y^3",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "expanding and factorising"
     },
@@ -242,7 +304,11 @@
     },
     {
       "question_number": "10(a)",
+<<<<<<< HEAD
       "question_text": "Find f(3).",
+=======
+      "question_text": "f(x) = 5 - (1/2)x, g(x) = 3(x + 1), h(x) = sin x° for 0 <= x <= 180. Find f(3).",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "functions"
     },
@@ -274,11 +340,19 @@
       "question_number": "10(f)",
       "question_text": "Using a graphical method, solve h(g(x)) = 1 - 0.01x.",
       "marks_available": "[5]",
+<<<<<<< HEAD
       "topic": "functions"
     },
     {
       "question_number": "11(a)",
       "question_text": "Show that angle ABC = 80.6°, correct to 1 decimal place.",
+=======
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "A, B, and C are three ports. The bearing of B from A is 040°. Show that angle ABC = 80.6°, correct to 1 decimal place.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "trigonometry"
     },
@@ -286,7 +360,11 @@
       "question_number": "11(b)",
       "question_text": "Find the bearing of B from C.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "trigonometry"
+=======
+      "topic": "angles"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "11(c)",

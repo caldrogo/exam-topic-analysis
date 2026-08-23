@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "question_number": "1",
+      "question_text": "Work out 1.1 - 0.2^2.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Work out \\frac{3}{4} - \\frac{1}{6}.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "A quadrilateral has rotational symmetry of order 2 and no lines of symmetry. Write down the mathematical name of this quadrilateral.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Simplify fully: 3a - 6b - 2a + b",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Simplify fully: 7(x - 3) - 2(2x - 1)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5",
+      "question_text": "One week a shop sells 120 jars of ketchup. The table shows the number of jars of each size sold. Size: Small (20), Medium (70), Large (30). Show this information in a pie chart.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "p = 5 \\times 10^{-8}, q = 6.8 \\times 10^{-7}. Find, giving your answer in standard form, pq.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "p = 5 \\times 10^{-8}, q = 6.8 \\times 10^{-7}. Find, giving your answer in standard form, p + q.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7",
+      "question_text": "a, b and c are prime numbers. V = a^2 b^4 c^3, W = a^5 b^3 c. Find the lowest common multiple (LCM) of V and W in terms of a, b and c.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Jasmine drives a distance of a km at a speed of 50 km/h. She then drives a distance of b km at a speed of 60 km/h. She takes a total time of T hours for this journey. Find a formula for T in terms of a and b.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9",
+      "question_text": "In each Venn diagram, shade the given set: A \\cup B and (P \\cap Q)'",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "The cumulative frequency curve shows the heights of 120 young trees. Find the median.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "The cumulative frequency curve shows the heights of 120 young trees. Find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Factorise completely: 48x^2 - 75y^2",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12",
+      "question_text": "y is inversely proportional to the square root of x. v is directly proportional to y^2. When x = 9, y = 2 and v = 12. Find v in terms of x. Give your answer in its simplest form.",
+      "marks_available": "[4]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Find the value of 4 \\log 2 + 2 \\log 5 - \\log 4.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14",
+      "question_text": "The diagram shows 15 circles in an equilateral triangle. The circles touch each other and the triangle. The radius of each circle is 2.5 cm. The length of each side of the triangle is (a + b\\sqrt{3}) cm where a and b are integers. Find the value of a and the value of b.",
+      "marks_available": "[5]",
+      "topic": "trigonometry"
+    }
+  ]
+}

@@ -2,13 +2,21 @@
   "questions": [
     {
       "question_number": "1(a)",
+<<<<<<< HEAD
       "question_text": "The volume of a triangular prism is 476 cm3. The base of the triangle is 8 cm and the perpendicular height is 7 cm. Calculate the length of the prism.",
+=======
+      "question_text": "The volume of a triangular prism is 476 cm^3. The base of the triangle is 8 cm and the perpendicular height is 7 cm. Calculate the length of the prism.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "mensuration"
     },
     {
       "question_number": "1(b)(i)",
+<<<<<<< HEAD
       "question_text": "The volume of a solid steel cube is 8000 cm3. The mass of 1 cm3 of the steel is 7.86 g. Calculate the mass of the cube. Give your answer in kilograms.",
+=======
+      "question_text": "The volume of a solid steel cube is 8000 cm^3. The mass of 1 cm^3 of the steel is 7.86 g. Calculate the mass of the cube. Give your answer in kilograms.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },
@@ -32,7 +40,11 @@
     },
     {
       "question_number": "2(b)(i)",
+<<<<<<< HEAD
       "question_text": "He spends 21% of his $240 on the set of books. Calculate the cost of the set of books.",
+=======
+      "question_text": "Yuri uses some of his money to buy a set of books and a concert ticket. He spends 21% of his $240 on the set of books. Calculate the cost of the set of books.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "topics in arithmetic"
     },
@@ -56,26 +68,41 @@
     },
     {
       "question_number": "3(a)(i)",
+<<<<<<< HEAD
       "question_text": "Find the height of the stone when x = 7.",
       "marks_available": "[1]",
       "topic": "functions"
+=======
+      "question_text": "Vic throws a stone from point O. The stone travels through the air and lands at point G. The sketch graph shows the path of the stone. The equation of the path of the stone is y = x - x^2/10. Draw this graph on your calculator to answer the following questions. Find the height of the stone when x = 7.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "3(a)(ii)",
       "question_text": "Find the maximum height of the stone.",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "3(a)(iii)",
       "question_text": "Find the distance OG.",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "3(a)(iv)",
       "question_text": "There are two points in the path of the stone where its height is 2 m. Find the horizontal distance between these two points.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
     },
     {
@@ -83,17 +110,31 @@
       "question_text": "On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
       "marks_available": "[3]",
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "f(x) = 2^x - 1/x, x != 0. On the diagram, sketch the graph of y = f(x) for values of x between -3 and 3.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "3(b)(ii)",
       "question_text": "Write down the equation of each asymptote.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "3(b)(iii)",
       "question_text": "f(x) = k has two solutions. Find the range of values of k.",
       "marks_available": "[1]",
+<<<<<<< HEAD
       "topic": "functions"
     },
     {
@@ -101,22 +142,43 @@
       "question_text": "On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",
       "marks_available": "[2]",
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "3(b)(iv)(a)",
+      "question_text": "g(x) = 3 - x. On the diagram, sketch the graph of y = g(x) for values of x between -3 and 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "3(b)(iv)(b)",
       "question_text": "Solve the equation f(x) = 3 - x.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
     },
     {
       "question_number": "4(a)",
       "question_text": "Erin rolls a biased die a number of times. The table shows the results. The mean score is 3.75. Find the value of x.",
+=======
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Erin rolls a biased die a number of times. The table shows the results. Score 1, 2, 3, 4, 5, 6 with frequencies 6, 6, 3, 6, x, 4. The mean score is 3.75. Find the value of x.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "statistics"
     },
     {
       "question_number": "4(b)(i)",
+<<<<<<< HEAD
       "question_text": "Calculate an estimate of the mean.",
+=======
+      "question_text": "70 students each record the time taken to complete their mathematics homework. The table shows the results. Calculate an estimate of the mean.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "statistics"
     },
@@ -133,13 +195,21 @@
       "topic": "statistics"
     },
     {
+<<<<<<< HEAD
       "question_number": "4(c)",
+=======
+      "question_number": "4(b)(ii)(c)",
+>>>>>>> auto_run_analysis
       "question_text": "Use your curve to estimate the median.",
       "marks_available": "[1]",
       "topic": "statistics"
     },
     {
+<<<<<<< HEAD
       "question_number": "4(d)",
+=======
+      "question_number": "4(b)(ii)(d)",
+>>>>>>> auto_run_analysis
       "question_text": "Use your curve to estimate the number of students who took more than 13 minutes to complete their mathematics homework.",
       "marks_available": "[2]",
       "topic": "statistics"
@@ -164,7 +234,11 @@
     },
     {
       "question_number": "6(a)",
+<<<<<<< HEAD
       "question_text": "Calculate the number of complete years it took for Xavier's annual pay to be 30% greater than his annual pay in 2000.",
+=======
+      "question_text": "Xavier started a new job in 2000. His annual pay increases each year by 2.5% of his pay in the previous year. Calculate the number of complete years it took for Xavier's annual pay to be 30% greater than his annual pay in 2000.",
+>>>>>>> auto_run_analysis
       "marks_available": "[4]",
       "topic": "topics in arithmetic"
     },
@@ -212,13 +286,21 @@
     },
     {
       "question_number": "8(b)(i)",
+<<<<<<< HEAD
       "question_text": "P is the point (-3, 2). The vector from P to Q is (5 / -7). Find the coordinates of Q.",
+=======
+      "question_text": "P is the point (-3, 2). The vector from P to Q is (5, -7). Find the coordinates of Q.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "vectors"
     },
     {
       "question_number": "8(b)(ii)",
+<<<<<<< HEAD
       "question_text": "Find the magnitude of the vector (5 / -7).",
+=======
+      "question_text": "Find the magnitude of the vector (5, -7).",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "vectors"
     },
@@ -230,7 +312,11 @@
     },
     {
       "question_number": "9(a)(i)",
+<<<<<<< HEAD
       "question_text": "Find f(-5).",
+=======
+      "question_text": "f(x) = 3 + 2x, g(x) = x^2 + 1, h(x) = x^5. Find f(-5).",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "functions"
     },
@@ -260,7 +346,11 @@
     },
     {
       "question_number": "9(b)(i)",
+<<<<<<< HEAD
       "question_text": "Find x when j(x) = 3.",
+=======
+      "question_text": "j(x) = log(2x), x > 0. Find x when j(x) = 3.",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "logarithms"
     },
@@ -278,7 +368,11 @@
     },
     {
       "question_number": "10(a)(i)",
+<<<<<<< HEAD
       "question_text": "Tina picks one ball at random, notes the colour and replaces it in the bag. Find the probability that Tina picks a red ball.",
+=======
+      "question_text": "A bag contains 5 red balls, 4 blue balls and 3 green balls. Tina picks one ball at random, notes the colour and replaces it in the bag. Find the probability that Tina picks a red ball.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "probability"
     },
@@ -296,7 +390,11 @@
     },
     {
       "question_number": "10(b)(ii)",
+<<<<<<< HEAD
       "question_text": "Eli picks two balls at random without replacement. Find the probability that one ball is red and one ball is blue.",
+=======
+      "question_text": "Find the probability that one ball is red and one ball is blue.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "probability"
     },
@@ -314,7 +412,11 @@
     },
     {
       "question_number": "11(b)(i)",
+<<<<<<< HEAD
       "question_text": "Show that 5 / (2x - 3) - 7 / (4 - x) = 2 leads to 4x^2 - 41x + 65 = 0.",
+=======
+      "question_text": "5 / (2x - 3) - 7 / (4 - x) = 2. Show that 4x^2 - 41x + 65 = 0.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "solving quadratic equations"
     },

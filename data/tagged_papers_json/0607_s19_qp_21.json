@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Work out (0.3)^2",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Work out 4/9 - 1/6",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Divide 360 in the ratio 7 : 2.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "ABC is a triangle. FED and BCD are straight lines. Work out angle EDC.",
+      "marks_available": "[2]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "4",
+      "question_text": "Expand and simplify. 4(3x + y) - 3(x - 2y)",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "Sacha drove 425 km from home at an average speed of 100 km/h. Calculate the time for the journey giving your answer in hours and minutes.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "The return journey took 3 hours and 55 minutes. She started at 21 56. At what time did she arrive home?",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Write down the integer solutions to this inequality. -2 <= 2x < 8",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Solve 2 + 2x > 5x + 14.",
+      "marks_available": "[2]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "7",
+      "question_text": "Work out (5.2 * 10^18) - (2.4 * 10^17). Give your answer in standard form.",
+      "marks_available": "[2]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "A map is drawn to a scale of 1 cm to 5 km. On the map, the distance between two towns is 4.8 cm. Find the actual distance between the towns.",
+      "marks_available": "[1]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "An island has an area of 75 km^2. Find the area of the island on the map.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "9",
+      "question_text": "Factorise completely. 2x^2 - 18",
+      "marks_available": "[2]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "U = {integers from 1 to 12}, A = {1, 2, 4, 5, 12}, B = {2, 3, 4, 6, 10}, C = {1, 2, 8, 9, 10}. Complete the Venn Diagram.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Find n(A cap (B union C)').",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "The point A has co-ordinates (3, 8). The point B has co-ordinates (7, 0). Find the co-ordinates of the midpoint of AB.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the equation of the perpendicular bisector of AB. Write your answer in the form y = mx + c.",
+      "marks_available": "[3]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "12",
+      "question_text": "The sector and the circle have the same area. The angle of the sector is 60 degrees. The radius of the sector is 12 cm and the radius of the circle is r cm. Work out the value of r. Give your answer as a surd in its simplest form.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "13",
+      "question_text": "Rearrange this formula to make b the subject. A = ((a + b)/2) * h",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Find the value of log_{25} 5.",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Simplify log 63 - 2 log 3.",
+      "marks_available": "[2]",
+      "topic": "logarithms"
+    }
+  ]
+}

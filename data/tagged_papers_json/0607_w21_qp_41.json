@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Amir invests his $1500 in an account which pays compound interest. The interest rate is 3% per year for 5 years, after which it is 2% per year. Find the value of Amir's investment at the end of 11 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Bibi invests her $1500 in an account which pays r% per year simple interest. At the end of 11 years, the investment is worth $1962. Calculate the value of r.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(c)",
+      "question_text": "Caitlyn invests her $1500 in an account which pays t% per year compound interest. At the end of 11 years, the investment is worth $1968.13. Calculate the value of t.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)(i)",
+      "question_text": "A transformation maps triangle A onto triangle B. Triangle A is congruent to triangle B. Tick all the possible transformations it could be.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(ii)",
+      "question_text": "A transformation maps triangle C onto triangle D. The angles of triangle C are the same as the corresponding angles of triangle D. Tick all the possible transformations it could be.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(a)(iii)",
+      "question_text": "A transformation maps triangle E onto triangle F. Triangle F has a larger area than triangle E. Tick all the possible transformations it could be.",
+      "marks_available": "[1]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(i)",
+      "question_text": "Describe fully the single transformation that maps triangle P onto triangle Q.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "2(b)(ii)",
+      "question_text": "Stretch triangle P with the x-axis invariant and scale factor 2.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Complete the scatter diagram. The first five points have been plotted for you.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(b)",
+      "question_text": "What type of correlation is shown in the scatter diagram?",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Find the equation of the regression line for h in terms of d.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(d)",
+      "question_text": "Use your regression line to estimate the height of a plant that was planted 28 days ago.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "3(e)",
+      "question_text": "A plant was planted 140 days ago. Explain why you should not use the equation of the regression line to estimate the height of this plant.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(i)",
+      "question_text": "When x represents the number of emails Essa receives each day, find the median,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(ii)",
+      "question_text": "When x represents the number of emails Essa receives each day, find the range,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(iii)",
+      "question_text": "When x represents the number of emails Essa receives each day, find the upper quartile,",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(a)(iv)",
+      "question_text": "When x represents the number of emails Essa receives each day, find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "When x represents the height of a seedling, correct to the nearest centimetre, explain why you cannot work out the range of the heights.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Write down the equation of each asymptote parallel to the y-axis.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Write down the coordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(d)",
+      "question_text": "Find the range of values of x for which the gradient of f(x) is negative.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(e)",
+      "question_text": "Solve f(x) = -x.",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Draw a cumulative frequency curve to show these results.",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Use your curve to find the interquartile range.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "6(c)",
+      "question_text": "Apples with a mass below 80 g are used to make drinks. Find the percentage of the 300 apples that are used to make drinks.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "The nth term of a sequence is \\frac{n(n+1)(2n+1)}{6}. Find the first three terms of this sequence.",
+      "marks_available": "[2]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "For the sequence 11, 8, 5, 2: find the next two terms, and find an expression for the nth term.",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "For the sequence -2, -2, 0, 4, 10, 18: find the next two terms, and find an expression for the nth term.",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "7(b)(iii)",
+      "question_text": "For the sequence 3, 5, 9, 17, 33: find the next two terms, and find an expression for the nth term.",
+      "marks_available": "[3]",
+      "topic": "sequences"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Calculate the volume of the prism.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Calculate the total surface area of the prism.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "8(c)",
+      "question_text": "Calculate the length AF.",
+      "marks_available": "[3]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "8(d)",
+      "question_text": "Calculate angle FAC.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(e)",
+      "question_text": "The volume of a mathematically similar prism is 445.5 cm3. Calculate the total surface area of this similar prism.",
+      "marks_available": "[3]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Use substitution to show that the x-coordinates of the points A and B satisfy the equation 10x^2 + 6x - 15 = 0.",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "9(b)",
+      "question_text": "Solve the equation 10x^2 + 6x - 15 = 0 to find the coordinates of the points A and B. Show your working and give your answers correct to 2 decimal places.",
+      "marks_available": "[4]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Find f(g(1)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Solve g(x) = 25.",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Find f^{-1}(4).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "Write down f(f^{-1}(x)).",
+      "marks_available": "[1]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "Show that angle ABC = 107.2° correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)(i)",
+      "question_text": "The bearing of B from A is 305°. Using the sine rule, show that angle BAC = 44.4° correct to 1 decimal place.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(b)(ii)",
+      "question_text": "Find the bearing of C from A.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11(c)",
+      "question_text": "A ship leaves A at 22 50 and sails at a constant speed of 24 km/h towards C. Calculate the time, correct to the nearest minute, when the ship is nearest to B.",
+      "marks_available": "[5]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "12(a)(i)",
+      "question_text": "For each Venn diagram, shade the given set.",
+      "marks_available": "[2]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "12(a)(ii)",
+      "question_text": "Use set language to describe the shaded set.",
+      "marks_available": "[1]",
+      "topic": "sets and Venn diagrams"
+    },
+    {
+      "question_number": "12(b)(i)",
+      "question_text": "Two of the 40 people are chosen at random. Find the probability that they both watch exactly 2 of the 3 programmes.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(b)(ii)",
+      "question_text": "Two of the people who watch programme P are chosen at random. Find the probability that one of them watches both other programmes and one watches just one of the other programmes.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "12(b)(iii)",
+      "question_text": "Three of the 40 people are chosen at random. Find the probability that two of them watch only programme Q and one of them watches only programme R.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "Rearrange y = \\frac{ax+b}{ex+f} to make x the subject.",
+      "marks_available": "[4]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "13(b)(i)",
+      "question_text": "Write down the amplitude and the period of f(x).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "13(b)(ii)",
+      "question_text": "The graph of y = f(x) is stretched with the x-axis invariant and scale factor 3 to give the graph of y = g(x). Find g(x).",
+      "marks_available": "[1]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "13(b)(iii)",
+      "question_text": "The graph of y = f(x) is translated through \\begin{pmatrix} -90 \\\\ 0 \\end{pmatrix} to give the graph of y = h(x). Find h(x), giving your answer in its simplest form.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    }
+  ]
+}

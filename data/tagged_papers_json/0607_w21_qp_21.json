@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "Write 4347849 correct to the nearest ten thousand.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "Write 0.0040243 correct to 2 significant figures.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "From this list [90, 91, 92, 93, 94, 95, 96, 97, 98, 99], write down a prime number,",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "From this list [90, 91, 92, 93, 94, 95, 96, 97, 98, 99], write down a common multiple of 4 and 6.",
+      "marks_available": "[1]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "3",
+      "question_text": "Draw all the lines of symmetry on each of these shapes.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4",
+      "question_text": "The table shows the percentage of students in each of three classes who study physics, chemistry and biology. Class H: P=34, C=28, B=38. Class J: P=24, C=18, B=58. Class K: P=46, C=32, B=22. Complete the compound bar chart to show this information.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "5",
+      "question_text": "Solve 2(4x - 1) = 3(2x + 1).",
+      "marks_available": "[3]",
+      "topic": "solving linear equations"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Write 0.0000586 in standard form.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(b)(i)",
+      "question_text": "(2 × 10^a) ÷ (8 × 10^b) = k × 10^n where 1 ≤ k < 10. Find the value of k.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "6(b)(ii)",
+      "question_text": "(2 × 10^a) ÷ (8 × 10^b) = k × 10^n where 1 ≤ k < 10. Write an expression for n in terms of a and b.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Mia carries out a survey in a school to find out what students will do when they leave school. University: 112, Job: 43, Training: 27, Travelling: 18, Total: 200. Find the relative frequency of university.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "There are 1600 students in this school. Explain why the result in part (a) is a reasonable estimate of the probability that a student from this school will go to university.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "There are 1600 students in this school. Calculate an estimate for the number of students in this school who will go travelling.",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Solve the simultaneous equations. 3x - 2y = 12, 5x + y = 7",
+      "marks_available": "[3]",
+      "topic": "simultaneous equations"
+    },
+    {
+      "question_number": "9",
+      "question_text": "y varies inversely as the square of (x + 2). When x = 4, y = 0.5. Find y in terms of x.",
+      "marks_available": "[2]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10",
+      "question_text": "The diagram shows a sector of a circle with radius 6 cm and sector angle 30°. The area of the shaded segment is (aπ - b) cm^2. Find the value of a and the value of b.",
+      "marks_available": "[3]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "11",
+      "question_text": "In this question all lengths are in centimetres. Find the value of x^2. Give your answer in the form a + b√3 where a and b are integers.",
+      "marks_available": "[4]",
+      "topic": "Pythagoras"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "The diagram shows the lines y = 1/2 x + 1, y = 3x and 3x + 4y = 12. These lines divide the space into 7 regions, A, B, C, D, E, F, and G. Write down the letter of the region which is defined by y ≤ 1/2 x + 1, y ≤ 3x and 3x + 4y ≤ 12,",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "The diagram shows the lines y = 1/2 x + 1, y = 3x and 3x + 4y = 12. These lines divide the space into 7 regions, A, B, C, D, E, F, and G. Write down the letter of the region which is defined by y ≥ 1/2 x + 1, y ≥ 3x and 3x + 4y ≤ 12.",
+      "marks_available": "[1]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "13",
+      "question_text": "The equation of the curve is y = ax^2 + bx - 12. Find the value of a and the value of b.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "14(a)",
+      "question_text": "Solve log_3 x = 4",
+      "marks_available": "[1]",
+      "topic": "logarithms"
+    },
+    {
+      "question_number": "14(b)",
+      "question_text": "Solve 2 log x - 3 log 2 = log 50",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    }
+  ]
+}

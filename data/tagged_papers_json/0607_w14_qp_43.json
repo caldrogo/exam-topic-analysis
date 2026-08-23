@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "One year Sami paid 18% of his earnings in tax. After paying tax he had $65 600. How much did Sami earn before paying tax?",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(i)",
+      "question_text": "Sami invests in an account that gives 4% interest in the first year, 3% interest in the second year and 2% in any year after that. Calculate the value of Sami’s investment after 3 years.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "1(b)(ii)",
+      "question_text": "Jennie’s investment gives 2.5% compound interest each year. After 5 years, how much more is the value of Sami’s investment than Jennie’s?",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "2(a)",
+      "question_text": "C is the midpoint of AB. Find the co-ordinates of C.",
+      "marks_available": "[1]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "2(b)",
+      "question_text": "Find the equation of the line, through C, perpendicular to AB.",
+      "marks_available": "[4]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "2(c)",
+      "question_text": "The line AB meets the y-axis at P. The line in part (b) meets the y-axis at Q. Find the distance PQ.",
+      "marks_available": "[2]",
+      "topic": "straight lines"
+    },
+    {
+      "question_number": "3(a)",
+      "question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+      "marks_available": "[3]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)(i)",
+      "question_text": "Enlarge triangle A with scale factor –2 and centre (3, 2). Label the image C.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(b)(ii)",
+      "question_text": "Describe fully the single transformation that maps triangle C onto triangle A.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "3(c)",
+      "question_text": "Stretch triangle B with stretch factor 2 and y-axis invariant. Label the image D.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "Calculate angle ACO and show that it rounds to 36.87° correct to 2 decimal places.",
+      "marks_available": "[2]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "Calculate the area of the sector CAB.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(c)",
+      "question_text": "Calculate the area of the sector OAC.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(d)",
+      "question_text": "Calculate the area of the triangle OAC.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "4(e)",
+      "question_text": "Using your answers to parts (b), (c) and (d), calculate the area of the shaded region.",
+      "marks_available": "[2]",
+      "topic": "mensuration"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) where f(x) = 3 + 5x – x^3 for –3 <= x <= 3.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "Find the zeros of f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(c)",
+      "question_text": "Find the co-ordinates of the local minimum.",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(d)(i)",
+      "question_text": "Solve the equation f(x) = g(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "5(d)(ii)",
+      "question_text": "Write down the range of values of x for which f(x) > g(x).",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "6(a)",
+      "question_text": "Calculate the surface area of the smallest doll.",
+      "marks_available": "[2]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "6(b)",
+      "question_text": "Calculate the volume of the largest doll.",
+      "marks_available": "[4]",
+      "topic": "similarity"
+    },
+    {
+      "question_number": "7(a)(i)",
+      "question_text": "Find AB in terms of a and b.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(a)(ii)",
+      "question_text": "Find OD in terms of a and b.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(a)(iii)",
+      "question_text": "Find OP in terms of a and b. Write your answer as simply as possible.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(b)(i)",
+      "question_text": "Find AE in terms of a and b.",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(b)(ii)",
+      "question_text": "Find OQ in terms of a and b. Write your answer as simply as possible.",
+      "marks_available": "[2]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "7(c)",
+      "question_text": "From your answers to parts (a)(iii) and (b)(ii), what can you say about the points P and Q?",
+      "marks_available": "[1]",
+      "topic": "vectors"
+    },
+    {
+      "question_number": "8(a)",
+      "question_text": "Show that angle ABC = 35°.",
+      "marks_available": "[1]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)(i)",
+      "question_text": "Calculate the distance the ship sails from C to A.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(b)(ii)",
+      "question_text": "Calculate the bearing on which the ship sails from C to A.",
+      "marks_available": "[4]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "8(c)(i)",
+      "question_text": "Calculate the total time for the journey. Give your answer in hours and minutes.",
+      "marks_available": "[3]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "8(c)(ii)",
+      "question_text": "Find the average speed for the whole journey.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "9(a)",
+      "question_text": "Complete the probability tree diagram.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)(i)",
+      "question_text": "Find the probability that both balls are yellow,",
+      "marks_available": "[2]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(b)(ii)",
+      "question_text": "Find the probability that the two balls are different colours.",
+      "marks_available": "[3]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "9(c)",
+      "question_text": "Write down the probability that the second ball is red.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "10(a)",
+      "question_text": "Complete the frequency table using the information in the histogram.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(b)",
+      "question_text": "Calculate an estimate of the mean height of the plants in soil A.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(c)",
+      "question_text": "Complete the cumulative frequency table for the heights of the plants in soil A.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(d)",
+      "question_text": "The graph opposite shows the cumulative frequency curve for the heights of the plants in soil B. Using the same grid, draw the cumulative frequency curve for the heights of the plants in soil A.",
+      "marks_available": "[3]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(e)(i)",
+      "question_text": "In which soil is the median height greater? Show how you decide.",
+      "marks_available": "[1]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(e)(ii)",
+      "question_text": "In which soil do the heights of the plants have a greater inter-quartile range and by how much?",
+      "marks_available": "[4]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "10(f)",
+      "question_text": "Estimate the number of plants in soil B with a height greater than 85 cm.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "11(a)",
+      "question_text": "On the diagram, sketch the graph of y = f(x) between x = –8 and x = 8.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(b)",
+      "question_text": "Find the range of f(x) when x >= 1.",
+      "marks_available": "[3]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "11(c)(i)",
+      "question_text": "Write down the equations of the three asymptotes of the graph of y = f(x).",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "11(c)(ii)",
+      "question_text": "Write down the equations of the asymptotes of the graph of y = f(x + 3).",
+      "marks_available": "[2]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "Show that the area of the field, A m^2, is given by A = 100x – 2x^2.",
+      "marks_available": "[2]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "Find the width of the field when the area is 900 m^2.",
+      "marks_available": "[3]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "12(c)",
+      "question_text": "Find the maximum area of the field.",
+      "marks_available": "[1]",
+      "topic": "solving quadratic equations"
+    },
+    {
+      "question_number": "12(d)",
+      "question_text": "Another farmer uses 100 m of fencing to make a circular field. Find the area of this field.",
+      "marks_available": "[4]",
+      "topic": "mensuration"
+    }
+  ]
+}

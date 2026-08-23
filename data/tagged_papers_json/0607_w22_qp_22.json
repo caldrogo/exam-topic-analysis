@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question_number": "1(a)",
+      "question_text": "These are the scores of 10 students in a test: 7 15 9 4 16 6 8 11 12 10. Find the median.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "1(b)",
+      "question_text": "These are the scores of 10 students in a test: 7 15 9 4 16 6 8 11 12 10. Find the mean.",
+      "marks_available": "[2]",
+      "topic": "statistics"
+    },
+    {
+      "question_number": "2",
+      "question_text": "A regular polygon has 24 sides. Find the size of each interior angle of the polygon.",
+      "marks_available": "[3]",
+      "topic": "angles"
+    },
+    {
+      "question_number": "3",
+      "question_text": "P = 2a + b^2 - 3c. Find P when a = 5, b = -4 and c = -3.",
+      "marks_available": "[2]",
+      "topic": "topics in arithmetic"
+    },
+    {
+      "question_number": "4(a)",
+      "question_text": "You are given that \\sqrt{7} = 2.65 and \\sqrt{70} = 8.37, each correct to 2 decimal places. Use this information to find the value of \\sqrt{700}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "4(b)",
+      "question_text": "You are given that \\sqrt{7} = 2.65 and \\sqrt{70} = 8.37, each correct to 2 decimal places. Use this information to find the value of \\sqrt{280}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "5(a)",
+      "question_text": "A biased 5-sided spinner is spun 200 times. The results are shown in the table (Number: 1, 2, 3, 4, 5; Frequency: 24, 48, 63, 38, 27). Find the relative frequency of the spinner landing on 2.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "5(b)",
+      "question_text": "A biased 5-sided spinner is spun 200 times. The results are shown in the table (Number: 1, 2, 3, 4, 5; Frequency: 24, 48, 63, 38, 27). The spinner is spun 1000 times. Find the expected number of times that the spinner lands on 2.",
+      "marks_available": "[1]",
+      "topic": "probability"
+    },
+    {
+      "question_number": "6",
+      "question_text": "Solve 2x + 6 > 5x - 10.",
+      "marks_available": "[2]",
+      "topic": "inequalities"
+    },
+    {
+      "question_number": "7(a)",
+      "question_text": "Describe fully the inverse of each transformation. Translation by matrix \\begin{pmatrix} -2 \\\\ 5 \\end{pmatrix}.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "7(b)",
+      "question_text": "Describe fully the inverse of each transformation. Enlargement with centre (2, 3) and scale factor 2.",
+      "marks_available": "[2]",
+      "topic": "transformations"
+    },
+    {
+      "question_number": "8",
+      "question_text": "Find the value of 125^{-\\frac{1}{3}}.",
+      "marks_available": "[1]",
+      "topic": "exponents and surds"
+    },
+    {
+      "question_number": "9",
+      "question_text": "y is inversely proportional to x^3. When x = 5, y = 2. Find y when x = 10.",
+      "marks_available": "[3]",
+      "topic": "variation and proportion"
+    },
+    {
+      "question_number": "10",
+      "question_text": "Find the value of x in the right-angled triangle with angle 60° and opposite side 2\\sqrt{3} cm and adjacent side x cm.",
+      "marks_available": "[3]",
+      "topic": "trigonometry"
+    },
+    {
+      "question_number": "11",
+      "question_text": "Simplify \\frac{ax^2 + 5ax + bx + 5b}{x^2 - 25}.",
+      "marks_available": "[3]",
+      "topic": "expanding and factorising"
+    },
+    {
+      "question_number": "12(a)",
+      "question_text": "f(x) = 11x + 2, g(x) = \\sin x° . Find f^{-1}(x).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "12(b)",
+      "question_text": "f(x) = 11x + 2, g(x) = \\sin x° . Find g(f(8)).",
+      "marks_available": "[2]",
+      "topic": "functions"
+    },
+    {
+      "question_number": "13(a)",
+      "question_text": "A, B, C and D are points on the circle. PQ is a tangent to the circle at D. Angle BDQ = 55°. Complete these statements giving a reason for each answer: Angle BAD = ... because ...",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "13(b)",
+      "question_text": "A, B, C and D are points on the circle. PQ is a tangent to the circle at D. Angle BDQ = 55°. Complete these statements giving a reason for each answer: Angle BCD = ... because ...",
+      "marks_available": "[2]",
+      "topic": "circle theorems"
+    },
+    {
+      "question_number": "14",
+      "question_text": "4 \\log y + 3 \\log x = 2. Find y in terms of x.",
+      "marks_available": "[3]",
+      "topic": "logarithms"
+    }
+  ]
+}

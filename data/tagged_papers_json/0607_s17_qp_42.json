@@ -74,13 +74,21 @@
     },
     {
       "question_number": "4(a)(i)",
+<<<<<<< HEAD
       "question_text": "Find the column vector 1/2 p.",
+=======
+      "question_text": "Find the column vector 1/2 p",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "vectors"
     },
     {
       "question_number": "4(a)(ii)",
+<<<<<<< HEAD
       "question_text": "Find the column vector q − 2p.",
+=======
+      "question_text": "Find the column vector q - 2p",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "vectors"
     },
@@ -140,13 +148,21 @@
     },
     {
       "question_number": "6(b)(i)",
+<<<<<<< HEAD
       "question_text": "Using your answer to part (a)(iii), show that 125 = 2c + 24k.",
+=======
+      "question_text": "Using your answer to part (a)(iii), show that 125 = 2c + 24k,",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "variation and proportion"
     },
     {
       "question_number": "6(b)(ii)",
+<<<<<<< HEAD
       "question_text": "Write down a second equation connecting c and k.",
+=======
+      "question_text": "write down a second equation connecting c and k.",
+>>>>>>> auto_run_analysis
       "marks_available": "[1]",
       "topic": "variation and proportion"
     },
@@ -188,6 +204,7 @@
     },
     {
       "question_number": "8(a)",
+<<<<<<< HEAD
       "question_text": "Sketch the graph of y = f(x) for -400° ≤ x ≤ 600° where f(x) = 3^{sin x}.",
       "marks_available": "[3]",
       "topic": "functions"
@@ -197,12 +214,27 @@
       "question_text": "Find the x coordinates of the local maximum points of f(x) for -400° ≤ x ≤ 600°.",
       "marks_available": "[3]",
       "topic": "functions"
+=======
+      "question_text": "f(x) = 3^sin x. Sketch the graph of y = f(x) for -400° <= x <= 600°.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+    },
+    {
+      "question_number": "8(b)",
+      "question_text": "Find the x co-ordinates of the local maximum points of f(x) for -400° <= x <= 600°.",
+      "marks_available": "[3]",
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "8(c)",
       "question_text": "The point (30, \\sqrt{3}) is on the graph. The point (a, \\sqrt{3}) is also on the graph where 600° < a < 900°. Find the two possible values of a.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "functions"
+=======
+      "topic": "graphing functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "8(d)",
@@ -220,7 +252,11 @@
       "question_number": "9(a)(ii)",
       "question_text": "The area of triangle ABC = 18\\sqrt{3} cm^2. Show that x^2 + 2x - 72 = 0.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "expanding and factorising"
+=======
+      "topic": "solving quadratic equations"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "9(b)(i)",
@@ -236,13 +272,21 @@
     },
     {
       "question_number": "10(a)(i)",
+<<<<<<< HEAD
       "question_text": "A is the point (2, 2), B is the point (11, 4) and C is the point (14, 8). Find the equation, in the form y = mx + c, of the line AC.",
+=======
+      "question_text": "A is the point (2, 2), B is the point (11, 4) and C is the point (14, 8). Find the equation, in the form y = mx + c, of the line AC,",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "straight lines"
     },
     {
       "question_number": "10(a)(ii)",
+<<<<<<< HEAD
       "question_text": "Find the equation, in the form y = mx + c, of the line through B that is perpendicular to AC.",
+=======
+      "question_text": "the line through B that is perpendicular to AC.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "straight lines"
     },
@@ -278,13 +322,21 @@
     },
     {
       "question_number": "11(c)(i)",
+<<<<<<< HEAD
       "question_text": "Two of the 170 grapefruit are chosen at random. Calculate the probability that they are both Very Large.",
+=======
+      "question_text": "Two of the 170 grapefruit are chosen at random. Calculate the probability that they are both Very Large,",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "probability"
     },
     {
       "question_number": "11(c)(ii)",
+<<<<<<< HEAD
       "question_text": "Calculate the probability that one is Small and the other is Medium.",
+=======
+      "question_text": "one is Small and the other is Medium.",
+>>>>>>> auto_run_analysis
       "marks_available": "[3]",
       "topic": "probability"
     },
@@ -304,7 +356,11 @@
       "question_number": "12(c)",
       "question_text": "Find x when f(x) = -10.",
       "marks_available": "[2]",
+<<<<<<< HEAD
       "topic": "solving linear equations"
+=======
+      "topic": "functions"
+>>>>>>> auto_run_analysis
     },
     {
       "question_number": "12(d)",
@@ -314,7 +370,11 @@
     },
     {
       "question_number": "12(e)",
+<<<<<<< HEAD
       "question_text": "Find f^{-1}(x).",
+=======
+      "question_text": "Find f^-1(x).",
+>>>>>>> auto_run_analysis
       "marks_available": "[2]",
       "topic": "functions"
     },
