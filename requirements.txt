@@ -4,3 +4,7 @@ numpy==2.5.2
 pandas==3.0.5
 
 plotly.express==0.4.1
+
+pydantic==2.13.4
+
+google==2.7.1
