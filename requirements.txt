@@ -7,4 +7,4 @@ plotly.express==0.4.1
 
 pydantic==2.13.4
 
-google-genai==2.18.1
+google.genai==2.18.1
